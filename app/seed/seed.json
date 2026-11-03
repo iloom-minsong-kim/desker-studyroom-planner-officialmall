@@ -1,0 +1,7454 @@
+{
+ "products": [
+  {
+   "unit": "세트",
+   "cat": "책상",
+   "code": "DSAD012",
+   "name": "W1200*D800 베이직데스크",
+   "naver_url": "",
+   "price": 167000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상",
+   "code": "DSAD014",
+   "name": "W1400*D800 베이직데스크",
+   "naver_url": "",
+   "price": 191000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상",
+   "code": "DSAD016",
+   "name": "W1600*D800 베이직데스크",
+   "naver_url": "",
+   "price": 223000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상",
+   "code": "DSAD212",
+   "name": "W1200*D590 베이직데스크",
+   "naver_url": "",
+   "price": 144000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상",
+   "code": "DSAD214",
+   "name": "W1400*D590 베이직데스크",
+   "naver_url": "",
+   "price": 168000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상",
+   "code": "DSAD410",
+   "name": "W1000*D390 베이직데스크",
+   "naver_url": "",
+   "price": 131000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상",
+   "code": "DSAD608",
+   "name": "W800*D590 베이직데스크",
+   "naver_url": "",
+   "price": 126000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상",
+   "code": "DSAD610P",
+   "name": "W1000*D590 노트북데스크",
+   "naver_url": "https://brand.naver.com/desker/products/4519116070",
+   "price": 202000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상",
+   "code": "DSAD612P",
+   "name": "W1200*D590 노트북데스크",
+   "naver_url": "https://brand.naver.com/desker/products/4571633438",
+   "price": 222000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상",
+   "code": "DSAD614P",
+   "name": "W1400*D590 노트북데스크",
+   "naver_url": "https://brand.naver.com/desker/products/5040039383",
+   "price": 233000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상",
+   "code": "DSDAB0806",
+   "name": "W800*D600 집중형데스크",
+   "naver_url": "",
+   "price": 249000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상",
+   "code": "DSDAB0806EG",
+   "name": "W800*D600 집중형데스크(펠트,조명)",
+   "naver_url": "",
+   "price": 379000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상",
+   "code": "DSDAB0806G",
+   "name": "W800*D600 집중형데스크(조명)",
+   "naver_url": "",
+   "price": 311000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상",
+   "code": "DSDBB1206",
+   "name": "W1200*D590 컴퓨터데스크 2.0",
+   "naver_url": "",
+   "price": 169000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상",
+   "code": "DSDBB1207",
+   "name": "W1200*D700 컴퓨터데스크2.0",
+   "naver_url": "",
+   "price": 181000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상",
+   "code": "DSDBB1407",
+   "name": "W1400*D700 컴퓨터데스크2.0",
+   "naver_url": "",
+   "price": 207000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상",
+   "code": "DSDBB1408",
+   "name": "W1400*D800 컴퓨터데스크2.0",
+   "naver_url": "",
+   "price": 215000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상",
+   "code": "DSDBB1607",
+   "name": "W1600*D700 컴퓨터데스크2.0",
+   "naver_url": "",
+   "price": 219000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상",
+   "code": "DSDBB1608",
+   "name": "W1600*D800 컴퓨터데스크2.0",
+   "naver_url": "",
+   "price": 227000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상",
+   "code": "DSDBB1808",
+   "name": "W1800*D800 컴퓨터데스크2.0",
+   "naver_url": "",
+   "price": 259000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상",
+   "code": "DSDCB1207",
+   "name": "W1200*D700 하부가림판데스크2.0",
+   "naver_url": "",
+   "price": 221000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상",
+   "code": "DSDCB1407",
+   "name": "W1400*D700 하부가림판데스크2.0",
+   "naver_url": "",
+   "price": 252000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상",
+   "code": "DSDCB1607",
+   "name": "W1600*D700 하부가림판데스크2.0",
+   "naver_url": "",
+   "price": 272000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상",
+   "code": "DSDCB1808",
+   "name": "W1800*D800 하부가림판데스크2.0",
+   "naver_url": "",
+   "price": 310000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상",
+   "code": "DSDDB1407",
+   "name": "W1400*D700 멀티데스크",
+   "naver_url": "",
+   "price": 297000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상",
+   "code": "DSDDB1407J",
+   "name": "W1400*D700 멀티데스크(디바이더)",
+   "naver_url": "",
+   "price": 383000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상",
+   "code": "DSDDB1607",
+   "name": "W1600*D700 멀티데스크",
+   "naver_url": "",
+   "price": 300000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상",
+   "code": "DSDDB1607J",
+   "name": "W1600*D700 멀티데스크(디바이더)",
+   "naver_url": "",
+   "price": 391000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상",
+   "code": "DSDDB1608",
+   "name": "W1600*D800 멀티데스크",
+   "naver_url": "",
+   "price": 303000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상",
+   "code": "DSDDB1608J",
+   "name": "W1600*D800 멀티데스크(디바이더)",
+   "naver_url": "",
+   "price": 394000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상",
+   "code": "DSDDB1808",
+   "name": "W1800*D800 멀티데스크",
+   "naver_url": "",
+   "price": 307000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상",
+   "code": "DSDDB1808J",
+   "name": "W1800*D800 멀티데스크(디바이더)",
+   "naver_url": "",
+   "price": 403000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상",
+   "code": "DSDHA1206M",
+   "name": "W1200*D590 베이직데스크 이동형",
+   "naver_url": "",
+   "price": 152000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상",
+   "code": "DSDHA1407M",
+   "name": "W1400*D700 베이직데스크 이동형",
+   "naver_url": "",
+   "price": 182000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상",
+   "code": "DSDHA1608M",
+   "name": "W1600*D800 베이직데스크 이동형",
+   "naver_url": "",
+   "price": 232000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상세트",
+   "code": "DSCJ025ALSN",
+   "name": "(벽고정)W1200 5단 책상세트(조명,상부도어)",
+   "naver_url": "",
+   "price": 790000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상세트",
+   "code": "DSCJ025AN",
+   "name": "W1200 5단 책상세트",
+   "naver_url": "",
+   "price": 555000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상세트",
+   "code": "DSCJ025N",
+   "name": "W1200 5단 책상세트(자석보드 제외)",
+   "naver_url": "",
+   "price": 519000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상세트",
+   "code": "DSCJ026A",
+   "name": "W1200 6단 책상세트",
+   "naver_url": "",
+   "price": 589000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상세트",
+   "code": "DSCJ026ALS",
+   "name": "(벽고정)W1200 6단 책상세트(조명,상부도어)",
+   "naver_url": "",
+   "price": 824000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상세트",
+   "code": "DSCJ045A",
+   "name": "W1400 5단 책상세트",
+   "naver_url": "",
+   "price": 653000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상세트",
+   "code": "DSCJ045ALS",
+   "name": "(벽고정)W1400 5단 책상세트(조명,상부도어)",
+   "naver_url": "",
+   "price": 907000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상세트",
+   "code": "DSCJ046A",
+   "name": "W1400 6단 책상세트",
+   "naver_url": "",
+   "price": 714000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상세트",
+   "code": "DSCJ046ALS",
+   "name": "(벽고정)W1400 6단 책상세트(조명,상부도어)",
+   "naver_url": "",
+   "price": 968000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상세트",
+   "code": "DSCJ065",
+   "name": "W1490 5단 h형책상세트",
+   "naver_url": "https://brand.naver.com/desker/products/6148123359",
+   "price": 351000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상세트",
+   "code": "DSCJ065S",
+   "name": "(벽고정)W1490 5단 h형책상세트(상부도어)",
+   "naver_url": "https://brand.naver.com/desker/products/6148127823",
+   "price": 403000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상세트",
+   "code": "DSCJ125ALN",
+   "name": "W1200 5단 책상세트 콘센트형(조명)",
+   "naver_url": "https://brand.naver.com/desker/products/13656417160",
+   "price": 783000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상세트",
+   "code": "DSCJ125ALSN",
+   "name": "(벽고정)W1200 5단 책상세트 콘센트형(조명,상부도어)",
+   "naver_url": "https://brand.naver.com/desker/products/10790966321",
+   "price": 868000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상세트",
+   "code": "DSCJ125AN",
+   "name": "W1200 5단 책상세트 콘센트형",
+   "naver_url": "https://brand.naver.com/desker/products/13656355763",
+   "price": 633000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상세트",
+   "code": "DSCJ126A",
+   "name": "W1200 6단 책상세트 콘센트형",
+   "naver_url": "https://brand.naver.com/desker/products/13656410177",
+   "price": 667000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상세트",
+   "code": "DSCJ126AL",
+   "name": "W1200 6단 책상세트 콘센트형(조명)",
+   "naver_url": "https://brand.naver.com/desker/products/13656454712",
+   "price": 817000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상세트",
+   "code": "DSCJ126ALS",
+   "name": "(벽고정)W1200 6단 책상세트 콘센트형(조명,상부도어)",
+   "naver_url": "https://brand.naver.com/desker/products/10791159132",
+   "price": 902000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상세트",
+   "code": "DSCJ145A",
+   "name": "W1400 5단 책상세트 콘센트형",
+   "naver_url": "https://brand.naver.com/desker/products/13656412262",
+   "price": 718000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상세트",
+   "code": "DSCJ145AL",
+   "name": "W1400 5단 책상세트 콘센트형(조명)",
+   "naver_url": "https://brand.naver.com/desker/products/13656489013",
+   "price": 868000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상세트",
+   "code": "DSCJ145ALS",
+   "name": "(벽고정)W1400 5단 책상세트 콘센트형(조명,상부도어)",
+   "naver_url": "https://brand.naver.com/desker/products/10791187571",
+   "price": 972000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상세트",
+   "code": "DSCJ146A",
+   "name": "W1400 6단 책상세트 콘센트형",
+   "naver_url": "https://brand.naver.com/desker/products/13656412761",
+   "price": 779000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상세트",
+   "code": "DSCJ146AL",
+   "name": "W1400 6단 책상세트 콘센트형(조명)",
+   "naver_url": "https://brand.naver.com/desker/products/13656489505",
+   "price": 929000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상세트",
+   "code": "DSCJ146ALS",
+   "name": "(벽고정)W1400 6단 책상세트 콘센트형(조명,상부도어)",
+   "naver_url": "https://brand.naver.com/desker/products/4144647046",
+   "price": 1033000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상세트",
+   "code": "DSCJ165",
+   "name": "W1490 5단 h형책상세트 콘센트형",
+   "naver_url": "https://brand.naver.com/desker/products/6148133806",
+   "price": 429000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상세트",
+   "code": "DSCJ165S",
+   "name": "(벽고정)W1490 5단 h형책상세트 콘센트형(상부도어)",
+   "naver_url": "https://brand.naver.com/desker/products/6148136146",
+   "price": 481000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상세트",
+   "code": "DSDEA1201J",
+   "name": "(벽고정)W1200 5단 멀티책상세트(조명, 상부도어)",
+   "naver_url": "",
+   "price": 992000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상세트",
+   "code": "DSDEA1202J",
+   "name": "(벽고정)W1200 6단 멀티책상세트(조명, 상부도어)",
+   "naver_url": "",
+   "price": 1045000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상세트",
+   "code": "DSDEA1401J",
+   "name": "(벽고정)W1400 5단 멀티책상세트(조명, 상부도어)",
+   "naver_url": "https://brand.naver.com/desker/products/9423118914",
+   "price": 1196000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상세트",
+   "code": "DSDEA1402J",
+   "name": "(벽고정)W1400 6단 멀티책상세트(조명, 상부도어)",
+   "naver_url": "https://brand.naver.com/desker/products/9423118946",
+   "price": 1242000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상세트",
+   "code": "DSDEA1601J",
+   "name": "(벽고정)W1600 5단 멀티책상세트(조명, 상부도어)",
+   "naver_url": "https://brand.naver.com/desker/products/9423119039",
+   "price": 1242000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상세트",
+   "code": "DSDEA1602J",
+   "name": "(벽고정)W1600 6단 멀티책상세트(조명, 상부도어)",
+   "naver_url": "https://brand.naver.com/desker/products/9423119059",
+   "price": 1300000
+  },
+  {
+   "unit": "세트",
+   "cat": "모션데스크",
+   "code": "DSDCM1206",
+   "name": "W1180*D590 모션데스크 스마트",
+   "naver_url": "https://brand.naver.com/desker/products/7636823376",
+   "price": 580000
+  },
+  {
+   "unit": "세트",
+   "cat": "모션데스크",
+   "code": "DSDCM1207",
+   "name": "W1200*D700 모션데스크 플러스",
+   "naver_url": "",
+   "price": 651000
+  },
+  {
+   "unit": "세트",
+   "cat": "모션데스크",
+   "code": "DSDCM1406",
+   "name": "W1380*D590 모션데스크 스마트",
+   "naver_url": "https://brand.naver.com/desker/products/7636824220",
+   "price": 594000
+  },
+  {
+   "unit": "세트",
+   "cat": "모션데스크",
+   "code": "DSDCM1407",
+   "name": "W1400*D700 모션데스크 플러스",
+   "naver_url": "",
+   "price": 677000
+  },
+  {
+   "unit": "세트",
+   "cat": "모션데스크",
+   "code": "DSDCM1606",
+   "name": "W1580*D590 모션데스크 스마트",
+   "naver_url": "https://brand.naver.com/desker/products/9579297294",
+   "price": 621000
+  },
+  {
+   "unit": "세트",
+   "cat": "모션데스크",
+   "code": "DSDCM1607",
+   "name": "W1600*D700 모션데스크 플러스",
+   "naver_url": "",
+   "price": 692000
+  },
+  {
+   "unit": "세트",
+   "cat": "모션데스크",
+   "code": "DSDDM1407",
+   "name": "W1400*D700 모션데스크 프리미엄",
+   "naver_url": "",
+   "price": 894000
+  },
+  {
+   "unit": "세트",
+   "cat": "모션데스크",
+   "code": "DSDDM1607",
+   "name": "W1600*D700 모션데스크 프리미엄",
+   "naver_url": "",
+   "price": 933000
+  },
+  {
+   "unit": "세트",
+   "cat": "모션데스크",
+   "code": "DSDDM1807",
+   "name": "W1800*D700 모션데스크 프리미엄",
+   "naver_url": "",
+   "price": 958000
+  },
+  {
+   "unit": "세트",
+   "cat": "모션데스크",
+   "code": "DSDIM1207",
+   "name": "W1190*D700 모션데스크 알파 2.0",
+   "naver_url": "",
+   "price": 586000
+  },
+  {
+   "unit": "세트",
+   "cat": "모션데스크",
+   "code": "DSDIM1407",
+   "name": "W1390*D700 모션데스크 알파 2.0",
+   "naver_url": "",
+   "price": 612000
+  },
+  {
+   "unit": "세트",
+   "cat": "모션데스크",
+   "code": "DSDIM1607",
+   "name": "W1590*D700 모션데스크 알파 2.0",
+   "naver_url": "",
+   "price": 637000
+  },
+  {
+   "unit": "세트",
+   "cat": "모션데스크",
+   "code": "DSDIM1807",
+   "name": "W1790*D700 모션데스크 알파 2.0",
+   "naver_url": "",
+   "price": 662000
+  },
+  {
+   "unit": "세트",
+   "cat": "모션데스크 세트",
+   "code": "DSDCM1201J",
+   "name": "(벽고정)W1200 5단 모션데스크 스마트세트(조명, 상부도어)",
+   "naver_url": "https://brand.naver.com/desker/products/7703806808",
+   "price": 1190000
+  },
+  {
+   "unit": "세트",
+   "cat": "모션데스크 세트",
+   "code": "DSDCM1202J",
+   "name": "(벽고정)W1200 6단 모션데스크 스마트세트(조명, 상부도어)",
+   "naver_url": "https://brand.naver.com/desker/products/7703806509",
+   "price": 1224000
+  },
+  {
+   "unit": "세트",
+   "cat": "모션데스크 세트",
+   "code": "DSDCM1401J",
+   "name": "(벽고정)W1400 5단 모션데스크 스마트세트(조명, 상부도어)",
+   "naver_url": "https://brand.naver.com/desker/products/7703806335",
+   "price": 1297000
+  },
+  {
+   "unit": "세트",
+   "cat": "모션데스크 세트",
+   "code": "DSDCM1402J",
+   "name": "(벽고정)W1400 6단 모션데스크 스마트세트(조명, 상부도어)",
+   "naver_url": "https://brand.naver.com/desker/products/7703806110",
+   "price": 1358000
+  },
+  {
+   "unit": "세트",
+   "cat": "모션데스크 세트",
+   "code": "DSDEM1201J",
+   "name": "(벽고정)W1200 5단 모션데스크 스마트멀티세트(조명, 상부도어)",
+   "naver_url": "",
+   "price": 1428000
+  },
+  {
+   "unit": "세트",
+   "cat": "모션데스크 세트",
+   "code": "DSDEM1202J",
+   "name": "(벽고정)W1200 6단 모션데스크 스마트멀티세트(조명, 상부도어)",
+   "naver_url": "",
+   "price": 1481000
+  },
+  {
+   "unit": "세트",
+   "cat": "모션데스크 세트",
+   "code": "DSDEM1401J",
+   "name": "(벽고정)W1400 5단 모션데스크 스마트멀티세트(조명, 상부도어)",
+   "naver_url": "https://brand.naver.com/desker/products/9579107539",
+   "price": 1622000
+  },
+  {
+   "unit": "세트",
+   "cat": "모션데스크 세트",
+   "code": "DSDEM1402J",
+   "name": "(벽고정)W1400 6단 모션데스크 스마트멀티세트(조명, 상부도어)",
+   "naver_url": "https://brand.naver.com/desker/products/9579110255",
+   "price": 1668000
+  },
+  {
+   "unit": "세트",
+   "cat": "모션데스크 세트",
+   "code": "DSDEM1601J",
+   "name": "(벽고정)W1600 5단 모션데스크 스마트멀티세트(조명, 상부도어)",
+   "naver_url": "https://brand.naver.com/desker/products/9579112730",
+   "price": 1681000
+  },
+  {
+   "unit": "세트",
+   "cat": "모션데스크 세트",
+   "code": "DSDEM1602J",
+   "name": "(벽고정)W1600 6단 모션데스크 스마트멀티세트(조명, 상부도어)",
+   "naver_url": "https://brand.naver.com/desker/products/9579115840",
+   "price": 1739000
+  },
+  {
+   "unit": "단품",
+   "cat": "의자",
+   "code": "DHT1200HF",
+   "name": "올라운드 HF 화이트 의자",
+   "naver_url": "https://brand.naver.com/desker/products/7464394255",
+   "price": 252000
+  },
+  {
+   "unit": "단품",
+   "cat": "의자",
+   "code": "DHT1300HLDA",
+   "name": "데스커 ALL NEW T500HLDA(2023) 화이트쉘, 451M, 그레이",
+   "naver_url": "",
+   "price": 492000
+  },
+  {
+   "unit": "단품",
+   "cat": "의자",
+   "code": "DHT195AD",
+   "name": "링고 2세대 의자(발받침)",
+   "naver_url": "https://brand.naver.com/desker/products/13687842371",
+   "price": 251000
+  },
+  {
+   "unit": "단품",
+   "cat": "의자",
+   "code": "DHT9FEGU",
+   "name": "아이블 의자",
+   "naver_url": "",
+   "price": 238000
+  },
+  {
+   "unit": "세트",
+   "cat": "침대",
+   "code": "DSEAB2201J",
+   "name": "W1100 수납침대 프레임(USB,조명)+B01 미디엄하드 매트리스(SS)",
+   "naver_url": "",
+   "price": 882000
+  },
+  {
+   "unit": "세트",
+   "cat": "침대",
+   "code": "DSEAB2209G",
+   "name": "W1100 수납침대 프레임(USB,조명)",
+   "naver_url": "",
+   "price": 631000
+  },
+  {
+   "unit": "세트",
+   "cat": "옷장",
+   "code": "DSWBB0805",
+   "name": "(벽고정)W800 5단 옷장 서랍형(도어)",
+   "naver_url": "",
+   "price": 481000
+  },
+  {
+   "unit": "세트",
+   "cat": "옷장",
+   "code": "DSWBB0806",
+   "name": "(벽고정)W800 6단 옷장 서랍형(도어)",
+   "naver_url": "",
+   "price": 520000
+  },
+  {
+   "unit": "세트",
+   "cat": "책장",
+   "code": "DSBC085",
+   "name": "W800 5단 목제책장",
+   "naver_url": "",
+   "price": 242000
+  },
+  {
+   "unit": "세트",
+   "cat": "책장",
+   "code": "DSCA0805",
+   "name": "W800 5단 목제깊은책장",
+   "naver_url": "",
+   "price": 255000
+  },
+  {
+   "unit": "세트",
+   "cat": "책장",
+   "code": "DSCAB0605",
+   "name": "W600 5단 목제책장 서랍형",
+   "naver_url": "",
+   "price": 346000
+  },
+  {
+   "unit": "세트",
+   "cat": "책장",
+   "code": "DSCAB0605S",
+   "name": "(벽고정)W600 5단 목제책장 서랍형(상부도어)",
+   "naver_url": "https://brand.naver.com/desker/products/6139504066",
+   "price": 398000
+  },
+  {
+   "unit": "세트",
+   "cat": "책장",
+   "code": "DSCAB0606",
+   "name": "W600 6단 목제책장 서랍형",
+   "naver_url": "",
+   "price": 379000
+  },
+  {
+   "unit": "세트",
+   "cat": "책장",
+   "code": "DSCAB0606S",
+   "name": "(벽고정)W600 6단 목제책장 서랍형(상부도어)",
+   "naver_url": "https://brand.naver.com/desker/products/6139509449",
+   "price": 431000
+  },
+  {
+   "unit": "세트",
+   "cat": "책장",
+   "code": "DSCB0835A",
+   "name": "W800 5단 목제깊은책장(하부도어,잠금장치)",
+   "naver_url": "",
+   "price": 348000
+  },
+  {
+   "unit": "세트",
+   "cat": "책장",
+   "code": "DSCB0855A",
+   "name": "W800 5단 목제깊은책장(도어,잠금장치)",
+   "naver_url": "",
+   "price": 401000
+  },
+  {
+   "unit": "세트",
+   "cat": "책장",
+   "code": "DSCC065N",
+   "name": "W600 5단 목제책장",
+   "naver_url": "",
+   "price": 207000
+  },
+  {
+   "unit": "세트",
+   "cat": "책장",
+   "code": "DSCC065SN",
+   "name": "(벽고정)W600 5단 목제책장(하부도어)",
+   "naver_url": "",
+   "price": 260000
+  },
+  {
+   "unit": "세트",
+   "cat": "책장",
+   "code": "DSCC065SSN",
+   "name": "(벽고정)W600 5단 목제책장(상하부도어)",
+   "naver_url": "https://brand.naver.com/desker/products/6139442491",
+   "price": 312000
+  },
+  {
+   "unit": "세트",
+   "cat": "책장",
+   "code": "DSCC066",
+   "name": "W600 6단 목제책장",
+   "naver_url": "",
+   "price": 208000
+  },
+  {
+   "unit": "세트",
+   "cat": "책장",
+   "code": "DSCC066S",
+   "name": "(벽고정)W600 6단 목제책장(하부도어)",
+   "naver_url": "",
+   "price": 261000
+  },
+  {
+   "unit": "세트",
+   "cat": "책장",
+   "code": "DSCC066SS",
+   "name": "(벽고정)W600 6단 목제책장(상하부도어)",
+   "naver_url": "https://brand.naver.com/desker/products/6139451854",
+   "price": 313000
+  },
+  {
+   "unit": "세트",
+   "cat": "책장",
+   "code": "DSCC465S",
+   "name": "(벽고정)W600 5단 목제책장 하부깊은수납형(하부도어)",
+   "naver_url": "",
+   "price": 266000
+  },
+  {
+   "unit": "세트",
+   "cat": "책장",
+   "code": "DSCC465SS",
+   "name": "(벽고정)W600 5단 목제책장 하부깊은수납형(상하부도어)",
+   "naver_url": "https://brand.naver.com/desker/products/6139486637",
+   "price": 318000
+  },
+  {
+   "unit": "세트",
+   "cat": "책장",
+   "code": "DSCC466S",
+   "name": "(벽고정)W600 6단 목제책장 하부깊은수납형(하부도어)",
+   "naver_url": "",
+   "price": 296000
+  },
+  {
+   "unit": "세트",
+   "cat": "책장",
+   "code": "DSCC466SS",
+   "name": "(벽고정)W600 6단 목제책장 하부깊은수납형(상하부도어)",
+   "naver_url": "https://brand.naver.com/desker/products/6139495226",
+   "price": 348000
+  },
+  {
+   "unit": "세트",
+   "cat": "낮은 수납장",
+   "code": "DSBC082",
+   "name": "W800 2단 목제책장",
+   "naver_url": "",
+   "price": 168000
+  },
+  {
+   "unit": "세트",
+   "cat": "낮은 수납장",
+   "code": "DSBC082S",
+   "name": "W800 2단 목제책장(도어)",
+   "naver_url": "",
+   "price": 220000
+  },
+  {
+   "unit": "세트",
+   "cat": "낮은 수납장",
+   "code": "DSBC083",
+   "name": "W800 3단 목제책장",
+   "naver_url": "",
+   "price": 200000
+  },
+  {
+   "unit": "세트",
+   "cat": "낮은 수납장",
+   "code": "DSBC162",
+   "name": "W1600 2단 목제책장",
+   "naver_url": "https://brand.naver.com/desker/products/3407713277",
+   "price": 298000
+  },
+  {
+   "unit": "세트",
+   "cat": "낮은 수납장",
+   "code": "DSBC162S",
+   "name": "W1600 2단 목제책장(도어)",
+   "naver_url": "",
+   "price": 409000
+  },
+  {
+   "unit": "세트",
+   "cat": "낮은 수납장",
+   "code": "DSBC163",
+   "name": "W1600 3단 목제책장",
+   "naver_url": "",
+   "price": 363000
+  },
+  {
+   "unit": "세트",
+   "cat": "낮은 수납장",
+   "code": "DSBC163S",
+   "name": "W1600 3단 목제책장(도어)",
+   "naver_url": "",
+   "price": 504000
+  },
+  {
+   "unit": "세트",
+   "cat": "낮은 수납장",
+   "code": "DSBC483",
+   "name": "W800 3단 목제깊은책장",
+   "naver_url": "",
+   "price": 206000
+  },
+  {
+   "unit": "세트",
+   "cat": "낮은 수납장",
+   "code": "DSBC483SA",
+   "name": "W800 3단 목제깊은책장(도어,잠금장치)",
+   "naver_url": "",
+   "price": 299000
+  },
+  {
+   "unit": "세트",
+   "cat": "거울 수납장",
+   "code": "DSCFB0605",
+   "name": "W600 5단 목제책장 하부깊은 수납형(거울도어)",
+   "naver_url": "",
+   "price": 411000
+  },
+  {
+   "unit": "세트",
+   "cat": "거울 수납장",
+   "code": "DSCFB0605J",
+   "name": "W600 5단 목제책장 서랍형(거울도어)",
+   "naver_url": "",
+   "price": 492000
+  },
+  {
+   "unit": "세트",
+   "cat": "거울 수납장",
+   "code": "DSCFB0606",
+   "name": "W600 6단 목제책장 하부깊은 수납형(거울도어)",
+   "naver_url": "",
+   "price": 441000
+  },
+  {
+   "unit": "세트",
+   "cat": "거울 수납장",
+   "code": "DSCFB0606J",
+   "name": "W600 6단 목제책장 서랍형(거울도어)",
+   "naver_url": "",
+   "price": 522000
+  },
+  {
+   "unit": "단품",
+   "cat": "서랍",
+   "code": "DSPAAE0603",
+   "name": "W600 3단 서랍장",
+   "naver_url": "",
+   "price": 234000
+  },
+  {
+   "unit": "단품",
+   "cat": "서랍",
+   "code": "DSPAAY0403A",
+   "name": "W400 3단 서랍 상단 수납형(잠금장치)",
+   "naver_url": "",
+   "price": 191000
+  },
+  {
+   "unit": "단품",
+   "cat": "서랍",
+   "code": "DSPAEY0401A",
+   "name": "W400 1단 오픈서랍 상단 수납형(잠금장치)",
+   "naver_url": "",
+   "price": 139000
+  },
+  {
+   "unit": "단품",
+   "cat": "서랍",
+   "code": "DSPBAY0302A",
+   "name": "W290 2단 슬림서랍 상단 수납형(잠금장치)",
+   "naver_url": "",
+   "price": 117000
+  },
+  {
+   "unit": "단품",
+   "cat": "서랍",
+   "code": "DVDSAP1303",
+   "name": "W290 3단 슬림서랍",
+   "naver_url": "https://brand.naver.com/desker/products/3409193145",
+   "price": 158000
+  },
+  {
+   "unit": "단품",
+   "cat": "서랍",
+   "code": "DVDSAP1303A",
+   "name": "W290 3단 슬림서랍(잠금장치) ",
+   "naver_url": "",
+   "price": 170000
+  },
+  {
+   "unit": "단품",
+   "cat": "서랍",
+   "code": "DVDSAP2303A",
+   "name": "W290 3단 슬림서랍 글라이드형(잠금장치) ",
+   "naver_url": "",
+   "price": 169000
+  },
+  {
+   "unit": "단품",
+   "cat": "정리용품",
+   "code": "DSACAA0301",
+   "name": "페이퍼트레이",
+   "naver_url": "https://brand.naver.com/desker/products/10894115714",
+   "price": 17000
+  },
+  {
+   "unit": "단품",
+   "cat": "정리용품",
+   "code": "DSACBA0201",
+   "name": "멀티 오거나이저",
+   "naver_url": "https://brand.naver.com/desker/products/6854242703",
+   "price": 17000
+  },
+  {
+   "unit": "단품",
+   "cat": "정리용품",
+   "code": "DSACBA0202",
+   "name": "툴박스",
+   "naver_url": "https://brand.naver.com/desker/products/10894135374",
+   "price": 17000
+  },
+  {
+   "unit": "단품",
+   "cat": "정리용품",
+   "code": "DSACBA0300",
+   "name": "멀티 북스탠드",
+   "naver_url": "https://brand.naver.com/desker/products/9248440186",
+   "price": 36000
+  },
+  {
+   "unit": "단품",
+   "cat": "정리용품",
+   "code": "DSACBA0301",
+   "name": "스태킹 오거나이저",
+   "naver_url": "https://brand.naver.com/desker/products/9248440410",
+   "price": 43000
+  },
+  {
+   "unit": "단품",
+   "cat": "정리용품",
+   "code": "DSAF1007S",
+   "name": "W700 데스크정리함",
+   "naver_url": "",
+   "price": 63000
+  },
+  {
+   "unit": "단품",
+   "cat": "모니터받침대",
+   "code": "DSAA0301",
+   "name": "[DF] W600 모니터받침대",
+   "naver_url": "",
+   "price": 46000
+  },
+  {
+   "unit": "단품",
+   "cat": "모니터받침대",
+   "code": "DSAA0302",
+   "name": "[DF] W600 모니터받침대(서랍)",
+   "naver_url": "",
+   "price": 52000
+  },
+  {
+   "unit": "단품",
+   "cat": "모니터받침대",
+   "code": "DSAA0303",
+   "name": "[DF] W1000 모니터받침대(서랍)",
+   "naver_url": "",
+   "price": 62000
+  },
+  {
+   "unit": "단품",
+   "cat": "모니터받침대",
+   "code": "DSABPA06001",
+   "name": "[DF] W600 모니터받침대 USB/고속무선충전형 2.0",
+   "naver_url": "https://brand.naver.com/desker/products/6150080909",
+   "price": 113000
+  },
+  {
+   "unit": "단품",
+   "cat": "모니터받침대",
+   "code": "DSABPA10001",
+   "name": "[DF] W1000 모니터받침대 USB/고속무선충전형(서랍) 2.0",
+   "naver_url": "https://brand.naver.com/desker/products/6150082632",
+   "price": 126000
+  },
+  {
+   "unit": "단품",
+   "cat": "모니터암",
+   "code": "DSAEAA0501",
+   "name": "싱글 모니터암",
+   "naver_url": "https://brand.naver.com/desker/products/9063670683",
+   "price": 75000
+  },
+  {
+   "unit": "단품",
+   "cat": "조명",
+   "code": "DSAGEA0801G",
+   "name": "[DF] W800 LED 와이드 데스크조명 (베이스형)",
+   "naver_url": "",
+   "price": 126000
+  },
+  {
+   "unit": "단품",
+   "cat": "조명",
+   "code": "DSAGEA0802G",
+   "name": "[DF] W800 LED 와이드 데스크조명 (클램프형)",
+   "naver_url": "",
+   "price": 126000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSCJ1201J",
+   "name": "W1200 5단 책상세트 + 링고 고정중심봉(발받침 포함)",
+   "naver_url": "",
+   "price": 806000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSCJ1211J",
+   "name": "W1200 5단 책상세트 콘센트형+링고(발받침)",
+   "naver_url": "https://brand.naver.com/desker/products/13657946691",
+   "price": 884000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSCJ1213J",
+   "name": "W1200 5단 책상세트 콘센트형+올라운드 HF 화이트",
+   "naver_url": "",
+   "price": 885000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSCJ1215J",
+   "name": "W1200 5단 책상세트 콘센트형+아이블 화이트",
+   "naver_url": "",
+   "price": 871000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSCJ1212J",
+   "name": "W1200 6단 책상세트 콘센트형+링고(발받침)",
+   "naver_url": "https://brand.naver.com/desker/products/13657946670",
+   "price": 918000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSCJ1214J",
+   "name": "W1200 6단 책상세트 콘센트형+올라운드 HF 화이트",
+   "naver_url": "",
+   "price": 919000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSCJ1216J",
+   "name": "W1200 6단 책상세트 콘센트형+아이블 화이트",
+   "naver_url": "",
+   "price": 905000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSCJ1411J",
+   "name": "W1400 5단 책상세트 콘센트형+링고(발받침)",
+   "naver_url": "https://brand.naver.com/desker/products/13657946644",
+   "price": 969000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSCJ1413J",
+   "name": "W1400 5단 책상세트 콘센트형+올라운드 HF 화이트",
+   "naver_url": "",
+   "price": 970000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSCJ1415J",
+   "name": "W1400 5단 책상세트 콘센트형+아이블 화이트",
+   "naver_url": "",
+   "price": 956000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSCJ1412J",
+   "name": "W1400 6단 책상세트 콘센트형+링고(발받침)",
+   "naver_url": "https://brand.naver.com/desker/products/13657946624",
+   "price": 1030000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSCJ1414J",
+   "name": "W1400 6단 책상세트 콘센트형+올라운드 HF 화이트",
+   "naver_url": "",
+   "price": 1031000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSCJ1416J",
+   "name": "W1400 6단 책상세트 콘센트형+아이블 화이트",
+   "naver_url": "",
+   "price": 1017000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSCJ1221J",
+   "name": "W1200 5단 책상세트 콘센트형(조명)+링고(발받침)",
+   "naver_url": "https://brand.naver.com/desker/products/13657946600",
+   "price": 1034000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSCJ1223J",
+   "name": "W1200 5단 책상세트 콘센트형(조명)+올라운드 HF 화이트",
+   "naver_url": "",
+   "price": 1035000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSCJ1225J",
+   "name": "W1200 5단 책상세트 콘센트형(조명)+아이블 화이트",
+   "naver_url": "",
+   "price": 1021000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSCJ1222J",
+   "name": "W1200 6단 책상세트 콘센트형(조명)+링고(발받침)",
+   "naver_url": "https://brand.naver.com/desker/products/13657946556",
+   "price": 1068000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSCJ1224J",
+   "name": "W1200 6단 책상세트 콘센트형(조명)+올라운드 HF 화이트",
+   "naver_url": "",
+   "price": 1069000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSCJ1226J",
+   "name": "W1200 6단 책상세트 콘센트형(조명)+아이블 화이트",
+   "naver_url": "",
+   "price": 1055000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSCJ1421J",
+   "name": "W1400 5단 책상세트 콘센트형(조명)+링고(발받침)",
+   "naver_url": "https://brand.naver.com/desker/products/13657946511",
+   "price": 1119000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSCJ1423J",
+   "name": "W1400 5단 책상세트 콘센트형(조명)+올라운드 HF 화이트",
+   "naver_url": "",
+   "price": 1120000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSCJ1425J",
+   "name": "W1400 5단 책상세트 콘센트형(조명)+아이블 화이트",
+   "naver_url": "",
+   "price": 1106000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSCJ1422J",
+   "name": "W1400 6단 책상세트 콘센트형(조명)+링고(발받침)",
+   "naver_url": "https://brand.naver.com/desker/products/13657946460",
+   "price": 1180000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSCJ1424J",
+   "name": "W1400 6단 책상세트 콘센트형(조명)+올라운드 HF 화이트",
+   "naver_url": "",
+   "price": 1181000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSCJ1426J",
+   "name": "W1400 6단 책상세트 콘센트형(조명)+아이블 화이트",
+   "naver_url": "",
+   "price": 1167000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSCJ1202J",
+   "name": "(벽고정)W1200 5단 책상세트 콘센트형(조명,상부도어)+링고 고정중심봉(발받침 포함)",
+   "naver_url": "https://brand.naver.com/desker/products/6260480280",
+   "price": 1119000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSCJ1207J",
+   "name": "(벽고정)W1200 5단 책상세트 콘센트형(조명,상부도어)+올라운드",
+   "naver_url": "",
+   "price": 1120000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSCJ1209J",
+   "name": "W1200 5단 책상세트 콘센트형(조명, 상부도어)+아이블",
+   "naver_url": "",
+   "price": 1106000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSCJ1203J",
+   "name": "(벽고정)W1200 6단 책상세트 콘센트형(조명,상부도어)+링고 고정중심봉(발받침 포함)",
+   "naver_url": "https://brand.naver.com/desker/products/6260479550",
+   "price": 1153000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSCJ1208J",
+   "name": "(벽고정)W1200 6단 책상세트 콘센트형(조명,상부도어)+올라운드",
+   "naver_url": "",
+   "price": 1154000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSCJ1210J",
+   "name": "W1200 6단 책상세트 콘센트형(조명, 상부도어)+아이블",
+   "naver_url": "",
+   "price": 1140000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSCJ1401J",
+   "name": "(벽고정)W1400 5단 책상세트 콘센트형(조명,상부도어)+링고 고정중심봉(발받침 포함)",
+   "naver_url": "https://brand.naver.com/desker/products/6260479199",
+   "price": 1223000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSCJ1405J",
+   "name": "(벽고정)W1400 5단 책상세트 콘센트형(조명,상부도어)+올라운드",
+   "naver_url": "",
+   "price": 1224000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSCJ1407J",
+   "name": "W1400 5단 책상세트 콘센트형(조명, 상부도어)+아이블",
+   "naver_url": "",
+   "price": 1210000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSCJ1402J",
+   "name": "(벽고정)W1400 6단 책상세트 콘센트형(조명,상부도어)+링고 고정중심봉(발받침 포함)",
+   "naver_url": "https://brand.naver.com/desker/products/6260479842",
+   "price": 1284000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSCJ1406J",
+   "name": "(벽고정)W1400 6단 책상세트 콘센트형(조명,상부도어)+올라운드",
+   "naver_url": "",
+   "price": 1285000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSCJ1408J",
+   "name": "W1400 6단 책상세트 콘센트형(조명, 상부도어)+아이블",
+   "naver_url": "",
+   "price": 1271000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDCM1203J",
+   "name": "(벽고정)W1200 5단 모션데스크 스마트세트(조명, 상부도어)+링고",
+   "naver_url": "https://brand.naver.com/desker/products/7703805910",
+   "price": 1441000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDCM1205J",
+   "name": "(벽고정)W1200 5단 모션데스크 스마트세트(조명, 상부도어)+올라운드",
+   "naver_url": "",
+   "price": 1442000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDCM1207J",
+   "name": "W1200 5단 모션데스크 스마트세트(조명, 상부도어)+아이블",
+   "naver_url": "",
+   "price": 1428000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDCM1204J",
+   "name": "(벽고정)W1200 6단 모션데스크 스마트세트(조명, 상부도어)+링고",
+   "naver_url": "https://brand.naver.com/desker/products/7703805705#DEFAULT",
+   "price": 1475000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDCM1206J",
+   "name": "(벽고정)W1200 6단 모션데스크 스마트세트(조명, 상부도어)+올라운드",
+   "naver_url": "",
+   "price": 1476000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDCM1208J",
+   "name": "W1200 6단 모션데스크 스마트세트(조명, 상부도어)+아이블",
+   "naver_url": "",
+   "price": 1462000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDCM1403J",
+   "name": "(벽고정)W1400 5단 모션데스크 스마트세트(조명, 상부도어)+링고",
+   "naver_url": "https://brand.naver.com/desker/products/7703805429",
+   "price": 1548000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDCM1405J",
+   "name": "(벽고정)W1400 5단 모션데스크 스마트세트(조명, 상부도어)+올라운드",
+   "naver_url": "",
+   "price": 1549000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDCM1407J",
+   "name": "W1400 5단 모션데스크 스마트세트(조명, 상부도어)+아이블",
+   "naver_url": "",
+   "price": 1535000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDCM1404J",
+   "name": "(벽고정)W1400 6단 모션데스크 스마트세트(조명, 상부도어)+링고",
+   "naver_url": "https://brand.naver.com/desker/products/7703805230",
+   "price": 1609000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDCM1406J",
+   "name": "(벽고정)W1400 6단 모션데스크 스마트세트(조명, 상부도어)+올라운드",
+   "naver_url": "",
+   "price": 1610000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDCM1408J",
+   "name": "W1400 6단 모션데스크 스마트세트(조명, 상부도어)+아이블",
+   "naver_url": "",
+   "price": 1596000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDEA1403J",
+   "name": "(벽고정)W1400 5단 멀티책상세트(조명, 상부도어)+링고",
+   "naver_url": "https://brand.naver.com/desker/products/9534546980",
+   "price": 1447000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDEA1405J",
+   "name": "(벽고정)W1400 5단 멀티책상세트(조명, 상부도어)+올라운드",
+   "naver_url": "",
+   "price": 1448000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDEA1407J",
+   "name": "(벽고정)W1400 5단 멀티책상세트(조명, 상부도어)+아이블",
+   "naver_url": "",
+   "price": 1434000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDEA1404J",
+   "name": "(벽고정)W1400 6단 멀티책상세트(조명, 상부도어)+링고",
+   "naver_url": "https://brand.naver.com/desker/products/9534547025",
+   "price": 1493000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDEA1406J",
+   "name": "(벽고정)W1400 6단 멀티책상세트(조명, 상부도어)+올라운드",
+   "naver_url": "",
+   "price": 1494000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDEA1408J",
+   "name": "(벽고정)W1400 6단 멀티책상세트(조명, 상부도어)+아이블",
+   "naver_url": "",
+   "price": 1480000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDEA1603J",
+   "name": "(벽고정)W1600 5단 멀티책상세트(조명, 상부도어)+링고",
+   "naver_url": "https://brand.naver.com/desker/products/9534547053",
+   "price": 1493000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDEA1605J",
+   "name": "(벽고정)W1600 5단 멀티책상세트(조명, 상부도어)+올라운드",
+   "naver_url": "",
+   "price": 1494000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDEA1607J",
+   "name": "(벽고정)W1600 5단 멀티책상세트(조명, 상부도어)+아이블",
+   "naver_url": "",
+   "price": 1480000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDEA1604J",
+   "name": "(벽고정)W1600 6단 멀티책상세트(조명, 상부도어)+링고",
+   "naver_url": "https://brand.naver.com/desker/products/9536117184#DEFAULT",
+   "price": 1551000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDEA1606J",
+   "name": "(벽고정)W1600 6단 멀티책상세트(조명, 상부도어)+올라운드",
+   "naver_url": "",
+   "price": 1552000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDEA1608J",
+   "name": "(벽고정)W1600 6단 멀티책상세트(조명, 상부도어)+아이블",
+   "naver_url": "",
+   "price": 1538000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDEM1403J",
+   "name": "(벽고정)W1400 5단 모션데스크 스마트멀티세트(조명, 상부도어)+링고",
+   "naver_url": "https://brand.naver.com/desker/products/9579117673",
+   "price": 1873000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDEM1405J",
+   "name": "(벽고정)W1400 5단 모션데스크 스마트멀티세트(조명, 상부도어)+올라운드",
+   "naver_url": "",
+   "price": 1874000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDEM1407J",
+   "name": "(벽고정)W1400 5단 모션데스크 스마트멀티세트(조명, 상부도어)+아이블",
+   "naver_url": "",
+   "price": 1860000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDEM1404J",
+   "name": "(벽고정)W1400 6단 모션데스크 스마트멀티세트(조명, 상부도어)+링고",
+   "naver_url": "https://brand.naver.com/desker/products/9579119526",
+   "price": 1919000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDEM1406J",
+   "name": "(벽고정)W1400 6단 모션데스크 스마트멀티세트(조명, 상부도어)+올라운드",
+   "naver_url": "",
+   "price": 1920000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDEM1408J",
+   "name": "(벽고정)W1400 6단 모션데스크 스마트멀티세트(조명, 상부도어)+아이블",
+   "naver_url": "",
+   "price": 1906000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDEM1603J",
+   "name": "(벽고정)W1600 5단 모션데스크 스마트멀티세트(조명, 상부도어)+링고",
+   "naver_url": "https://brand.naver.com/desker/products/9579122482",
+   "price": 1932000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDEM1605J",
+   "name": "(벽고정)W1600 5단 모션데스크 스마트멀티세트(조명, 상부도어)+올라운드",
+   "naver_url": "",
+   "price": 1933000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDEM1607J",
+   "name": "(벽고정)W1600 5단 모션데스크 스마트멀티세트(조명, 상부도어)+아이블",
+   "naver_url": "",
+   "price": 1919000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDEM1604J",
+   "name": "(벽고정)W1600 6단 모션데스크 스마트멀티세트(조명, 상부도어)+링고",
+   "naver_url": "https://brand.naver.com/desker/products/9579123191",
+   "price": 1990000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDEM1606J",
+   "name": "(벽고정)W1600 6단 모션데스크 스마트멀티세트(조명, 상부도어)+올라운드",
+   "naver_url": "",
+   "price": 1991000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDEM1608J",
+   "name": "(벽고정)W1600 6단 모션데스크 스마트멀티세트(조명, 상부도어)+아이블",
+   "naver_url": "",
+   "price": 1977000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDBB1401J",
+   "name": "W1400*D700 컴퓨터데스크2.0 + 올라운드 블랙쉘/블랙좌판",
+   "naver_url": "",
+   "price": 459000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDBB1601J",
+   "name": "W1600*D700 컴퓨터데스크2.0 + 올라운드 블랙쉘/블랙좌판",
+   "naver_url": "",
+   "price": 471000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDBB1602J",
+   "name": "W1600*D800 컴퓨터데스크2.0 + 올라운드 블랙쉘/블랙좌판",
+   "naver_url": "",
+   "price": 479000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDAB0801J",
+   "name": "W800*D600 집중형데스크+아이블",
+   "naver_url": "",
+   "price": 487000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDAB0801GJ",
+   "name": "W800*D600 집중형데스크(조명)+아이블",
+   "naver_url": "",
+   "price": 549000
+  },
+  {
+   "unit": "세트",
+   "cat": "책상+의자 세트",
+   "code": "DSDAB0801EGJ",
+   "name": "W800*D600 집중형데스크(펠트,조명)+아이블",
+   "naver_url": "",
+   "price": 617000
+  }
+ ],
+ "sales": [
+  {
+   "code": "DSDEA1402J",
+   "group": "일반",
+   "name": "(벽고정)W1400 6단 멀티책상세트(조명, 상부도어)",
+   "monthly": 772.7
+  },
+  {
+   "code": "DSCJ125ALSN",
+   "group": "일반",
+   "name": "(벽고정)W1200 5단 책상세트 콘센트형(조명,상부도어)",
+   "monthly": 390.9
+  },
+  {
+   "code": "DSCJ126ALS",
+   "group": "일반",
+   "name": "(벽고정)W1200 6단 책상세트 콘센트형(조명,상부도어)",
+   "monthly": 315.3
+  },
+  {
+   "code": "DSCJ146ALS",
+   "group": "일반",
+   "name": "(벽고정)W1400 6단 책상세트 콘센트형(조명,상부도어)",
+   "monthly": 244.3
+  },
+  {
+   "code": "DSDEA1401J",
+   "group": "일반",
+   "name": "(벽고정)W1400 5단 멀티책상세트(조명, 상부도어)",
+   "monthly": 192.9
+  },
+  {
+   "code": "DSDEA1602J",
+   "group": "일반",
+   "name": "(벽고정)W1600 6단 멀티책상세트(조명, 상부도어)",
+   "monthly": 109.9
+  },
+  {
+   "code": "DSCJ145ALS",
+   "group": "일반",
+   "name": "(벽고정)W1400 5단 책상세트 콘센트형(조명,상부도어)",
+   "monthly": 106.6
+  },
+  {
+   "code": "DSCJ065",
+   "group": "일반",
+   "name": "W1490 5단 h형책상세트",
+   "monthly": 85.3
+  },
+  {
+   "code": "DSCJ125AN",
+   "group": "일반",
+   "name": "W1200 5단 책상세트 콘센트형",
+   "monthly": 25.4
+  },
+  {
+   "code": "DSCJ165",
+   "group": "일반",
+   "name": "W1490 5단 h형책상세트 콘센트형",
+   "monthly": 25.4
+  },
+  {
+   "code": "DSDEA1601J",
+   "group": "일반",
+   "name": "(벽고정)W1600 5단 멀티책상세트(조명, 상부도어)",
+   "monthly": 21.1
+  },
+  {
+   "code": "DSCJ145A",
+   "group": "일반",
+   "name": "W1400 5단 책상세트 콘센트형",
+   "monthly": 20.8
+  },
+  {
+   "code": "DSCJ165S",
+   "group": "일반",
+   "name": "(벽고정)W1490 5단 h형책상세트 콘센트형(상부도어)",
+   "monthly": 17.6
+  },
+  {
+   "code": "DSCJ026ALS",
+   "group": "일반",
+   "name": "(벽고정)W1200 6단 책상세트(조명,상부도어)",
+   "monthly": 15.4
+  },
+  {
+   "code": "DSCJ025AN",
+   "group": "일반",
+   "name": "W1200 5단 책상세트",
+   "monthly": 13.6
+  },
+  {
+   "code": "DSCJ025ALSN",
+   "group": "일반",
+   "name": "(벽고정)W1200 5단 책상세트(조명,상부도어)",
+   "monthly": 13.4
+  },
+  {
+   "code": "DSCJ045A",
+   "group": "일반",
+   "name": "W1400 5단 책상세트",
+   "monthly": 12.4
+  },
+  {
+   "code": "DSCJ046ALS",
+   "group": "일반",
+   "name": "(벽고정)W1400 6단 책상세트(조명,상부도어)",
+   "monthly": 11.3
+  },
+  {
+   "code": "DSCJ045ALS",
+   "group": "일반",
+   "name": "(벽고정)W1400 5단 책상세트(조명,상부도어)",
+   "monthly": 10.4
+  },
+  {
+   "code": "DSCJ145AL",
+   "group": "일반",
+   "name": "W1400 5단 책상세트 콘센트형(조명)",
+   "monthly": 10.2
+  },
+  {
+   "code": "DSCJ065S",
+   "group": "일반",
+   "name": "(벽고정)W1490 5단 h형책상세트(상부도어)",
+   "monthly": 9.0
+  },
+  {
+   "code": "DSCJ126AL",
+   "group": "일반",
+   "name": "W1200 6단 책상세트 콘센트형(조명)",
+   "monthly": 9.0
+  },
+  {
+   "code": "DSCJ146AL",
+   "group": "일반",
+   "name": "W1400 6단 책상세트 콘센트형(조명)",
+   "monthly": 8.5
+  },
+  {
+   "code": "DSCJ146A",
+   "group": "일반",
+   "name": "W1400 6단 책상세트 콘센트형",
+   "monthly": 7.6
+  },
+  {
+   "code": "DSCJ125ALN",
+   "group": "일반",
+   "name": "W1200 5단 책상세트 콘센트형(조명)",
+   "monthly": 7.0
+  },
+  {
+   "code": "DSCJ026A",
+   "group": "일반",
+   "name": "W1200 6단 책상세트",
+   "monthly": 7.0
+  },
+  {
+   "code": "DSCJ126A",
+   "group": "일반",
+   "name": "W1200 6단 책상세트 콘센트형",
+   "monthly": 6.0
+  },
+  {
+   "code": "DSCJ025N",
+   "group": "일반",
+   "name": "W1200 5단 책상세트(자석보드 제외)",
+   "monthly": 5.7
+  },
+  {
+   "code": "DSCJ046A",
+   "group": "일반",
+   "name": "W1400 6단 책상세트",
+   "monthly": 4.8
+  },
+  {
+   "code": "DSDEM1402J",
+   "group": "모션",
+   "name": "(벽고정)W1400 6단 모션데스크 스마트멀티세트(조명, 상부도어)",
+   "monthly": 571.9
+  },
+  {
+   "code": "DSDEM1602J",
+   "group": "모션",
+   "name": "(벽고정)W1600 6단 모션데스크 스마트멀티세트(조명, 상부도어)",
+   "monthly": 226.6
+  },
+  {
+   "code": "DSDEM1401J",
+   "group": "모션",
+   "name": "(벽고정)W1400 5단 모션데스크 스마트멀티세트(조명, 상부도어)",
+   "monthly": 139.8
+  },
+  {
+   "code": "DSDCM1206",
+   "group": "모션",
+   "name": "W1180*D590 모션데스크 스마트",
+   "monthly": 117.8
+  },
+  {
+   "code": "DSDCM1406",
+   "group": "모션",
+   "name": "W1380*D590 모션데스크 스마트",
+   "monthly": 69.0
+  },
+  {
+   "code": "DSDCM1202J",
+   "group": "모션",
+   "name": "(벽고정)W1200 6단 모션데스크 스마트세트(조명, 상부도어)",
+   "monthly": 65.3
+  },
+  {
+   "code": "DSDCM1402J",
+   "group": "모션",
+   "name": "(벽고정)W1400 6단 모션데스크 스마트세트(조명, 상부도어)",
+   "monthly": 59.6
+  },
+  {
+   "code": "DSDCM1201J",
+   "group": "모션",
+   "name": "(벽고정)W1200 5단 모션데스크 스마트세트(조명, 상부도어)",
+   "monthly": 47.5
+  },
+  {
+   "code": "DSDCM1606",
+   "group": "모션",
+   "name": "W1580*D590 모션데스크 스마트",
+   "monthly": 30.6
+  },
+  {
+   "code": "DSDEM1601J",
+   "group": "모션",
+   "name": "(벽고정)W1600 5단 모션데스크 스마트멀티세트(조명, 상부도어)",
+   "monthly": 30.0
+  },
+  {
+   "code": "DSDCM1401J",
+   "group": "모션",
+   "name": "(벽고정)W1400 5단 모션데스크 스마트세트(조명, 상부도어)",
+   "monthly": 23.8
+  }
+ ],
+ "features": [
+  {
+   "code": "DSAD012",
+   "tier": "",
+   "width": 1200,
+   "depth": 800,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FKFK, MACFK, MLFK, MLWW, WWWW",
+   "features": "W1200*D800 베이직데스크",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "basic",
+    "ceilingUncertain": false,
+    "guideIds": [
+     25
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSAD014",
+   "tier": "",
+   "width": 1400,
+   "depth": 800,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FKFK, MACFK, MLFK, MLWW, WWWW",
+   "features": "W1400*D800 베이직데스크",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "basic",
+    "ceilingUncertain": false,
+    "guideIds": [
+     25
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSAD016",
+   "tier": "",
+   "width": 1600,
+   "depth": 800,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FKFK, MACFK, MLFK, MLWW, WWWW",
+   "features": "W1600*D800 베이직데스크",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "basic",
+    "ceilingUncertain": false,
+    "guideIds": [
+     25
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSAD212",
+   "tier": "",
+   "width": 1200,
+   "depth": 590,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FKFK, MACFK, MLFK, MLWW, WWWW",
+   "features": "W1200*D590 베이직데스크",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "basic",
+    "ceilingUncertain": false,
+    "guideIds": [
+     25
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSAD214",
+   "tier": "",
+   "width": 1400,
+   "depth": 590,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FKFK, MACFK, MLFK, MLWW, WWWW",
+   "features": "W1400*D590 베이직데스크",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "basic",
+    "ceilingUncertain": false,
+    "guideIds": [
+     25
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSAD410",
+   "tier": "",
+   "width": 1000,
+   "depth": 390,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FKFK, MACFK, MLFK, MLWW, WWWW",
+   "features": "W1000*D390 베이직데스크",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "basic",
+    "ceilingUncertain": false,
+    "guideIds": [
+     25
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSAD608",
+   "tier": "",
+   "width": 800,
+   "depth": 590,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FKFK, MACFK, MLFK, MLWW, WWWW",
+   "features": "W800*D590 베이직데스크",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "basic",
+    "ceilingUncertain": false,
+    "guideIds": [
+     25
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSAD610P",
+   "tier": "",
+   "width": 1000,
+   "depth": 590,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FKFK, MLWW, WWWW",
+   "features": "노트북 사용을 위한 단독 데스크",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "notebook",
+    "ceilingUncertain": false,
+    "guideIds": [
+     8
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSAD612P",
+   "tier": "",
+   "width": 1200,
+   "depth": 590,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FKFK, MLWW, OSWW, WWWW",
+   "features": "노트북 사용을 위한 단독 데스크",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "notebook",
+    "ceilingUncertain": false,
+    "guideIds": [
+     8
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSAD614P",
+   "tier": "",
+   "width": 1400,
+   "depth": 590,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "OSWW, WWWW",
+   "features": "노트북 사용을 위한 단독 데스크",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "notebook",
+    "ceilingUncertain": false,
+    "guideIds": [
+     8
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDAB0806",
+   "tier": "",
+   "width": 800,
+   "depth": 600,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "WWWW",
+   "features": "측판이 있는 집중형 데스크",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "focus",
+    "ceilingUncertain": false,
+    "guideIds": [
+     34
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDAB0806EG",
+   "tier": "",
+   "width": 800,
+   "depth": 600,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "Y",
+   "colors": "WW3F2",
+   "features": "조명 포함 | 측판이 있는 집중형 데스크",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "focus",
+    "ceilingUncertain": false,
+    "guideIds": [
+     34
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDAB0806G",
+   "tier": "",
+   "width": 800,
+   "depth": 600,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "Y",
+   "colors": "WWWW",
+   "features": "조명 포함 | 측판이 있는 집중형 데스크",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "focus",
+    "ceilingUncertain": false,
+    "guideIds": [
+     34
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDBB1206",
+   "tier": "",
+   "width": 1200,
+   "depth": 590,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FKFK, MACFK, MLFK, MLWW, WWWW",
+   "features": "컴퓨터 사용을 고려한 데스크",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "computer",
+    "ceilingUncertain": false,
+    "guideIds": [
+     36
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDBB1207",
+   "tier": "",
+   "width": 1200,
+   "depth": 700,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FKFK, MACFK, MLFK, MLWW, WWWW",
+   "features": "컴퓨터 사용을 고려한 데스크",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "computer",
+    "ceilingUncertain": false,
+    "guideIds": [
+     36
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDBB1407",
+   "tier": "",
+   "width": 1400,
+   "depth": 700,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FKFK, MACFK, MLFK, MLWW, WWWW",
+   "features": "컴퓨터 사용을 고려한 데스크",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "computer",
+    "ceilingUncertain": false,
+    "guideIds": [
+     36
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDBB1408",
+   "tier": "",
+   "width": 1400,
+   "depth": 800,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FKFK, MACFK, MLFK, MLWW, WWWW",
+   "features": "컴퓨터 사용을 고려한 데스크",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "computer",
+    "ceilingUncertain": false,
+    "guideIds": [
+     36
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDBB1607",
+   "tier": "",
+   "width": 1600,
+   "depth": 700,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FKFK, MACFK, MLFK, MLWW, WWWW",
+   "features": "컴퓨터 사용을 고려한 데스크",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "computer",
+    "ceilingUncertain": false,
+    "guideIds": [
+     36
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDBB1608",
+   "tier": "",
+   "width": 1600,
+   "depth": 800,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FKFK, MACFK, MLFK, MLWW, WWWW",
+   "features": "컴퓨터 사용을 고려한 데스크",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "computer",
+    "ceilingUncertain": false,
+    "guideIds": [
+     36
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDBB1808",
+   "tier": "",
+   "width": 1800,
+   "depth": 800,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FKFK, MACFK, MLFK, MLWW, WWWW",
+   "features": "컴퓨터 사용을 고려한 데스크",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "computer",
+    "ceilingUncertain": false,
+    "guideIds": [
+     36
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDCB1207",
+   "tier": "",
+   "width": 1200,
+   "depth": 700,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FKFK, MACFK, MLWW, WWWW",
+   "features": "W1200*D700 하부가림판데스크2.0",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "generic",
+    "ceilingUncertain": false,
+    "guideIds": [
+     2
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDCB1407",
+   "tier": "",
+   "width": 1400,
+   "depth": 700,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FKFK, MACFK, MLWW, WWWW",
+   "features": "W1400*D700 하부가림판데스크2.0",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "generic",
+    "ceilingUncertain": false,
+    "guideIds": [
+     2
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDCB1607",
+   "tier": "",
+   "width": 1600,
+   "depth": 700,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FKFK, MACFK, MLWW, WWWW",
+   "features": "W1600*D700 하부가림판데스크2.0",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "generic",
+    "ceilingUncertain": false,
+    "guideIds": [
+     2
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDCB1808",
+   "tier": "",
+   "width": 1800,
+   "depth": 800,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FKFK, MACFK, MLWW, WWWW",
+   "features": "W1800*D800 하부가림판데스크2.0",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "generic",
+    "ceilingUncertain": false,
+    "guideIds": [
+     2
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDDB1407",
+   "tier": "",
+   "width": 1400,
+   "depth": 700,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "NCGCG, OCYOAT, WWWW",
+   "features": "W1400*D700 멀티데스크",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "multidesk",
+    "ceilingUncertain": false,
+    "guideIds": [
+     12
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDDB1407J",
+   "tier": "",
+   "width": 1400,
+   "depth": 700,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "NCG7P1, OCY7P2, WW7P2",
+   "features": "W1400*D700 멀티데스크(디바이더)",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "multidesk",
+    "ceilingUncertain": false,
+    "guideIds": [
+     12
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDDB1607",
+   "tier": "",
+   "width": 1600,
+   "depth": 700,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "NCGCG, OCYOAT, WWWW",
+   "features": "W1600*D700 멀티데스크",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "multidesk",
+    "ceilingUncertain": false,
+    "guideIds": [
+     12
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDDB1607J",
+   "tier": "",
+   "width": 1600,
+   "depth": 700,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "NCG7P1, OCY7P2, WW7P2",
+   "features": "W1600*D700 멀티데스크(디바이더)",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "multidesk",
+    "ceilingUncertain": false,
+    "guideIds": [
+     12
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDDB1608",
+   "tier": "",
+   "width": 1600,
+   "depth": 800,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "NCGCG, OCYOAT, WWWW",
+   "features": "W1600*D800 멀티데스크",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "multidesk",
+    "ceilingUncertain": false,
+    "guideIds": [
+     12
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDDB1608J",
+   "tier": "",
+   "width": 1600,
+   "depth": 800,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "NCG7P1, OCY7P2, WW7P2",
+   "features": "W1600*D800 멀티데스크(디바이더)",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "multidesk",
+    "ceilingUncertain": false,
+    "guideIds": [
+     12
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDDB1808",
+   "tier": "",
+   "width": 1800,
+   "depth": 800,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "NCGCG, OCYOAT, WWWW",
+   "features": "W1800*D800 멀티데스크",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "multidesk",
+    "ceilingUncertain": false,
+    "guideIds": [
+     12
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDDB1808J",
+   "tier": "",
+   "width": 1800,
+   "depth": 800,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "NCG7P1, OCY7P2, WW7P2",
+   "features": "W1800*D800 멀티데스크(디바이더)",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "multidesk",
+    "ceilingUncertain": false,
+    "guideIds": [
+     12
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDHA1206M",
+   "tier": "",
+   "width": 1200,
+   "depth": 590,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FKFK, WWWW",
+   "features": "W1200*D590 베이직데스크 이동형",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "mobile",
+    "ceilingUncertain": false,
+    "guideIds": [
+     26
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDHA1407M",
+   "tier": "",
+   "width": 1400,
+   "depth": 700,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FKFK, WWWW",
+   "features": "W1400*D700 베이직데스크 이동형",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "mobile",
+    "ceilingUncertain": false,
+    "guideIds": [
+     26
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDHA1608M",
+   "tier": "",
+   "width": 1600,
+   "depth": 800,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FKFK, WWWW",
+   "features": "W1600*D800 베이직데스크 이동형",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "mobile",
+    "ceilingUncertain": false,
+    "guideIds": [
+     26
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCJ025ALSN",
+   "tier": 5,
+   "width": 1200,
+   "depth": "",
+   "wall": "필수",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "Y",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "조명 포함 | 책상과 책상장 일체 구성",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "deskset",
+    "ceilingUncertain": false,
+    "guideIds": [
+     35
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCJ025AN",
+   "tier": 5,
+   "width": 1200,
+   "depth": "",
+   "wall": "조건부",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "책상과 책상장 일체 구성",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "deskset",
+    "ceilingUncertain": false,
+    "guideIds": [
+     35
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCJ025N",
+   "tier": 5,
+   "width": 1200,
+   "depth": "",
+   "wall": "조건부",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "책상과 책상장 일체 구성",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "deskset",
+    "ceilingUncertain": false,
+    "guideIds": [
+     35
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCJ026A",
+   "tier": 6,
+   "width": 1200,
+   "depth": "",
+   "wall": "조건부",
+   "min_ceiling": 220,
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "책상과 책상장 일체 구성",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "deskset",
+    "ceilingUncertain": false,
+    "guideIds": [
+     35
+    ],
+    "sources": [
+     "책상세트 p.18"
+    ],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCJ026ALS",
+   "tier": 6,
+   "width": 1200,
+   "depth": "",
+   "wall": "필수",
+   "min_ceiling": 220,
+   "motion": "",
+   "multi": "",
+   "light": "Y",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "조명 포함 | 책상과 책상장 일체 구성",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "deskset",
+    "ceilingUncertain": false,
+    "guideIds": [
+     35
+    ],
+    "sources": [
+     "책상세트 p.18"
+    ],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCJ045A",
+   "tier": 5,
+   "width": 1400,
+   "depth": "",
+   "wall": "조건부",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "책상과 책상장 일체 구성",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "deskset",
+    "ceilingUncertain": false,
+    "guideIds": [
+     35
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCJ045ALS",
+   "tier": 5,
+   "width": 1400,
+   "depth": "",
+   "wall": "필수",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "Y",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "조명 포함 | 책상과 책상장 일체 구성",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "deskset",
+    "ceilingUncertain": false,
+    "guideIds": [
+     35
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCJ046A",
+   "tier": 6,
+   "width": 1400,
+   "depth": "",
+   "wall": "조건부",
+   "min_ceiling": 220,
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "책상과 책상장 일체 구성",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "deskset",
+    "ceilingUncertain": false,
+    "guideIds": [
+     35
+    ],
+    "sources": [
+     "책상세트 p.18"
+    ],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCJ046ALS",
+   "tier": 6,
+   "width": 1400,
+   "depth": "",
+   "wall": "필수",
+   "min_ceiling": 220,
+   "motion": "",
+   "multi": "",
+   "light": "Y",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "조명 포함 | 책상과 책상장 일체 구성",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "deskset",
+    "ceilingUncertain": false,
+    "guideIds": [
+     35
+    ],
+    "sources": [
+     "책상세트 p.18"
+    ],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCJ065",
+   "tier": 5,
+   "width": 1490,
+   "depth": "",
+   "wall": "조건부",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "책상과 책상장 일체 구성",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "hdesk",
+    "ceilingUncertain": false,
+    "guideIds": [
+     4
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCJ065S",
+   "tier": 5,
+   "width": 1490,
+   "depth": "",
+   "wall": "필수",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "책상과 책상장 일체 구성",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "hdesk",
+    "ceilingUncertain": false,
+    "guideIds": [
+     4
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCJ125ALN",
+   "tier": 5,
+   "width": 1200,
+   "depth": "",
+   "wall": "조건부",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "Y",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "조명 포함 | 책상과 책상장 일체 구성",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "deskset",
+    "ceilingUncertain": false,
+    "guideIds": [
+     35
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCJ125ALSN",
+   "tier": 5,
+   "width": 1200,
+   "depth": "",
+   "wall": "필수",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "Y",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "조명 포함 | 책상과 책상장 일체 구성",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "deskset",
+    "ceilingUncertain": false,
+    "guideIds": [
+     35
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCJ125AN",
+   "tier": 5,
+   "width": 1200,
+   "depth": "",
+   "wall": "조건부",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "책상과 책상장 일체 구성",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "deskset",
+    "ceilingUncertain": false,
+    "guideIds": [
+     35
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCJ126A",
+   "tier": 6,
+   "width": 1200,
+   "depth": "",
+   "wall": "조건부",
+   "min_ceiling": 220,
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "책상과 책상장 일체 구성",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "deskset",
+    "ceilingUncertain": false,
+    "guideIds": [
+     35
+    ],
+    "sources": [
+     "책상세트 p.18"
+    ],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCJ126AL",
+   "tier": 6,
+   "width": 1200,
+   "depth": "",
+   "wall": "조건부",
+   "min_ceiling": 220,
+   "motion": "",
+   "multi": "",
+   "light": "Y",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "조명 포함 | 책상과 책상장 일체 구성",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "deskset",
+    "ceilingUncertain": false,
+    "guideIds": [
+     35
+    ],
+    "sources": [
+     "책상세트 p.18"
+    ],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCJ126ALS",
+   "tier": 6,
+   "width": 1200,
+   "depth": "",
+   "wall": "필수",
+   "min_ceiling": 220,
+   "motion": "",
+   "multi": "",
+   "light": "Y",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "조명 포함 | 책상과 책상장 일체 구성",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "deskset",
+    "ceilingUncertain": false,
+    "guideIds": [
+     35
+    ],
+    "sources": [
+     "책상세트 p.18"
+    ],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCJ145A",
+   "tier": 5,
+   "width": 1400,
+   "depth": "",
+   "wall": "조건부",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "책상과 책상장 일체 구성",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "deskset",
+    "ceilingUncertain": false,
+    "guideIds": [
+     35
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCJ145AL",
+   "tier": 5,
+   "width": 1400,
+   "depth": "",
+   "wall": "조건부",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "Y",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "조명 포함 | 책상과 책상장 일체 구성",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "deskset",
+    "ceilingUncertain": false,
+    "guideIds": [
+     35
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCJ145ALS",
+   "tier": 5,
+   "width": 1400,
+   "depth": "",
+   "wall": "필수",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "Y",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "조명 포함 | 책상과 책상장 일체 구성",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "deskset",
+    "ceilingUncertain": false,
+    "guideIds": [
+     35
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCJ146A",
+   "tier": 6,
+   "width": 1400,
+   "depth": "",
+   "wall": "조건부",
+   "min_ceiling": 220,
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "책상과 책상장 일체 구성",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "deskset",
+    "ceilingUncertain": false,
+    "guideIds": [
+     35
+    ],
+    "sources": [
+     "책상세트 p.18"
+    ],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCJ146AL",
+   "tier": 6,
+   "width": 1400,
+   "depth": "",
+   "wall": "조건부",
+   "min_ceiling": 220,
+   "motion": "",
+   "multi": "",
+   "light": "Y",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "조명 포함 | 책상과 책상장 일체 구성",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "deskset",
+    "ceilingUncertain": false,
+    "guideIds": [
+     35
+    ],
+    "sources": [
+     "책상세트 p.18"
+    ],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCJ146ALS",
+   "tier": 6,
+   "width": 1400,
+   "depth": "",
+   "wall": "필수",
+   "min_ceiling": 220,
+   "motion": "",
+   "multi": "",
+   "light": "Y",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "조명 포함 | 책상과 책상장 일체 구성",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "deskset",
+    "ceilingUncertain": false,
+    "guideIds": [
+     35
+    ],
+    "sources": [
+     "책상세트 p.18"
+    ],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCJ165",
+   "tier": 5,
+   "width": 1490,
+   "depth": "",
+   "wall": "조건부",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "책상과 책상장 일체 구성",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "hdesk",
+    "ceilingUncertain": false,
+    "guideIds": [
+     4
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCJ165S",
+   "tier": 5,
+   "width": 1490,
+   "depth": "",
+   "wall": "필수",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "책상과 책상장 일체 구성",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "hdesk",
+    "ceilingUncertain": false,
+    "guideIds": [
+     4
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDEA1201J",
+   "tier": 5,
+   "width": 1200,
+   "depth": "",
+   "wall": "필수",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "Y",
+   "light": "Y",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "멀티선반·배선 정리 구조 | 조명·상부도어 포함 | 책상과 책상장 일체 구성",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "multi",
+    "ceilingUncertain": false,
+    "guideIds": [
+     13
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDEA1202J",
+   "tier": 6,
+   "width": 1200,
+   "depth": "",
+   "wall": "필수",
+   "min_ceiling": 220,
+   "motion": "",
+   "multi": "Y",
+   "light": "Y",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "멀티선반·배선 정리 구조 | 조명·상부도어 포함 | 책상과 책상장 일체 구성",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "multi",
+    "ceilingUncertain": false,
+    "guideIds": [
+     13
+    ],
+    "sources": [
+     "멀티책상세트 p.40"
+    ],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDEA1401J",
+   "tier": 5,
+   "width": 1400,
+   "depth": "",
+   "wall": "필수",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "Y",
+   "light": "Y",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "멀티선반·배선 정리 구조 | 조명·상부도어 포함 | 책상과 책상장 일체 구성",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "multi",
+    "ceilingUncertain": false,
+    "guideIds": [
+     13
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDEA1402J",
+   "tier": 6,
+   "width": 1400,
+   "depth": "",
+   "wall": "필수",
+   "min_ceiling": 220,
+   "motion": "",
+   "multi": "Y",
+   "light": "Y",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "멀티선반·배선 정리 구조 | 조명·상부도어 포함 | 책상과 책상장 일체 구성",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "multi",
+    "ceilingUncertain": false,
+    "guideIds": [
+     13
+    ],
+    "sources": [
+     "멀티책상세트 p.40"
+    ],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDEA1601J",
+   "tier": 5,
+   "width": 1600,
+   "depth": "",
+   "wall": "필수",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "Y",
+   "light": "Y",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "멀티선반·배선 정리 구조 | 조명·상부도어 포함 | 책상과 책상장 일체 구성",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "multi",
+    "ceilingUncertain": false,
+    "guideIds": [
+     13
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDEA1602J",
+   "tier": 6,
+   "width": 1600,
+   "depth": "",
+   "wall": "필수",
+   "min_ceiling": 220,
+   "motion": "",
+   "multi": "Y",
+   "light": "Y",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "멀티선반·배선 정리 구조 | 조명·상부도어 포함 | 책상과 책상장 일체 구성",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "multi",
+    "ceilingUncertain": false,
+    "guideIds": [
+     13
+    ],
+    "sources": [
+     "멀티책상세트 p.40"
+    ],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDCM1206",
+   "tier": "",
+   "width": 1180,
+   "depth": 590,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "Y",
+   "multi": "",
+   "light": "",
+   "colors": "OSWW, WWWW",
+   "features": "높이 조절과 앉기·서기 전환",
+   "checks": "높이 조절 시 의자·서랍·주변 가구와의 간섭을 확인하세요. 충돌 감지 기능만으로 안전을 보장하지 않습니다.",
+   "guide": "",
+   "_carry": {
+    "family": "motionsmart",
+    "ceilingUncertain": false,
+    "guideIds": [
+     17
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDCM1207",
+   "tier": "",
+   "width": 1200,
+   "depth": 700,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "Y",
+   "multi": "",
+   "light": "",
+   "colors": "FKBK, MACBK, MLWW, WWWW",
+   "features": "높이 조절과 앉기·서기 전환",
+   "checks": "높이 조절 시 의자·서랍·주변 가구와의 간섭을 확인하세요. 충돌 감지 기능만으로 안전을 보장하지 않습니다.",
+   "guide": "",
+   "_carry": {
+    "family": "motionother",
+    "ceilingUncertain": false,
+    "guideIds": [],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDCM1406",
+   "tier": "",
+   "width": 1380,
+   "depth": 590,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "Y",
+   "multi": "",
+   "light": "",
+   "colors": "OSWW, WWWW",
+   "features": "높이 조절과 앉기·서기 전환",
+   "checks": "높이 조절 시 의자·서랍·주변 가구와의 간섭을 확인하세요. 충돌 감지 기능만으로 안전을 보장하지 않습니다.",
+   "guide": "",
+   "_carry": {
+    "family": "motionsmart",
+    "ceilingUncertain": false,
+    "guideIds": [
+     17
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDCM1407",
+   "tier": "",
+   "width": 1400,
+   "depth": 700,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "Y",
+   "multi": "",
+   "light": "",
+   "colors": "FKBK, MACBK, MLWW, WWWW",
+   "features": "높이 조절과 앉기·서기 전환",
+   "checks": "높이 조절 시 의자·서랍·주변 가구와의 간섭을 확인하세요. 충돌 감지 기능만으로 안전을 보장하지 않습니다.",
+   "guide": "",
+   "_carry": {
+    "family": "motionother",
+    "ceilingUncertain": false,
+    "guideIds": [],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDCM1606",
+   "tier": "",
+   "width": 1580,
+   "depth": 590,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "Y",
+   "multi": "",
+   "light": "",
+   "colors": "OSWW, WWWW",
+   "features": "높이 조절과 앉기·서기 전환",
+   "checks": "높이 조절 시 의자·서랍·주변 가구와의 간섭을 확인하세요. 충돌 감지 기능만으로 안전을 보장하지 않습니다.",
+   "guide": "",
+   "_carry": {
+    "family": "motionsmart",
+    "ceilingUncertain": false,
+    "guideIds": [
+     17
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDCM1607",
+   "tier": "",
+   "width": 1600,
+   "depth": 700,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "Y",
+   "multi": "",
+   "light": "",
+   "colors": "FKBK, MACBK, MLWW, WWWW",
+   "features": "높이 조절과 앉기·서기 전환",
+   "checks": "높이 조절 시 의자·서랍·주변 가구와의 간섭을 확인하세요. 충돌 감지 기능만으로 안전을 보장하지 않습니다.",
+   "guide": "",
+   "_carry": {
+    "family": "motionother",
+    "ceilingUncertain": false,
+    "guideIds": [],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDDM1407",
+   "tier": "",
+   "width": 1400,
+   "depth": 700,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "Y",
+   "multi": "",
+   "light": "",
+   "colors": "FKBK, MACBK, MLWW, WWWW",
+   "features": "높이 조절과 앉기·서기 전환",
+   "checks": "높이 조절 시 의자·서랍·주변 가구와의 간섭을 확인하세요. 충돌 감지 기능만으로 안전을 보장하지 않습니다.",
+   "guide": "",
+   "_carry": {
+    "family": "motionother",
+    "ceilingUncertain": false,
+    "guideIds": [],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDDM1607",
+   "tier": "",
+   "width": 1600,
+   "depth": 700,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "Y",
+   "multi": "",
+   "light": "",
+   "colors": "FKBK, MACBK, MLWW, WWWW",
+   "features": "높이 조절과 앉기·서기 전환",
+   "checks": "높이 조절 시 의자·서랍·주변 가구와의 간섭을 확인하세요. 충돌 감지 기능만으로 안전을 보장하지 않습니다.",
+   "guide": "",
+   "_carry": {
+    "family": "motionother",
+    "ceilingUncertain": false,
+    "guideIds": [],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDDM1807",
+   "tier": "",
+   "width": 1800,
+   "depth": 700,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "Y",
+   "multi": "",
+   "light": "",
+   "colors": "FKBK, MACBK, MLWW, WWWW",
+   "features": "높이 조절과 앉기·서기 전환",
+   "checks": "높이 조절 시 의자·서랍·주변 가구와의 간섭을 확인하세요. 충돌 감지 기능만으로 안전을 보장하지 않습니다.",
+   "guide": "",
+   "_carry": {
+    "family": "motionother",
+    "ceilingUncertain": false,
+    "guideIds": [],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDIM1207",
+   "tier": "",
+   "width": 1190,
+   "depth": 700,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "Y",
+   "multi": "",
+   "light": "",
+   "colors": "FKBK, MACBK, MLBK, MLWW, WWWW",
+   "features": "높이 조절과 앉기·서기 전환",
+   "checks": "높이 조절 시 의자·서랍·주변 가구와의 간섭을 확인하세요. 충돌 감지 기능만으로 안전을 보장하지 않습니다.",
+   "guide": "",
+   "_carry": {
+    "family": "motionother",
+    "ceilingUncertain": false,
+    "guideIds": [],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDIM1407",
+   "tier": "",
+   "width": 1390,
+   "depth": 700,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "Y",
+   "multi": "",
+   "light": "",
+   "colors": "FKBK, MACBK, MLBK, MLWW, WWWW",
+   "features": "높이 조절과 앉기·서기 전환",
+   "checks": "높이 조절 시 의자·서랍·주변 가구와의 간섭을 확인하세요. 충돌 감지 기능만으로 안전을 보장하지 않습니다.",
+   "guide": "",
+   "_carry": {
+    "family": "motionother",
+    "ceilingUncertain": false,
+    "guideIds": [],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDIM1607",
+   "tier": "",
+   "width": 1590,
+   "depth": 700,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "Y",
+   "multi": "",
+   "light": "",
+   "colors": "FKBK, MACBK, MLBK, MLWW, WWWW",
+   "features": "높이 조절과 앉기·서기 전환",
+   "checks": "높이 조절 시 의자·서랍·주변 가구와의 간섭을 확인하세요. 충돌 감지 기능만으로 안전을 보장하지 않습니다.",
+   "guide": "",
+   "_carry": {
+    "family": "motionother",
+    "ceilingUncertain": false,
+    "guideIds": [],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDIM1807",
+   "tier": "",
+   "width": 1790,
+   "depth": 700,
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "Y",
+   "multi": "",
+   "light": "",
+   "colors": "FKBK, MACBK, MLBK, MLWW, WWWW",
+   "features": "높이 조절과 앉기·서기 전환",
+   "checks": "높이 조절 시 의자·서랍·주변 가구와의 간섭을 확인하세요. 충돌 감지 기능만으로 안전을 보장하지 않습니다.",
+   "guide": "",
+   "_carry": {
+    "family": "motionother",
+    "ceilingUncertain": false,
+    "guideIds": [],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDCM1201J",
+   "tier": 5,
+   "width": 1200,
+   "depth": "",
+   "wall": "필수",
+   "min_ceiling": "",
+   "motion": "Y",
+   "multi": "",
+   "light": "Y",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "높이 조절과 앉기·서기 전환 | 조명 포함 | 책상과 책상장 일체 구성",
+   "checks": "높이 조절 시 의자·서랍·주변 가구와의 간섭을 확인하세요. 충돌 감지 기능만으로 안전을 보장하지 않습니다.",
+   "guide": "",
+   "_carry": {
+    "family": "motionset",
+    "ceilingUncertain": false,
+    "guideIds": [
+     19
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDCM1202J",
+   "tier": 6,
+   "width": 1200,
+   "depth": "",
+   "wall": "필수",
+   "min_ceiling": 220,
+   "motion": "Y",
+   "multi": "",
+   "light": "Y",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "높이 조절과 앉기·서기 전환 | 조명 포함 | 책상과 책상장 일체 구성",
+   "checks": "높이 조절 시 의자·서랍·주변 가구와의 간섭을 확인하세요. 충돌 감지 기능만으로 안전을 보장하지 않습니다.",
+   "guide": "",
+   "_carry": {
+    "family": "motionset",
+    "ceilingUncertain": false,
+    "guideIds": [
+     19
+    ],
+    "sources": [
+     "모션데스크 스마트세트 p.18"
+    ],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDCM1401J",
+   "tier": 5,
+   "width": 1400,
+   "depth": "",
+   "wall": "필수",
+   "min_ceiling": "",
+   "motion": "Y",
+   "multi": "",
+   "light": "Y",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "높이 조절과 앉기·서기 전환 | 조명 포함 | 책상과 책상장 일체 구성",
+   "checks": "높이 조절 시 의자·서랍·주변 가구와의 간섭을 확인하세요. 충돌 감지 기능만으로 안전을 보장하지 않습니다.",
+   "guide": "",
+   "_carry": {
+    "family": "motionset",
+    "ceilingUncertain": false,
+    "guideIds": [
+     19
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDCM1402J",
+   "tier": 6,
+   "width": 1400,
+   "depth": "",
+   "wall": "필수",
+   "min_ceiling": 220,
+   "motion": "Y",
+   "multi": "",
+   "light": "Y",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "높이 조절과 앉기·서기 전환 | 조명 포함 | 책상과 책상장 일체 구성",
+   "checks": "높이 조절 시 의자·서랍·주변 가구와의 간섭을 확인하세요. 충돌 감지 기능만으로 안전을 보장하지 않습니다.",
+   "guide": "",
+   "_carry": {
+    "family": "motionset",
+    "ceilingUncertain": false,
+    "guideIds": [
+     19
+    ],
+    "sources": [
+     "모션데스크 스마트세트 p.18"
+    ],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDEM1201J",
+   "tier": 5,
+   "width": 1200,
+   "depth": "",
+   "wall": "필수",
+   "min_ceiling": "",
+   "motion": "Y",
+   "multi": "Y",
+   "light": "Y",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "높이 조절과 앉기·서기 전환 | 멀티선반·배선 정리 구조 | 조명·상부도어 포함 | 책상과 책상장 일체 구성",
+   "checks": "높이 조절 시 의자·서랍·주변 가구와의 간섭을 확인하세요. 충돌 감지 기능만으로 안전을 보장하지 않습니다.",
+   "guide": "",
+   "_carry": {
+    "family": "motionmulti",
+    "ceilingUncertain": false,
+    "guideIds": [
+     18
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDEM1202J",
+   "tier": 6,
+   "width": 1200,
+   "depth": "",
+   "wall": "필수",
+   "min_ceiling": 220,
+   "motion": "Y",
+   "multi": "Y",
+   "light": "Y",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "높이 조절과 앉기·서기 전환 | 멀티선반·배선 정리 구조 | 조명·상부도어 포함 | 책상과 책상장 일체 구성",
+   "checks": "높이 조절 시 의자·서랍·주변 가구와의 간섭을 확인하세요. 충돌 감지 기능만으로 안전을 보장하지 않습니다.",
+   "guide": "",
+   "_carry": {
+    "family": "motionmulti",
+    "ceilingUncertain": false,
+    "guideIds": [
+     18
+    ],
+    "sources": [
+     "모션데스크 스마트멀티세트 p.48"
+    ],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDEM1401J",
+   "tier": 5,
+   "width": 1400,
+   "depth": "",
+   "wall": "필수",
+   "min_ceiling": "",
+   "motion": "Y",
+   "multi": "Y",
+   "light": "Y",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "높이 조절과 앉기·서기 전환 | 멀티선반·배선 정리 구조 | 조명·상부도어 포함 | 책상과 책상장 일체 구성",
+   "checks": "높이 조절 시 의자·서랍·주변 가구와의 간섭을 확인하세요. 충돌 감지 기능만으로 안전을 보장하지 않습니다.",
+   "guide": "",
+   "_carry": {
+    "family": "motionmulti",
+    "ceilingUncertain": false,
+    "guideIds": [
+     18
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDEM1402J",
+   "tier": 6,
+   "width": 1400,
+   "depth": "",
+   "wall": "필수",
+   "min_ceiling": 220,
+   "motion": "Y",
+   "multi": "Y",
+   "light": "Y",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "높이 조절과 앉기·서기 전환 | 멀티선반·배선 정리 구조 | 조명·상부도어 포함 | 책상과 책상장 일체 구성",
+   "checks": "높이 조절 시 의자·서랍·주변 가구와의 간섭을 확인하세요. 충돌 감지 기능만으로 안전을 보장하지 않습니다.",
+   "guide": "",
+   "_carry": {
+    "family": "motionmulti",
+    "ceilingUncertain": false,
+    "guideIds": [
+     18
+    ],
+    "sources": [
+     "모션데스크 스마트멀티세트 p.48"
+    ],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDEM1601J",
+   "tier": 5,
+   "width": 1600,
+   "depth": "",
+   "wall": "필수",
+   "min_ceiling": "",
+   "motion": "Y",
+   "multi": "Y",
+   "light": "Y",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "높이 조절과 앉기·서기 전환 | 멀티선반·배선 정리 구조 | 조명·상부도어 포함 | 책상과 책상장 일체 구성",
+   "checks": "높이 조절 시 의자·서랍·주변 가구와의 간섭을 확인하세요. 충돌 감지 기능만으로 안전을 보장하지 않습니다.",
+   "guide": "",
+   "_carry": {
+    "family": "motionmulti",
+    "ceilingUncertain": false,
+    "guideIds": [
+     18
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSDEM1602J",
+   "tier": 6,
+   "width": 1600,
+   "depth": "",
+   "wall": "필수",
+   "min_ceiling": 220,
+   "motion": "Y",
+   "multi": "Y",
+   "light": "Y",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "높이 조절과 앉기·서기 전환 | 멀티선반·배선 정리 구조 | 조명·상부도어 포함 | 책상과 책상장 일체 구성",
+   "checks": "높이 조절 시 의자·서랍·주변 가구와의 간섭을 확인하세요. 충돌 감지 기능만으로 안전을 보장하지 않습니다.",
+   "guide": "",
+   "_carry": {
+    "family": "motionmulti",
+    "ceilingUncertain": false,
+    "guideIds": [
+     18
+    ],
+    "sources": [
+     "모션데스크 스마트멀티세트 p.48"
+    ],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DHT1200HF",
+   "tier": "",
+   "width": "",
+   "depth": "",
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "",
+   "features": "올라운드 HF 화이트 의자",
+   "checks": "자녀 신장·발 지지·착석감을 매장에서 확인하세요. 연령별 선호가 공식 사용 연령을 뜻하지는 않습니다.",
+   "guide": "",
+   "_carry": {
+    "family": "ALR",
+    "ceilingUncertain": false,
+    "guideIds": [],
+    "sources": [],
+    "priceKind": "reference"
+   }
+  },
+  {
+   "code": "DHT1300HLDA",
+   "tier": "",
+   "width": "",
+   "depth": "",
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "451M",
+   "features": "데스커 ALL NEW T500HLDA(2023) 화이트쉘, 451M, 그레이",
+   "checks": "자녀 신장·발 지지·착석감을 매장에서 확인하세요. 연령별 선호가 공식 사용 연령을 뜻하지는 않습니다.",
+   "guide": "",
+   "_carry": {
+    "family": "chair",
+    "ceilingUncertain": false,
+    "guideIds": [],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DHT195AD",
+   "tier": "",
+   "width": "",
+   "depth": "",
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "",
+   "features": "링고 2세대 의자(발받침)",
+   "checks": "자녀 신장·발 지지·착석감을 매장에서 확인하세요. 연령별 선호가 공식 사용 연령을 뜻하지는 않습니다.",
+   "guide": "",
+   "_carry": {
+    "family": "RNG",
+    "ceilingUncertain": false,
+    "guideIds": [],
+    "sources": [],
+    "priceKind": "reference"
+   }
+  },
+  {
+   "code": "DHT9FEGU",
+   "tier": "",
+   "width": "",
+   "depth": "",
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "",
+   "features": "아이블 의자",
+   "checks": "자녀 신장·발 지지·착석감을 매장에서 확인하세요. 연령별 선호가 공식 사용 연령을 뜻하지는 않습니다.",
+   "guide": "",
+   "_carry": {
+    "family": "IBL",
+    "ceilingUncertain": false,
+    "guideIds": [],
+    "sources": [],
+    "priceKind": "reference"
+   }
+  },
+  {
+   "code": "DSEAB2201J",
+   "tier": "",
+   "width": 1100,
+   "depth": "",
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "Y",
+   "colors": "OSOS, WWWW",
+   "features": "조명 포함 | 침대 하부 수납·USB·조명",
+   "checks": "프레임 외형과 수납 서랍을 열 공간을 확인하세요. W1100 표기는 방 배치에 필요한 전체 외형 치수를 대신하지 않습니다.",
+   "guide": "",
+   "_carry": {
+    "family": "bed",
+    "ceilingUncertain": false,
+    "guideIds": [
+     28
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSEAB2209G",
+   "tier": "",
+   "width": 1100,
+   "depth": "",
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "Y",
+   "colors": "OSOS, WWWW",
+   "features": "조명 포함 | 침대 하부 수납·USB·조명",
+   "checks": "프레임 외형과 수납 서랍을 열 공간을 확인하세요. W1100 표기는 방 배치에 필요한 전체 외형 치수를 대신하지 않습니다.",
+   "guide": "",
+   "_carry": {
+    "family": "bed",
+    "ceilingUncertain": false,
+    "guideIds": [
+     28
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSWBB0805",
+   "tier": 5,
+   "width": 800,
+   "depth": "",
+   "wall": "필수",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "OSWW, WWWW",
+   "features": "행거와 서랍으로 의류 수납 | 서랍으로 물건을 구분해 정리",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "ward",
+    "ceilingUncertain": false,
+    "guideIds": [
+     7
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSWBB0806",
+   "tier": 6,
+   "width": 800,
+   "depth": "",
+   "wall": "필수",
+   "min_ceiling": 228,
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "OSWW, WWWW",
+   "features": "행거와 서랍으로 의류 수납 | 서랍으로 물건을 구분해 정리",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "ward",
+    "ceilingUncertain": false,
+    "guideIds": [
+     7
+    ],
+    "sources": [
+     "W800 옷장 p.14"
+    ],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSBC085",
+   "tier": 5,
+   "width": 800,
+   "depth": "",
+   "wall": "조건부",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FKFK, MACFK, MACMAC, MLFK, MLWW, WWWW",
+   "features": "W800 5단 목제책장",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "book",
+    "ceilingUncertain": false,
+    "guideIds": [
+     22
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCA0805",
+   "tier": 5,
+   "width": 800,
+   "depth": "",
+   "wall": "조건부",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FKFK, MACFK, MACMAC, MLWW, WWWW",
+   "features": "깊은 하부 수납공간",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "deepbook",
+    "ceilingUncertain": false,
+    "guideIds": [
+     21
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCAB0605",
+   "tier": 5,
+   "width": 600,
+   "depth": "",
+   "wall": "조건부",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "서랍으로 물건을 구분해 정리",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "book600",
+    "ceilingUncertain": false,
+    "guideIds": [
+     23
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCAB0605S",
+   "tier": 5,
+   "width": 600,
+   "depth": "",
+   "wall": "필수",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "서랍으로 물건을 구분해 정리",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "book600",
+    "ceilingUncertain": false,
+    "guideIds": [
+     23
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCAB0606",
+   "tier": 6,
+   "width": 600,
+   "depth": "",
+   "wall": "조건부",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "서랍으로 물건을 구분해 정리",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "book600",
+    "ceilingUncertain": true,
+    "guideIds": [
+     23
+    ],
+    "sources": [
+     "목제책장(W600) p.16: 천장 기준 단위 오기 미해결"
+    ],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCAB0606S",
+   "tier": 6,
+   "width": 600,
+   "depth": "",
+   "wall": "필수",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "서랍으로 물건을 구분해 정리",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "book600",
+    "ceilingUncertain": true,
+    "guideIds": [
+     23
+    ],
+    "sources": [
+     "목제책장(W600) p.16: 천장 기준 단위 오기 미해결"
+    ],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCB0835A",
+   "tier": 5,
+   "width": 800,
+   "depth": "",
+   "wall": "조건부",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FKFK, MACMAC, WWWW",
+   "features": "깊은 하부 수납공간",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "deepbook",
+    "ceilingUncertain": false,
+    "guideIds": [
+     21
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCB0855A",
+   "tier": 5,
+   "width": 800,
+   "depth": "",
+   "wall": "조건부",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FKFK, MACMAC, WWWW",
+   "features": "깊은 하부 수납공간",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "deepbook",
+    "ceilingUncertain": false,
+    "guideIds": [
+     21
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCC065N",
+   "tier": 5,
+   "width": 600,
+   "depth": "",
+   "wall": "조건부",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "W600 5단 목제책장",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "book600",
+    "ceilingUncertain": false,
+    "guideIds": [
+     23
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCC065SN",
+   "tier": 5,
+   "width": 600,
+   "depth": "",
+   "wall": "필수",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "(벽고정)W600 5단 목제책장(하부도어)",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "book600",
+    "ceilingUncertain": false,
+    "guideIds": [
+     23
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCC065SSN",
+   "tier": 5,
+   "width": 600,
+   "depth": "",
+   "wall": "필수",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "(벽고정)W600 5단 목제책장(상하부도어)",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "book600",
+    "ceilingUncertain": false,
+    "guideIds": [
+     23
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCC066",
+   "tier": 6,
+   "width": 600,
+   "depth": "",
+   "wall": "조건부",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "W600 6단 목제책장",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "book600",
+    "ceilingUncertain": true,
+    "guideIds": [
+     23
+    ],
+    "sources": [
+     "목제책장(W600) p.16: 천장 기준 단위 오기 미해결"
+    ],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCC066S",
+   "tier": 6,
+   "width": 600,
+   "depth": "",
+   "wall": "필수",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "(벽고정)W600 6단 목제책장(하부도어)",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "book600",
+    "ceilingUncertain": true,
+    "guideIds": [
+     23
+    ],
+    "sources": [
+     "목제책장(W600) p.16: 천장 기준 단위 오기 미해결"
+    ],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCC066SS",
+   "tier": 6,
+   "width": 600,
+   "depth": "",
+   "wall": "필수",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "(벽고정)W600 6단 목제책장(상하부도어)",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "book600",
+    "ceilingUncertain": true,
+    "guideIds": [
+     23
+    ],
+    "sources": [
+     "목제책장(W600) p.16: 천장 기준 단위 오기 미해결"
+    ],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCC465S",
+   "tier": 5,
+   "width": 600,
+   "depth": "",
+   "wall": "필수",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "깊은 하부 수납공간",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "book600",
+    "ceilingUncertain": false,
+    "guideIds": [
+     23
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCC465SS",
+   "tier": 5,
+   "width": 600,
+   "depth": "",
+   "wall": "필수",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "깊은 하부 수납공간",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "book600",
+    "ceilingUncertain": false,
+    "guideIds": [
+     23
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCC466S",
+   "tier": 6,
+   "width": 600,
+   "depth": "",
+   "wall": "필수",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "깊은 하부 수납공간",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "book600",
+    "ceilingUncertain": true,
+    "guideIds": [
+     23
+    ],
+    "sources": [
+     "목제책장(W600) p.16: 천장 기준 단위 오기 미해결"
+    ],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCC466SS",
+   "tier": 6,
+   "width": 600,
+   "depth": "",
+   "wall": "필수",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "깊은 하부 수납공간",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "book600",
+    "ceilingUncertain": true,
+    "guideIds": [
+     23
+    ],
+    "sources": [
+     "목제책장(W600) p.16: 천장 기준 단위 오기 미해결"
+    ],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSBC082",
+   "tier": 2,
+   "width": 800,
+   "depth": "",
+   "wall": "조건부",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FKFK, MLFK, MLWW, WWWW",
+   "features": "낮은 높이의 책 수납",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "book",
+    "ceilingUncertain": false,
+    "guideIds": [
+     22
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSBC082S",
+   "tier": 2,
+   "width": 800,
+   "depth": "",
+   "wall": "조건부",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FKFK, WWWW",
+   "features": "낮은 높이의 책 수납",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "book",
+    "ceilingUncertain": false,
+    "guideIds": [
+     22
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSBC083",
+   "tier": 3,
+   "width": 800,
+   "depth": "",
+   "wall": "조건부",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FKFK, MACFK, MACMAC, MLFK, MLWW, WWWW",
+   "features": "낮은 높이의 책 수납",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "book",
+    "ceilingUncertain": false,
+    "guideIds": [
+     22
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSBC162",
+   "tier": 2,
+   "width": 1600,
+   "depth": "",
+   "wall": "조건부",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FKFK, MLFK, MLWW, WWWW",
+   "features": "낮은 높이의 책 수납",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "book",
+    "ceilingUncertain": false,
+    "guideIds": [
+     22
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSBC162S",
+   "tier": 2,
+   "width": 1600,
+   "depth": "",
+   "wall": "조건부",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FKFK, WWWW",
+   "features": "낮은 높이의 책 수납",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "book",
+    "ceilingUncertain": false,
+    "guideIds": [
+     22
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSBC163",
+   "tier": 3,
+   "width": 1600,
+   "depth": "",
+   "wall": "조건부",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FKFK, MACMAC, MLFK, MLWW, WWWW",
+   "features": "낮은 높이의 책 수납",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "book",
+    "ceilingUncertain": false,
+    "guideIds": [
+     22
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSBC163S",
+   "tier": 3,
+   "width": 1600,
+   "depth": "",
+   "wall": "조건부",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FKFK, MACMAC, WWWW",
+   "features": "낮은 높이의 책 수납",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "book",
+    "ceilingUncertain": false,
+    "guideIds": [
+     22
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSBC483",
+   "tier": 3,
+   "width": 800,
+   "depth": "",
+   "wall": "조건부",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FKFK, MACFK, MLWW, WWWW",
+   "features": "깊은 하부 수납공간 | 낮은 높이의 책 수납",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "deepbook",
+    "ceilingUncertain": false,
+    "guideIds": [
+     21
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSBC483SA",
+   "tier": 3,
+   "width": 800,
+   "depth": "",
+   "wall": "조건부",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FKFK, WWWW",
+   "features": "깊은 하부 수납공간 | 낮은 높이의 책 수납",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "deepbook",
+    "ceilingUncertain": false,
+    "guideIds": [
+     21
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCFB0605",
+   "tier": 5,
+   "width": 600,
+   "depth": "",
+   "wall": "조건부",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "거울과 수납을 함께 구성 | 깊은 하부 수납공간",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "mirror",
+    "ceilingUncertain": false,
+    "guideIds": [
+     24
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCFB0605J",
+   "tier": 5,
+   "width": 600,
+   "depth": "",
+   "wall": "조건부",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "거울과 수납을 함께 구성 | 서랍으로 물건을 구분해 정리",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "mirror",
+    "ceilingUncertain": false,
+    "guideIds": [
+     24
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCFB0606",
+   "tier": 6,
+   "width": 600,
+   "depth": "",
+   "wall": "조건부",
+   "min_ceiling": 228,
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "거울과 수납을 함께 구성 | 깊은 하부 수납공간",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "mirror",
+    "ceilingUncertain": false,
+    "guideIds": [
+     24
+    ],
+    "sources": [
+     "목제책장(W600,거울도어) p.16"
+    ],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSCFB0606J",
+   "tier": 6,
+   "width": 600,
+   "depth": "",
+   "wall": "조건부",
+   "min_ceiling": 228,
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "OSOS, OSWW, WWWW",
+   "features": "거울과 수납을 함께 구성 | 서랍으로 물건을 구분해 정리",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "mirror",
+    "ceilingUncertain": false,
+    "guideIds": [
+     24
+    ],
+    "sources": [
+     "목제책장(W600,거울도어) p.16"
+    ],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSPAAE0603",
+   "tier": 3,
+   "width": 600,
+   "depth": "",
+   "wall": "조건부",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "OS, OSWW, WW",
+   "features": "서랍으로 물건을 구분해 정리",
+   "checks": "책상 아래에 놓을 경우 하부 높이·깊이·의자 이동 공간을 별도로 확인하세요.",
+   "guide": "",
+   "_carry": {
+    "family": "book600",
+    "ceilingUncertain": false,
+    "guideIds": [
+     23
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSPAAY0403A",
+   "tier": 3,
+   "width": 400,
+   "depth": "",
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FK, WW",
+   "features": "서랍으로 물건을 구분해 정리",
+   "checks": "책상 아래에 놓을 경우 하부 높이·깊이·의자 이동 공간을 별도로 확인하세요.",
+   "guide": "",
+   "_carry": {
+    "family": "drawer",
+    "ceilingUncertain": false,
+    "guideIds": [
+     27
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSPAEY0401A",
+   "tier": 1,
+   "width": 400,
+   "depth": "",
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FK, WW",
+   "features": "서랍으로 물건을 구분해 정리",
+   "checks": "책상 아래에 놓을 경우 하부 높이·깊이·의자 이동 공간을 별도로 확인하세요.",
+   "guide": "",
+   "_carry": {
+    "family": "drawer",
+    "ceilingUncertain": false,
+    "guideIds": [
+     27
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSPBAY0302A",
+   "tier": 2,
+   "width": 290,
+   "depth": "",
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FKBI, WWBI",
+   "features": "서랍으로 물건을 구분해 정리",
+   "checks": "책상 아래에 놓을 경우 하부 높이·깊이·의자 이동 공간을 별도로 확인하세요.",
+   "guide": "",
+   "_carry": {
+    "family": "slimdrawer",
+    "ceilingUncertain": false,
+    "guideIds": [
+     31
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DVDSAP1303",
+   "tier": 3,
+   "width": 290,
+   "depth": "",
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FKBI, WWBI",
+   "features": "서랍으로 물건을 구분해 정리",
+   "checks": "책상 아래에 놓을 경우 하부 높이·깊이·의자 이동 공간을 별도로 확인하세요.",
+   "guide": "",
+   "_carry": {
+    "family": "slimdrawer",
+    "ceilingUncertain": false,
+    "guideIds": [
+     30
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DVDSAP1303A",
+   "tier": 3,
+   "width": 290,
+   "depth": "",
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FKBI, WWBI",
+   "features": "서랍으로 물건을 구분해 정리",
+   "checks": "책상 아래에 놓을 경우 하부 높이·깊이·의자 이동 공간을 별도로 확인하세요.",
+   "guide": "",
+   "_carry": {
+    "family": "slimdrawer",
+    "ceilingUncertain": false,
+    "guideIds": [
+     30
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DVDSAP2303A",
+   "tier": 3,
+   "width": 290,
+   "depth": "",
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FKBI, WWBI",
+   "features": "서랍으로 물건을 구분해 정리",
+   "checks": "책상 아래에 놓을 경우 하부 높이·깊이·의자 이동 공간을 별도로 확인하세요.",
+   "guide": "",
+   "_carry": {
+    "family": "slimdrawer",
+    "ceilingUncertain": false,
+    "guideIds": [
+     30
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSACAA0301",
+   "tier": "",
+   "width": "",
+   "depth": "",
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "WW",
+   "features": "페이퍼트레이",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "generic",
+    "ceilingUncertain": false,
+    "guideIds": [
+     38
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSACBA0201",
+   "tier": "",
+   "width": "",
+   "depth": "",
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "WW",
+   "features": "멀티 오거나이저",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "generic",
+    "ceilingUncertain": false,
+    "guideIds": [
+     11
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSACBA0202",
+   "tier": "",
+   "width": "",
+   "depth": "",
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "WW",
+   "features": "툴박스",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "generic",
+    "ceilingUncertain": false,
+    "guideIds": [
+     37
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSACBA0300",
+   "tier": "",
+   "width": "",
+   "depth": "",
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "WW",
+   "features": "멀티 북스탠드",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "generic",
+    "ceilingUncertain": false,
+    "guideIds": [
+     10
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSACBA0301",
+   "tier": "",
+   "width": "",
+   "depth": "",
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "WW",
+   "features": "스태킹 오거나이저",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "generic",
+    "ceilingUncertain": false,
+    "guideIds": [
+     29
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSAF1007S",
+   "tier": "",
+   "width": 700,
+   "depth": "",
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FK, ML, WW",
+   "features": "W700 데스크정리함",
+   "checks": "",
+   "guide": "",
+   "_carry": {
+    "family": "generic",
+    "ceilingUncertain": false,
+    "guideIds": [
+     9
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSAA0301",
+   "tier": "",
+   "width": 600,
+   "depth": "",
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FK, ML, WW",
+   "features": "W600 모니터받침대",
+   "checks": "모니터 지지대 크기·무게와 받침대 설치 폭을 확인하세요.",
+   "guide": "",
+   "_carry": {
+    "family": "generic",
+    "ceilingUncertain": false,
+    "guideIds": [
+     14
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSAA0302",
+   "tier": "",
+   "width": 600,
+   "depth": "",
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FK, ML, WW",
+   "features": "서랍으로 물건을 구분해 정리",
+   "checks": "모니터 지지대 크기·무게와 받침대 설치 폭을 확인하세요.",
+   "guide": "",
+   "_carry": {
+    "family": "generic",
+    "ceilingUncertain": false,
+    "guideIds": [
+     14
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSAA0303",
+   "tier": "",
+   "width": 1000,
+   "depth": "",
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FK, ML, WW",
+   "features": "서랍으로 물건을 구분해 정리",
+   "checks": "모니터 지지대 크기·무게와 받침대 설치 폭을 확인하세요.",
+   "guide": "",
+   "_carry": {
+    "family": "generic",
+    "ceilingUncertain": false,
+    "guideIds": [
+     14
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSABPA06001",
+   "tier": "",
+   "width": 600,
+   "depth": "",
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FK, ML, WW",
+   "features": "W600 모니터받침대 USB/고속무선충전형 2.0",
+   "checks": "모니터 지지대 크기·무게와 받침대 설치 폭을 확인하세요.",
+   "guide": "",
+   "_carry": {
+    "family": "generic",
+    "ceilingUncertain": false,
+    "guideIds": [
+     15
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSABPA10001",
+   "tier": "",
+   "width": 1000,
+   "depth": "",
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "FK, ML, WW",
+   "features": "서랍으로 물건을 구분해 정리",
+   "checks": "모니터 지지대 크기·무게와 받침대 설치 폭을 확인하세요.",
+   "guide": "",
+   "_carry": {
+    "family": "generic",
+    "ceilingUncertain": false,
+    "guideIds": [
+     15
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSAEAA0501",
+   "tier": "",
+   "width": "",
+   "depth": "",
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "",
+   "colors": "BK, WW",
+   "features": "싱글 모니터암",
+   "checks": "모니터의 무게·VESA 규격·책상 상판과 클램프 설치 여유를 가이드 및 판매처에서 확인하세요.",
+   "guide": "",
+   "_carry": {
+    "family": "monitorarm",
+    "ceilingUncertain": false,
+    "guideIds": [
+     16
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSAGEA0801G",
+   "tier": "",
+   "width": 800,
+   "depth": "",
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "Y",
+   "colors": "WW",
+   "features": "조명 포함",
+   "checks": "조명 거치 방식, 모니터 높이와 간섭을 확인하세요. 클램프형은 상판 두께 17~35mm 조건 및 유리 상판 제한을 확인해야 합니다. (조명 가이드 p.12~13)",
+   "guide": "",
+   "_carry": {
+    "family": "light",
+    "ceilingUncertain": false,
+    "guideIds": [
+     6
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  },
+  {
+   "code": "DSAGEA0802G",
+   "tier": "",
+   "width": 800,
+   "depth": "",
+   "wall": "없음",
+   "min_ceiling": "",
+   "motion": "",
+   "multi": "",
+   "light": "Y",
+   "colors": "WW",
+   "features": "조명 포함",
+   "checks": "조명 거치 방식, 모니터 높이와 간섭을 확인하세요. 클램프형은 상판 두께 17~35mm 조건 및 유리 상판 제한을 확인해야 합니다. (조명 가이드 p.12~13)",
+   "guide": "",
+   "_carry": {
+    "family": "light",
+    "ceilingUncertain": false,
+    "guideIds": [
+     6
+    ],
+    "sources": [],
+    "priceKind": "workbook"
+   }
+  }
+ ],
+ "base": {
+  "BR": {
+   "u50": [
+    "50만원 미만",
+    0,
+    500000
+   ],
+   "50": [
+    "50만원 이상 ~ 100만원 미만",
+    500000,
+    1000000
+   ],
+   "100": [
+    "100만원 이상 ~ 150만원 미만",
+    1000000,
+    1500000
+   ],
+   "150": [
+    "150만원 이상 ~ 200만원 미만",
+    1500000,
+    2000000
+   ],
+   "200": [
+    "200만원 이상 ~ 250만원 미만",
+    2000000,
+    2500000
+   ],
+   "250": [
+    "250만원 이상 ~ 300만원 미만",
+    2500000,
+    3000000
+   ],
+   "300": [
+    "300만원 이상",
+    3000000,
+    1000000000
+   ]
+  },
+  "REFERENCE_SIGNATURES": [
+   "DHT1200HF|DSCAB0605S|DSCJ045ALS|DSEAB2201J",
+   "DHT1200HF|DSCAB0605S|DSCJ045ALS|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCAB0605S|DSCJ125ALSN|DSEAB2201J",
+   "DHT1200HF|DSCAB0605S|DSCJ125ALSN|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCAB0605S|DSCJ145ALS|DSEAB2201J",
+   "DHT1200HF|DSCAB0605S|DSCJ145ALS|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCAB0605S|DSDAB0806EG",
+   "DHT1200HF|DSCAB0605S|DSDBB1207",
+   "DHT1200HF|DSCAB0605S|DSDBB1407",
+   "DHT1200HF|DSCAB0605S|DSDBB1607",
+   "DHT1200HF|DSCAB0605S|DSDBB1608",
+   "DHT1200HF|DSCAB0605S|DSDBB1808",
+   "DHT1200HF|DSCAB0605S|DSDCM1201J|DSEAB2201J",
+   "DHT1200HF|DSCAB0605S|DSDCM1201J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCAB0605S|DSDCM1207",
+   "DHT1200HF|DSCAB0605S|DSDCM1401J|DSEAB2201J",
+   "DHT1200HF|DSCAB0605S|DSDCM1401J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCAB0605S|DSDCM1407",
+   "DHT1200HF|DSCAB0605S|DSDCM1607",
+   "DHT1200HF|DSCAB0605S|DSDDB1407",
+   "DHT1200HF|DSCAB0605S|DSDDB1407J",
+   "DHT1200HF|DSCAB0605S|DSDDB1607",
+   "DHT1200HF|DSCAB0605S|DSDDB1607J",
+   "DHT1200HF|DSCAB0605S|DSDDB1608J",
+   "DHT1200HF|DSCAB0605S|DSDDB1808",
+   "DHT1200HF|DSCAB0605S|DSDDB1808J",
+   "DHT1200HF|DSCAB0605S|DSDDM1407",
+   "DHT1200HF|DSCAB0605S|DSDDM1607",
+   "DHT1200HF|DSCAB0605S|DSDDM1807",
+   "DHT1200HF|DSCAB0605S|DSDEA1201J|DSEAB2201J",
+   "DHT1200HF|DSCAB0605S|DSDEA1201J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCAB0605S|DSDEA1401J|DSEAB2201J",
+   "DHT1200HF|DSCAB0605S|DSDEA1401J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCAB0605S|DSDEA1601J|DSEAB2201J",
+   "DHT1200HF|DSCAB0605S|DSDEA1601J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCAB0605S|DSDEM1201J|DSEAB2201J",
+   "DHT1200HF|DSCAB0605S|DSDEM1201J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCAB0605S|DSDEM1401J|DSEAB2201J",
+   "DHT1200HF|DSCAB0605S|DSDEM1401J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCAB0605S|DSDEM1601J|DSEAB2201J",
+   "DHT1200HF|DSCAB0605S|DSDEM1601J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCAB0605S|DSDIM1207",
+   "DHT1200HF|DSCAB0605S|DSDIM1407",
+   "DHT1200HF|DSCAB0605S|DSDIM1607",
+   "DHT1200HF|DSCAB0605S|DSDIM1807",
+   "DHT1200HF|DSCAB0606S|DSCJ026ALS|DSEAB2201J",
+   "DHT1200HF|DSCAB0606S|DSCJ026ALS|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCAB0606S|DSCJ046ALS|DSEAB2201J",
+   "DHT1200HF|DSCAB0606S|DSCJ046ALS|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCAB0606S|DSCJ126ALS|DSEAB2201J",
+   "DHT1200HF|DSCAB0606S|DSCJ126ALS|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCAB0606S|DSCJ146ALS|DSEAB2201J",
+   "DHT1200HF|DSCAB0606S|DSCJ146ALS|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCAB0606S|DSDAB0806EG",
+   "DHT1200HF|DSCAB0606S|DSDBB1207",
+   "DHT1200HF|DSCAB0606S|DSDBB1407",
+   "DHT1200HF|DSCAB0606S|DSDBB1607",
+   "DHT1200HF|DSCAB0606S|DSDBB1608",
+   "DHT1200HF|DSCAB0606S|DSDBB1808",
+   "DHT1200HF|DSCAB0606S|DSDCM1202J|DSEAB2201J",
+   "DHT1200HF|DSCAB0606S|DSDCM1202J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCAB0606S|DSDCM1207",
+   "DHT1200HF|DSCAB0606S|DSDCM1402J|DSEAB2201J",
+   "DHT1200HF|DSCAB0606S|DSDCM1402J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCAB0606S|DSDCM1407",
+   "DHT1200HF|DSCAB0606S|DSDCM1607",
+   "DHT1200HF|DSCAB0606S|DSDDB1407",
+   "DHT1200HF|DSCAB0606S|DSDDB1407J",
+   "DHT1200HF|DSCAB0606S|DSDDB1607",
+   "DHT1200HF|DSCAB0606S|DSDDB1607J",
+   "DHT1200HF|DSCAB0606S|DSDDB1608J",
+   "DHT1200HF|DSCAB0606S|DSDDB1808",
+   "DHT1200HF|DSCAB0606S|DSDDB1808J",
+   "DHT1200HF|DSCAB0606S|DSDDM1407",
+   "DHT1200HF|DSCAB0606S|DSDDM1607",
+   "DHT1200HF|DSCAB0606S|DSDDM1807",
+   "DHT1200HF|DSCAB0606S|DSDEA1202J|DSEAB2201J",
+   "DHT1200HF|DSCAB0606S|DSDEA1202J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCAB0606S|DSDEA1402J|DSEAB2201J",
+   "DHT1200HF|DSCAB0606S|DSDEA1402J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCAB0606S|DSDEA1602J|DSEAB2201J",
+   "DHT1200HF|DSCAB0606S|DSDEA1602J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCAB0606S|DSDEM1202J|DSEAB2201J",
+   "DHT1200HF|DSCAB0606S|DSDEM1202J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCAB0606S|DSDEM1402J|DSEAB2201J",
+   "DHT1200HF|DSCAB0606S|DSDEM1402J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCAB0606S|DSDEM1602J|DSEAB2201J",
+   "DHT1200HF|DSCAB0606S|DSDEM1602J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCAB0606S|DSDIM1207",
+   "DHT1200HF|DSCAB0606S|DSDIM1407",
+   "DHT1200HF|DSCAB0606S|DSDIM1607",
+   "DHT1200HF|DSCAB0606S|DSDIM1807",
+   "DHT1200HF|DSCC065SSN|DSCJ045ALS|DSEAB2201J",
+   "DHT1200HF|DSCC065SSN|DSCJ045ALS|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCC065SSN|DSCJ125ALSN|DSEAB2201J",
+   "DHT1200HF|DSCC065SSN|DSCJ125ALSN|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCC065SSN|DSCJ145ALS|DSEAB2201J",
+   "DHT1200HF|DSCC065SSN|DSCJ145ALS|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCC065SSN|DSDAB0806EG",
+   "DHT1200HF|DSCC065SSN|DSDBB1207",
+   "DHT1200HF|DSCC065SSN|DSDBB1407",
+   "DHT1200HF|DSCC065SSN|DSDBB1607",
+   "DHT1200HF|DSCC065SSN|DSDBB1608",
+   "DHT1200HF|DSCC065SSN|DSDBB1808",
+   "DHT1200HF|DSCC065SSN|DSDCM1201J|DSEAB2201J",
+   "DHT1200HF|DSCC065SSN|DSDCM1201J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCC065SSN|DSDCM1207",
+   "DHT1200HF|DSCC065SSN|DSDCM1401J|DSEAB2201J",
+   "DHT1200HF|DSCC065SSN|DSDCM1401J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCC065SSN|DSDCM1407",
+   "DHT1200HF|DSCC065SSN|DSDCM1607",
+   "DHT1200HF|DSCC065SSN|DSDDB1407",
+   "DHT1200HF|DSCC065SSN|DSDDB1407J",
+   "DHT1200HF|DSCC065SSN|DSDDB1607",
+   "DHT1200HF|DSCC065SSN|DSDDB1607J",
+   "DHT1200HF|DSCC065SSN|DSDDB1608J",
+   "DHT1200HF|DSCC065SSN|DSDDB1808",
+   "DHT1200HF|DSCC065SSN|DSDDB1808J",
+   "DHT1200HF|DSCC065SSN|DSDDM1407",
+   "DHT1200HF|DSCC065SSN|DSDDM1607",
+   "DHT1200HF|DSCC065SSN|DSDDM1807",
+   "DHT1200HF|DSCC065SSN|DSDEA1201J|DSEAB2201J",
+   "DHT1200HF|DSCC065SSN|DSDEA1201J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCC065SSN|DSDEA1401J|DSEAB2201J",
+   "DHT1200HF|DSCC065SSN|DSDEA1401J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCC065SSN|DSDEA1601J|DSEAB2201J",
+   "DHT1200HF|DSCC065SSN|DSDEA1601J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCC065SSN|DSDEM1201J|DSEAB2201J",
+   "DHT1200HF|DSCC065SSN|DSDEM1201J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCC065SSN|DSDEM1401J|DSEAB2201J",
+   "DHT1200HF|DSCC065SSN|DSDEM1401J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCC065SSN|DSDEM1601J|DSEAB2201J",
+   "DHT1200HF|DSCC065SSN|DSDEM1601J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCC065SSN|DSDIM1207",
+   "DHT1200HF|DSCC065SSN|DSDIM1407",
+   "DHT1200HF|DSCC065SSN|DSDIM1607",
+   "DHT1200HF|DSCC065SSN|DSDIM1807",
+   "DHT1200HF|DSCC066SS|DSCJ026ALS|DSEAB2201J",
+   "DHT1200HF|DSCC066SS|DSCJ026ALS|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCC066SS|DSCJ046ALS|DSEAB2201J",
+   "DHT1200HF|DSCC066SS|DSCJ046ALS|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCC066SS|DSCJ126ALS|DSEAB2201J",
+   "DHT1200HF|DSCC066SS|DSCJ126ALS|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCC066SS|DSCJ146ALS|DSEAB2201J",
+   "DHT1200HF|DSCC066SS|DSCJ146ALS|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCC066SS|DSDAB0806EG",
+   "DHT1200HF|DSCC066SS|DSDBB1207",
+   "DHT1200HF|DSCC066SS|DSDBB1407",
+   "DHT1200HF|DSCC066SS|DSDBB1607",
+   "DHT1200HF|DSCC066SS|DSDBB1608",
+   "DHT1200HF|DSCC066SS|DSDBB1808",
+   "DHT1200HF|DSCC066SS|DSDCM1202J|DSEAB2201J",
+   "DHT1200HF|DSCC066SS|DSDCM1202J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCC066SS|DSDCM1207",
+   "DHT1200HF|DSCC066SS|DSDCM1402J|DSEAB2201J",
+   "DHT1200HF|DSCC066SS|DSDCM1402J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCC066SS|DSDCM1407",
+   "DHT1200HF|DSCC066SS|DSDCM1607",
+   "DHT1200HF|DSCC066SS|DSDDB1407",
+   "DHT1200HF|DSCC066SS|DSDDB1407J",
+   "DHT1200HF|DSCC066SS|DSDDB1607",
+   "DHT1200HF|DSCC066SS|DSDDB1607J",
+   "DHT1200HF|DSCC066SS|DSDDB1608J",
+   "DHT1200HF|DSCC066SS|DSDDB1808",
+   "DHT1200HF|DSCC066SS|DSDDB1808J",
+   "DHT1200HF|DSCC066SS|DSDDM1407",
+   "DHT1200HF|DSCC066SS|DSDDM1607",
+   "DHT1200HF|DSCC066SS|DSDDM1807",
+   "DHT1200HF|DSCC066SS|DSDEA1202J|DSEAB2201J",
+   "DHT1200HF|DSCC066SS|DSDEA1202J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCC066SS|DSDEA1402J|DSEAB2201J",
+   "DHT1200HF|DSCC066SS|DSDEA1402J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCC066SS|DSDEA1602J|DSEAB2201J",
+   "DHT1200HF|DSCC066SS|DSDEA1602J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCC066SS|DSDEM1202J|DSEAB2201J",
+   "DHT1200HF|DSCC066SS|DSDEM1202J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCC066SS|DSDEM1402J|DSEAB2201J",
+   "DHT1200HF|DSCC066SS|DSDEM1402J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCC066SS|DSDEM1602J|DSEAB2201J",
+   "DHT1200HF|DSCC066SS|DSDEM1602J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCC066SS|DSDIM1207",
+   "DHT1200HF|DSCC066SS|DSDIM1407",
+   "DHT1200HF|DSCC066SS|DSDIM1607",
+   "DHT1200HF|DSCC066SS|DSDIM1807",
+   "DHT1200HF|DSCC465SS|DSCJ045ALS|DSEAB2201J",
+   "DHT1200HF|DSCC465SS|DSCJ045ALS|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCC465SS|DSCJ125ALSN|DSEAB2201J",
+   "DHT1200HF|DSCC465SS|DSCJ125ALSN|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCC465SS|DSCJ145ALS|DSEAB2201J",
+   "DHT1200HF|DSCC465SS|DSCJ145ALS|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCC465SS|DSDAB0806EG",
+   "DHT1200HF|DSCC465SS|DSDBB1207",
+   "DHT1200HF|DSCC465SS|DSDBB1407",
+   "DHT1200HF|DSCC465SS|DSDBB1607",
+   "DHT1200HF|DSCC465SS|DSDBB1608",
+   "DHT1200HF|DSCC465SS|DSDBB1808",
+   "DHT1200HF|DSCC465SS|DSDCM1201J|DSEAB2201J",
+   "DHT1200HF|DSCC465SS|DSDCM1201J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCC465SS|DSDCM1207",
+   "DHT1200HF|DSCC465SS|DSDCM1401J|DSEAB2201J",
+   "DHT1200HF|DSCC465SS|DSDCM1401J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCC465SS|DSDCM1407",
+   "DHT1200HF|DSCC465SS|DSDCM1607",
+   "DHT1200HF|DSCC465SS|DSDDB1407",
+   "DHT1200HF|DSCC465SS|DSDDB1407J",
+   "DHT1200HF|DSCC465SS|DSDDB1607",
+   "DHT1200HF|DSCC465SS|DSDDB1607J",
+   "DHT1200HF|DSCC465SS|DSDDB1608J",
+   "DHT1200HF|DSCC465SS|DSDDB1808",
+   "DHT1200HF|DSCC465SS|DSDDB1808J",
+   "DHT1200HF|DSCC465SS|DSDDM1407",
+   "DHT1200HF|DSCC465SS|DSDDM1607",
+   "DHT1200HF|DSCC465SS|DSDDM1807",
+   "DHT1200HF|DSCC465SS|DSDEA1201J|DSEAB2201J",
+   "DHT1200HF|DSCC465SS|DSDEA1201J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCC465SS|DSDEA1401J|DSEAB2201J",
+   "DHT1200HF|DSCC465SS|DSDEA1401J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCC465SS|DSDEA1601J|DSEAB2201J",
+   "DHT1200HF|DSCC465SS|DSDEA1601J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCC465SS|DSDEM1201J|DSEAB2201J",
+   "DHT1200HF|DSCC465SS|DSDEM1201J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCC465SS|DSDEM1401J|DSEAB2201J",
+   "DHT1200HF|DSCC465SS|DSDEM1401J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCC465SS|DSDEM1601J|DSEAB2201J",
+   "DHT1200HF|DSCC465SS|DSDEM1601J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCC465SS|DSDIM1207",
+   "DHT1200HF|DSCC465SS|DSDIM1407",
+   "DHT1200HF|DSCC465SS|DSDIM1607",
+   "DHT1200HF|DSCC465SS|DSDIM1807",
+   "DHT1200HF|DSCC466SS|DSCJ026ALS|DSEAB2201J",
+   "DHT1200HF|DSCC466SS|DSCJ026ALS|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCC466SS|DSCJ046ALS|DSEAB2201J",
+   "DHT1200HF|DSCC466SS|DSCJ046ALS|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCC466SS|DSCJ126ALS|DSEAB2201J",
+   "DHT1200HF|DSCC466SS|DSCJ126ALS|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCC466SS|DSCJ146ALS|DSEAB2201J",
+   "DHT1200HF|DSCC466SS|DSCJ146ALS|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCC466SS|DSDAB0806EG",
+   "DHT1200HF|DSCC466SS|DSDBB1207",
+   "DHT1200HF|DSCC466SS|DSDBB1407",
+   "DHT1200HF|DSCC466SS|DSDBB1607",
+   "DHT1200HF|DSCC466SS|DSDBB1608",
+   "DHT1200HF|DSCC466SS|DSDBB1808",
+   "DHT1200HF|DSCC466SS|DSDCM1202J|DSEAB2201J",
+   "DHT1200HF|DSCC466SS|DSDCM1202J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCC466SS|DSDCM1207",
+   "DHT1200HF|DSCC466SS|DSDCM1402J|DSEAB2201J",
+   "DHT1200HF|DSCC466SS|DSDCM1402J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCC466SS|DSDCM1407",
+   "DHT1200HF|DSCC466SS|DSDCM1607",
+   "DHT1200HF|DSCC466SS|DSDDB1407",
+   "DHT1200HF|DSCC466SS|DSDDB1407J",
+   "DHT1200HF|DSCC466SS|DSDDB1607",
+   "DHT1200HF|DSCC466SS|DSDDB1607J",
+   "DHT1200HF|DSCC466SS|DSDDB1608J",
+   "DHT1200HF|DSCC466SS|DSDDB1808",
+   "DHT1200HF|DSCC466SS|DSDDB1808J",
+   "DHT1200HF|DSCC466SS|DSDDM1407",
+   "DHT1200HF|DSCC466SS|DSDDM1607",
+   "DHT1200HF|DSCC466SS|DSDDM1807",
+   "DHT1200HF|DSCC466SS|DSDEA1202J|DSEAB2201J",
+   "DHT1200HF|DSCC466SS|DSDEA1202J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCC466SS|DSDEA1402J|DSEAB2201J",
+   "DHT1200HF|DSCC466SS|DSDEA1402J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCC466SS|DSDEA1602J|DSEAB2201J",
+   "DHT1200HF|DSCC466SS|DSDEA1602J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCC466SS|DSDEM1202J|DSEAB2201J",
+   "DHT1200HF|DSCC466SS|DSDEM1202J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCC466SS|DSDEM1402J|DSEAB2201J",
+   "DHT1200HF|DSCC466SS|DSDEM1402J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCC466SS|DSDEM1602J|DSEAB2201J",
+   "DHT1200HF|DSCC466SS|DSDEM1602J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCC466SS|DSDIM1207",
+   "DHT1200HF|DSCC466SS|DSDIM1407",
+   "DHT1200HF|DSCC466SS|DSDIM1607",
+   "DHT1200HF|DSCC466SS|DSDIM1807",
+   "DHT1200HF|DSCFB0605J|DSCJ045ALS|DSEAB2201J",
+   "DHT1200HF|DSCFB0605J|DSCJ045ALS|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCFB0605J|DSCJ125ALSN|DSEAB2201J",
+   "DHT1200HF|DSCFB0605J|DSCJ125ALSN|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCFB0605J|DSCJ145ALS|DSEAB2201J",
+   "DHT1200HF|DSCFB0605J|DSCJ145ALS|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCFB0605J|DSDCM1201J|DSEAB2201J",
+   "DHT1200HF|DSCFB0605J|DSDCM1201J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCFB0605J|DSDCM1401J|DSEAB2201J",
+   "DHT1200HF|DSCFB0605J|DSDCM1401J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCFB0605J|DSDEA1201J|DSEAB2201J",
+   "DHT1200HF|DSCFB0605J|DSDEA1201J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCFB0605J|DSDEA1401J|DSEAB2201J",
+   "DHT1200HF|DSCFB0605J|DSDEA1401J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCFB0605J|DSDEA1601J|DSEAB2201J",
+   "DHT1200HF|DSCFB0605J|DSDEA1601J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCFB0605J|DSDEM1201J|DSEAB2201J",
+   "DHT1200HF|DSCFB0605J|DSDEM1201J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCFB0605J|DSDEM1401J|DSEAB2201J",
+   "DHT1200HF|DSCFB0605J|DSDEM1401J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCFB0605J|DSDEM1601J|DSEAB2201J",
+   "DHT1200HF|DSCFB0605J|DSDEM1601J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCFB0605|DSCJ045ALS|DSEAB2201J",
+   "DHT1200HF|DSCFB0605|DSCJ045ALS|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCFB0605|DSCJ125ALSN|DSEAB2201J",
+   "DHT1200HF|DSCFB0605|DSCJ125ALSN|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCFB0605|DSCJ145ALS|DSEAB2201J",
+   "DHT1200HF|DSCFB0605|DSCJ145ALS|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCFB0605|DSDCM1201J|DSEAB2201J",
+   "DHT1200HF|DSCFB0605|DSDCM1201J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCFB0605|DSDCM1401J|DSEAB2201J",
+   "DHT1200HF|DSCFB0605|DSDCM1401J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCFB0605|DSDEA1201J|DSEAB2201J",
+   "DHT1200HF|DSCFB0605|DSDEA1201J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCFB0605|DSDEA1401J|DSEAB2201J",
+   "DHT1200HF|DSCFB0605|DSDEA1401J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCFB0605|DSDEA1601J|DSEAB2201J",
+   "DHT1200HF|DSCFB0605|DSDEA1601J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCFB0605|DSDEM1201J|DSEAB2201J",
+   "DHT1200HF|DSCFB0605|DSDEM1201J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCFB0605|DSDEM1401J|DSEAB2201J",
+   "DHT1200HF|DSCFB0605|DSDEM1401J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCFB0605|DSDEM1601J|DSEAB2201J",
+   "DHT1200HF|DSCFB0605|DSDEM1601J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCFB0606J|DSCJ026ALS|DSEAB2201J",
+   "DHT1200HF|DSCFB0606J|DSCJ026ALS|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCFB0606J|DSCJ046ALS|DSEAB2201J",
+   "DHT1200HF|DSCFB0606J|DSCJ046ALS|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCFB0606J|DSCJ126ALS|DSEAB2201J",
+   "DHT1200HF|DSCFB0606J|DSCJ126ALS|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCFB0606J|DSCJ146ALS|DSEAB2201J",
+   "DHT1200HF|DSCFB0606J|DSCJ146ALS|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCFB0606J|DSDCM1202J|DSEAB2201J",
+   "DHT1200HF|DSCFB0606J|DSDCM1202J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCFB0606J|DSDCM1402J|DSEAB2201J",
+   "DHT1200HF|DSCFB0606J|DSDCM1402J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCFB0606J|DSDEA1202J|DSEAB2201J",
+   "DHT1200HF|DSCFB0606J|DSDEA1202J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCFB0606J|DSDEA1402J|DSEAB2201J",
+   "DHT1200HF|DSCFB0606J|DSDEA1402J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCFB0606J|DSDEA1602J|DSEAB2201J",
+   "DHT1200HF|DSCFB0606J|DSDEA1602J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCFB0606J|DSDEM1202J|DSEAB2201J",
+   "DHT1200HF|DSCFB0606J|DSDEM1202J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCFB0606J|DSDEM1402J|DSEAB2201J",
+   "DHT1200HF|DSCFB0606J|DSDEM1402J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCFB0606J|DSDEM1602J|DSEAB2201J",
+   "DHT1200HF|DSCFB0606J|DSDEM1602J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCFB0606|DSCJ026ALS|DSEAB2201J",
+   "DHT1200HF|DSCFB0606|DSCJ026ALS|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCFB0606|DSCJ046ALS|DSEAB2201J",
+   "DHT1200HF|DSCFB0606|DSCJ046ALS|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCFB0606|DSCJ126ALS|DSEAB2201J",
+   "DHT1200HF|DSCFB0606|DSCJ126ALS|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCFB0606|DSCJ146ALS|DSEAB2201J",
+   "DHT1200HF|DSCFB0606|DSCJ146ALS|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCFB0606|DSDCM1202J|DSEAB2201J",
+   "DHT1200HF|DSCFB0606|DSDCM1202J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCFB0606|DSDCM1402J|DSEAB2201J",
+   "DHT1200HF|DSCFB0606|DSDCM1402J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCFB0606|DSDEA1202J|DSEAB2201J",
+   "DHT1200HF|DSCFB0606|DSDEA1202J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCFB0606|DSDEA1402J|DSEAB2201J",
+   "DHT1200HF|DSCFB0606|DSDEA1402J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCFB0606|DSDEA1602J|DSEAB2201J",
+   "DHT1200HF|DSCFB0606|DSDEA1602J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCFB0606|DSDEM1202J|DSEAB2201J",
+   "DHT1200HF|DSCFB0606|DSDEM1202J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCFB0606|DSDEM1402J|DSEAB2201J",
+   "DHT1200HF|DSCFB0606|DSDEM1402J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCFB0606|DSDEM1602J|DSEAB2201J",
+   "DHT1200HF|DSCFB0606|DSDEM1602J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCJ026ALS|DSDAB0806EG|DSEAB2201J",
+   "DHT1200HF|DSCJ026ALS|DSEAB2201J",
+   "DHT1200HF|DSCJ026ALS|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCJ045ALS|DSDAB0806EG|DSEAB2201J",
+   "DHT1200HF|DSCJ045ALS|DSEAB2201J",
+   "DHT1200HF|DSCJ045ALS|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCJ046ALS|DSDAB0806EG|DSEAB2201J",
+   "DHT1200HF|DSCJ046ALS|DSEAB2201J",
+   "DHT1200HF|DSCJ046ALS|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCJ125ALSN|DSDAB0806EG|DSEAB2201J",
+   "DHT1200HF|DSCJ125ALSN|DSEAB2201J",
+   "DHT1200HF|DSCJ125ALSN|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCJ126ALS|DSDAB0806EG|DSEAB2201J",
+   "DHT1200HF|DSCJ126ALS|DSEAB2201J",
+   "DHT1200HF|DSCJ126ALS|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSCJ145ALS|DSDAB0806EG|DSEAB2201J",
+   "DHT1200HF|DSCJ145ALS|DSEAB2201J",
+   "DHT1200HF|DSCJ145ALS|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSCJ146ALS|DSDAB0806EG|DSEAB2201J",
+   "DHT1200HF|DSCJ146ALS|DSEAB2201J",
+   "DHT1200HF|DSCJ146ALS|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSDAB0806EG|DSDEA1201J|DSEAB2201J",
+   "DHT1200HF|DSDAB0806EG|DSDEA1202J|DSEAB2201J",
+   "DHT1200HF|DSDAB0806EG|DSDEA1401J|DSEAB2201J",
+   "DHT1200HF|DSDAB0806EG|DSDEA1402J|DSEAB2201J",
+   "DHT1200HF|DSDAB0806EG|DSDEA1601J|DSEAB2201J",
+   "DHT1200HF|DSDAB0806EG|DSDEA1602J|DSEAB2201J",
+   "DHT1200HF|DSDCM1201J|DSEAB2201J",
+   "DHT1200HF|DSDCM1201J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSDCM1202J|DSEAB2201J",
+   "DHT1200HF|DSDCM1202J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSDCM1401J|DSEAB2201J",
+   "DHT1200HF|DSDCM1401J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSDCM1402J|DSEAB2201J",
+   "DHT1200HF|DSDCM1402J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSDEA1201J|DSEAB2201J",
+   "DHT1200HF|DSDEA1201J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSDEA1202J|DSEAB2201J",
+   "DHT1200HF|DSDEA1202J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSDEA1401J|DSEAB2201J",
+   "DHT1200HF|DSDEA1401J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSDEA1402J|DSEAB2201J",
+   "DHT1200HF|DSDEA1402J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSDEA1601J|DSEAB2201J",
+   "DHT1200HF|DSDEA1601J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSDEA1602J|DSEAB2201J",
+   "DHT1200HF|DSDEA1602J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSDEM1201J|DSEAB2201J",
+   "DHT1200HF|DSDEM1201J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSDEM1202J|DSEAB2201J",
+   "DHT1200HF|DSDEM1202J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSDEM1401J|DSEAB2201J",
+   "DHT1200HF|DSDEM1401J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSDEM1402J|DSEAB2201J",
+   "DHT1200HF|DSDEM1402J|DSEAB2201J|DSWBB0806",
+   "DHT1200HF|DSDEM1601J|DSEAB2201J",
+   "DHT1200HF|DSDEM1601J|DSEAB2201J|DSWBB0805",
+   "DHT1200HF|DSDEM1602J|DSEAB2201J",
+   "DHT1200HF|DSDEM1602J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCAB0605S|DSCJ045ALS|DSEAB2201J",
+   "DHT1300HLDA|DSCAB0605S|DSCJ045ALS|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCAB0605S|DSCJ125ALSN|DSEAB2201J",
+   "DHT1300HLDA|DSCAB0605S|DSCJ125ALSN|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCAB0605S|DSCJ145ALS|DSEAB2201J",
+   "DHT1300HLDA|DSCAB0605S|DSCJ145ALS|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCAB0605S|DSDCM1201J|DSEAB2201J",
+   "DHT1300HLDA|DSCAB0605S|DSDCM1201J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCAB0605S|DSDCM1401J|DSEAB2201J",
+   "DHT1300HLDA|DSCAB0605S|DSDCM1401J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCAB0605S|DSDDB1407",
+   "DHT1300HLDA|DSCAB0605S|DSDDB1407J",
+   "DHT1300HLDA|DSCAB0605S|DSDDB1607",
+   "DHT1300HLDA|DSCAB0605S|DSDDB1607J",
+   "DHT1300HLDA|DSCAB0605S|DSDDB1608J",
+   "DHT1300HLDA|DSCAB0605S|DSDDB1808",
+   "DHT1300HLDA|DSCAB0605S|DSDDB1808J",
+   "DHT1300HLDA|DSCAB0605S|DSDDM1407",
+   "DHT1300HLDA|DSCAB0605S|DSDDM1607",
+   "DHT1300HLDA|DSCAB0605S|DSDDM1807",
+   "DHT1300HLDA|DSCAB0605S|DSDEA1201J|DSEAB2201J",
+   "DHT1300HLDA|DSCAB0605S|DSDEA1201J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCAB0605S|DSDEA1401J|DSEAB2201J",
+   "DHT1300HLDA|DSCAB0605S|DSDEA1401J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCAB0605S|DSDEA1601J|DSEAB2201J",
+   "DHT1300HLDA|DSCAB0605S|DSDEA1601J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCAB0605S|DSDEM1201J|DSEAB2201J",
+   "DHT1300HLDA|DSCAB0605S|DSDEM1201J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCAB0605S|DSDEM1401J|DSEAB2201J",
+   "DHT1300HLDA|DSCAB0605S|DSDEM1401J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCAB0605S|DSDEM1601J|DSEAB2201J",
+   "DHT1300HLDA|DSCAB0605S|DSDEM1601J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCAB0606S|DSCJ026ALS|DSEAB2201J",
+   "DHT1300HLDA|DSCAB0606S|DSCJ026ALS|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCAB0606S|DSCJ046ALS|DSEAB2201J",
+   "DHT1300HLDA|DSCAB0606S|DSCJ046ALS|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCAB0606S|DSCJ126ALS|DSEAB2201J",
+   "DHT1300HLDA|DSCAB0606S|DSCJ126ALS|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCAB0606S|DSCJ146ALS|DSEAB2201J",
+   "DHT1300HLDA|DSCAB0606S|DSCJ146ALS|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCAB0606S|DSDCM1202J|DSEAB2201J",
+   "DHT1300HLDA|DSCAB0606S|DSDCM1202J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCAB0606S|DSDCM1402J|DSEAB2201J",
+   "DHT1300HLDA|DSCAB0606S|DSDCM1402J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCAB0606S|DSDDB1407",
+   "DHT1300HLDA|DSCAB0606S|DSDDB1407J",
+   "DHT1300HLDA|DSCAB0606S|DSDDB1607",
+   "DHT1300HLDA|DSCAB0606S|DSDDB1607J",
+   "DHT1300HLDA|DSCAB0606S|DSDDB1608J",
+   "DHT1300HLDA|DSCAB0606S|DSDDB1808",
+   "DHT1300HLDA|DSCAB0606S|DSDDB1808J",
+   "DHT1300HLDA|DSCAB0606S|DSDDM1407",
+   "DHT1300HLDA|DSCAB0606S|DSDDM1607",
+   "DHT1300HLDA|DSCAB0606S|DSDDM1807",
+   "DHT1300HLDA|DSCAB0606S|DSDEA1202J|DSEAB2201J",
+   "DHT1300HLDA|DSCAB0606S|DSDEA1202J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCAB0606S|DSDEA1402J|DSEAB2201J",
+   "DHT1300HLDA|DSCAB0606S|DSDEA1402J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCAB0606S|DSDEA1602J|DSEAB2201J",
+   "DHT1300HLDA|DSCAB0606S|DSDEA1602J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCAB0606S|DSDEM1202J|DSEAB2201J",
+   "DHT1300HLDA|DSCAB0606S|DSDEM1202J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCAB0606S|DSDEM1402J|DSEAB2201J",
+   "DHT1300HLDA|DSCAB0606S|DSDEM1402J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCAB0606S|DSDEM1602J|DSEAB2201J",
+   "DHT1300HLDA|DSCAB0606S|DSDEM1602J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCC065SSN|DSCJ045ALS|DSEAB2201J",
+   "DHT1300HLDA|DSCC065SSN|DSCJ045ALS|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCC065SSN|DSCJ125ALSN|DSEAB2201J",
+   "DHT1300HLDA|DSCC065SSN|DSCJ125ALSN|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCC065SSN|DSCJ145ALS|DSEAB2201J",
+   "DHT1300HLDA|DSCC065SSN|DSCJ145ALS|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCC065SSN|DSDCM1201J|DSEAB2201J",
+   "DHT1300HLDA|DSCC065SSN|DSDCM1201J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCC065SSN|DSDCM1401J|DSEAB2201J",
+   "DHT1300HLDA|DSCC065SSN|DSDCM1401J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCC065SSN|DSDDB1407",
+   "DHT1300HLDA|DSCC065SSN|DSDDB1407J",
+   "DHT1300HLDA|DSCC065SSN|DSDDB1607",
+   "DHT1300HLDA|DSCC065SSN|DSDDB1607J",
+   "DHT1300HLDA|DSCC065SSN|DSDDB1608J",
+   "DHT1300HLDA|DSCC065SSN|DSDDB1808",
+   "DHT1300HLDA|DSCC065SSN|DSDDB1808J",
+   "DHT1300HLDA|DSCC065SSN|DSDDM1407",
+   "DHT1300HLDA|DSCC065SSN|DSDDM1607",
+   "DHT1300HLDA|DSCC065SSN|DSDDM1807",
+   "DHT1300HLDA|DSCC065SSN|DSDEA1201J|DSEAB2201J",
+   "DHT1300HLDA|DSCC065SSN|DSDEA1201J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCC065SSN|DSDEA1401J|DSEAB2201J",
+   "DHT1300HLDA|DSCC065SSN|DSDEA1401J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCC065SSN|DSDEA1601J|DSEAB2201J",
+   "DHT1300HLDA|DSCC065SSN|DSDEA1601J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCC065SSN|DSDEM1201J|DSEAB2201J",
+   "DHT1300HLDA|DSCC065SSN|DSDEM1201J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCC065SSN|DSDEM1401J|DSEAB2201J",
+   "DHT1300HLDA|DSCC065SSN|DSDEM1401J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCC065SSN|DSDEM1601J|DSEAB2201J",
+   "DHT1300HLDA|DSCC065SSN|DSDEM1601J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCC066SS|DSCJ026ALS|DSEAB2201J",
+   "DHT1300HLDA|DSCC066SS|DSCJ026ALS|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCC066SS|DSCJ046ALS|DSEAB2201J",
+   "DHT1300HLDA|DSCC066SS|DSCJ046ALS|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCC066SS|DSCJ126ALS|DSEAB2201J",
+   "DHT1300HLDA|DSCC066SS|DSCJ126ALS|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCC066SS|DSCJ146ALS|DSEAB2201J",
+   "DHT1300HLDA|DSCC066SS|DSCJ146ALS|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCC066SS|DSDCM1202J|DSEAB2201J",
+   "DHT1300HLDA|DSCC066SS|DSDCM1202J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCC066SS|DSDCM1402J|DSEAB2201J",
+   "DHT1300HLDA|DSCC066SS|DSDCM1402J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCC066SS|DSDDB1407",
+   "DHT1300HLDA|DSCC066SS|DSDDB1407J",
+   "DHT1300HLDA|DSCC066SS|DSDDB1607",
+   "DHT1300HLDA|DSCC066SS|DSDDB1607J",
+   "DHT1300HLDA|DSCC066SS|DSDDB1608J",
+   "DHT1300HLDA|DSCC066SS|DSDDB1808",
+   "DHT1300HLDA|DSCC066SS|DSDDB1808J",
+   "DHT1300HLDA|DSCC066SS|DSDDM1407",
+   "DHT1300HLDA|DSCC066SS|DSDDM1607",
+   "DHT1300HLDA|DSCC066SS|DSDDM1807",
+   "DHT1300HLDA|DSCC066SS|DSDEA1202J|DSEAB2201J",
+   "DHT1300HLDA|DSCC066SS|DSDEA1202J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCC066SS|DSDEA1402J|DSEAB2201J",
+   "DHT1300HLDA|DSCC066SS|DSDEA1402J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCC066SS|DSDEA1602J|DSEAB2201J",
+   "DHT1300HLDA|DSCC066SS|DSDEA1602J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCC066SS|DSDEM1202J|DSEAB2201J",
+   "DHT1300HLDA|DSCC066SS|DSDEM1202J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCC066SS|DSDEM1402J|DSEAB2201J",
+   "DHT1300HLDA|DSCC066SS|DSDEM1402J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCC066SS|DSDEM1602J|DSEAB2201J",
+   "DHT1300HLDA|DSCC066SS|DSDEM1602J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCC465SS|DSCJ045ALS|DSEAB2201J",
+   "DHT1300HLDA|DSCC465SS|DSCJ045ALS|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCC465SS|DSCJ125ALSN|DSEAB2201J",
+   "DHT1300HLDA|DSCC465SS|DSCJ125ALSN|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCC465SS|DSCJ145ALS|DSEAB2201J",
+   "DHT1300HLDA|DSCC465SS|DSCJ145ALS|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCC465SS|DSDCM1201J|DSEAB2201J",
+   "DHT1300HLDA|DSCC465SS|DSDCM1201J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCC465SS|DSDCM1401J|DSEAB2201J",
+   "DHT1300HLDA|DSCC465SS|DSDCM1401J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCC465SS|DSDDB1407",
+   "DHT1300HLDA|DSCC465SS|DSDDB1407J",
+   "DHT1300HLDA|DSCC465SS|DSDDB1607",
+   "DHT1300HLDA|DSCC465SS|DSDDB1607J",
+   "DHT1300HLDA|DSCC465SS|DSDDB1608J",
+   "DHT1300HLDA|DSCC465SS|DSDDB1808",
+   "DHT1300HLDA|DSCC465SS|DSDDB1808J",
+   "DHT1300HLDA|DSCC465SS|DSDDM1407",
+   "DHT1300HLDA|DSCC465SS|DSDDM1607",
+   "DHT1300HLDA|DSCC465SS|DSDDM1807",
+   "DHT1300HLDA|DSCC465SS|DSDEA1201J|DSEAB2201J",
+   "DHT1300HLDA|DSCC465SS|DSDEA1201J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCC465SS|DSDEA1401J|DSEAB2201J",
+   "DHT1300HLDA|DSCC465SS|DSDEA1401J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCC465SS|DSDEA1601J|DSEAB2201J",
+   "DHT1300HLDA|DSCC465SS|DSDEA1601J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCC465SS|DSDEM1201J|DSEAB2201J",
+   "DHT1300HLDA|DSCC465SS|DSDEM1201J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCC465SS|DSDEM1401J|DSEAB2201J",
+   "DHT1300HLDA|DSCC465SS|DSDEM1401J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCC465SS|DSDEM1601J|DSEAB2201J",
+   "DHT1300HLDA|DSCC465SS|DSDEM1601J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCC466SS|DSCJ026ALS|DSEAB2201J",
+   "DHT1300HLDA|DSCC466SS|DSCJ026ALS|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCC466SS|DSCJ046ALS|DSEAB2201J",
+   "DHT1300HLDA|DSCC466SS|DSCJ046ALS|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCC466SS|DSCJ126ALS|DSEAB2201J",
+   "DHT1300HLDA|DSCC466SS|DSCJ126ALS|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCC466SS|DSCJ146ALS|DSEAB2201J",
+   "DHT1300HLDA|DSCC466SS|DSCJ146ALS|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCC466SS|DSDCM1202J|DSEAB2201J",
+   "DHT1300HLDA|DSCC466SS|DSDCM1202J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCC466SS|DSDCM1402J|DSEAB2201J",
+   "DHT1300HLDA|DSCC466SS|DSDCM1402J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCC466SS|DSDDB1407",
+   "DHT1300HLDA|DSCC466SS|DSDDB1407J",
+   "DHT1300HLDA|DSCC466SS|DSDDB1607",
+   "DHT1300HLDA|DSCC466SS|DSDDB1607J",
+   "DHT1300HLDA|DSCC466SS|DSDDB1608J",
+   "DHT1300HLDA|DSCC466SS|DSDDB1808",
+   "DHT1300HLDA|DSCC466SS|DSDDB1808J",
+   "DHT1300HLDA|DSCC466SS|DSDDM1407",
+   "DHT1300HLDA|DSCC466SS|DSDDM1607",
+   "DHT1300HLDA|DSCC466SS|DSDDM1807",
+   "DHT1300HLDA|DSCC466SS|DSDEA1202J|DSEAB2201J",
+   "DHT1300HLDA|DSCC466SS|DSDEA1202J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCC466SS|DSDEA1402J|DSEAB2201J",
+   "DHT1300HLDA|DSCC466SS|DSDEA1402J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCC466SS|DSDEA1602J|DSEAB2201J",
+   "DHT1300HLDA|DSCC466SS|DSDEA1602J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCC466SS|DSDEM1202J|DSEAB2201J",
+   "DHT1300HLDA|DSCC466SS|DSDEM1202J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCC466SS|DSDEM1402J|DSEAB2201J",
+   "DHT1300HLDA|DSCC466SS|DSDEM1402J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCC466SS|DSDEM1602J|DSEAB2201J",
+   "DHT1300HLDA|DSCC466SS|DSDEM1602J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCFB0605J|DSCJ045ALS|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0605J|DSCJ045ALS|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCFB0605J|DSCJ125ALSN|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0605J|DSCJ125ALSN|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCFB0605J|DSCJ145ALS|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0605J|DSCJ145ALS|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCFB0605J|DSDCM1201J|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0605J|DSDCM1201J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCFB0605J|DSDCM1401J|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0605J|DSDCM1401J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCFB0605J|DSDEA1201J|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0605J|DSDEA1201J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCFB0605J|DSDEA1401J|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0605J|DSDEA1401J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCFB0605J|DSDEA1601J|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0605J|DSDEA1601J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCFB0605J|DSDEM1201J|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0605J|DSDEM1201J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCFB0605J|DSDEM1401J|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0605J|DSDEM1401J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCFB0605J|DSDEM1601J|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0605J|DSDEM1601J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCFB0605|DSCJ045ALS|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0605|DSCJ045ALS|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCFB0605|DSCJ125ALSN|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0605|DSCJ125ALSN|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCFB0605|DSCJ145ALS|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0605|DSCJ145ALS|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCFB0605|DSDCM1201J|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0605|DSDCM1201J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCFB0605|DSDCM1401J|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0605|DSDCM1401J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCFB0605|DSDEA1201J|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0605|DSDEA1201J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCFB0605|DSDEA1401J|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0605|DSDEA1401J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCFB0605|DSDEA1601J|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0605|DSDEA1601J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCFB0605|DSDEM1201J|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0605|DSDEM1201J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCFB0605|DSDEM1401J|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0605|DSDEM1401J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCFB0605|DSDEM1601J|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0605|DSDEM1601J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCFB0606J|DSCJ026ALS|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0606J|DSCJ026ALS|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCFB0606J|DSCJ046ALS|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0606J|DSCJ046ALS|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCFB0606J|DSCJ126ALS|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0606J|DSCJ126ALS|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCFB0606J|DSCJ146ALS|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0606J|DSCJ146ALS|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCFB0606J|DSDCM1202J|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0606J|DSDCM1202J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCFB0606J|DSDCM1402J|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0606J|DSDCM1402J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCFB0606J|DSDEA1202J|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0606J|DSDEA1202J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCFB0606J|DSDEA1402J|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0606J|DSDEA1402J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCFB0606J|DSDEA1602J|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0606J|DSDEA1602J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCFB0606J|DSDEM1202J|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0606J|DSDEM1202J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCFB0606J|DSDEM1402J|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0606J|DSDEM1402J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCFB0606J|DSDEM1602J|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0606J|DSDEM1602J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCFB0606|DSCJ026ALS|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0606|DSCJ026ALS|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCFB0606|DSCJ046ALS|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0606|DSCJ046ALS|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCFB0606|DSCJ126ALS|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0606|DSCJ126ALS|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCFB0606|DSCJ146ALS|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0606|DSCJ146ALS|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCFB0606|DSDCM1202J|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0606|DSDCM1202J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCFB0606|DSDCM1402J|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0606|DSDCM1402J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCFB0606|DSDEA1202J|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0606|DSDEA1202J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCFB0606|DSDEA1402J|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0606|DSDEA1402J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCFB0606|DSDEA1602J|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0606|DSDEA1602J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCFB0606|DSDEM1202J|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0606|DSDEM1202J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCFB0606|DSDEM1402J|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0606|DSDEM1402J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCFB0606|DSDEM1602J|DSEAB2201J",
+   "DHT1300HLDA|DSCFB0606|DSDEM1602J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCJ026ALS|DSDAB0806EG|DSEAB2201J",
+   "DHT1300HLDA|DSCJ026ALS|DSEAB2201J",
+   "DHT1300HLDA|DSCJ026ALS|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCJ045ALS|DSDAB0806EG|DSEAB2201J",
+   "DHT1300HLDA|DSCJ045ALS|DSEAB2201J",
+   "DHT1300HLDA|DSCJ045ALS|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCJ046ALS|DSDAB0806EG|DSEAB2201J",
+   "DHT1300HLDA|DSCJ046ALS|DSEAB2201J",
+   "DHT1300HLDA|DSCJ046ALS|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCJ125ALSN|DSDAB0806EG|DSEAB2201J",
+   "DHT1300HLDA|DSCJ125ALSN|DSEAB2201J",
+   "DHT1300HLDA|DSCJ125ALSN|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCJ126ALS|DSDAB0806EG|DSEAB2201J",
+   "DHT1300HLDA|DSCJ126ALS|DSEAB2201J",
+   "DHT1300HLDA|DSCJ126ALS|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSCJ145ALS|DSDAB0806EG|DSEAB2201J",
+   "DHT1300HLDA|DSCJ145ALS|DSEAB2201J",
+   "DHT1300HLDA|DSCJ145ALS|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSCJ146ALS|DSDAB0806EG|DSEAB2201J",
+   "DHT1300HLDA|DSCJ146ALS|DSEAB2201J",
+   "DHT1300HLDA|DSCJ146ALS|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSDAB0806EG|DSDEA1201J|DSEAB2201J",
+   "DHT1300HLDA|DSDAB0806EG|DSDEA1202J|DSEAB2201J",
+   "DHT1300HLDA|DSDAB0806EG|DSDEA1401J|DSEAB2201J",
+   "DHT1300HLDA|DSDAB0806EG|DSDEA1402J|DSEAB2201J",
+   "DHT1300HLDA|DSDAB0806EG|DSDEA1601J|DSEAB2201J",
+   "DHT1300HLDA|DSDAB0806EG|DSDEA1602J|DSEAB2201J",
+   "DHT1300HLDA|DSDCM1201J|DSEAB2201J",
+   "DHT1300HLDA|DSDCM1201J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSDCM1202J|DSEAB2201J",
+   "DHT1300HLDA|DSDCM1202J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSDCM1401J|DSEAB2201J",
+   "DHT1300HLDA|DSDCM1401J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSDCM1402J|DSEAB2201J",
+   "DHT1300HLDA|DSDCM1402J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSDEA1201J|DSEAB2201J",
+   "DHT1300HLDA|DSDEA1201J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSDEA1202J|DSEAB2201J",
+   "DHT1300HLDA|DSDEA1202J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSDEA1401J|DSEAB2201J",
+   "DHT1300HLDA|DSDEA1401J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSDEA1402J|DSEAB2201J",
+   "DHT1300HLDA|DSDEA1402J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSDEA1601J|DSEAB2201J",
+   "DHT1300HLDA|DSDEA1601J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSDEA1602J|DSEAB2201J",
+   "DHT1300HLDA|DSDEA1602J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSDEM1201J|DSEAB2201J",
+   "DHT1300HLDA|DSDEM1201J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSDEM1202J|DSEAB2201J",
+   "DHT1300HLDA|DSDEM1202J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSDEM1401J|DSEAB2201J",
+   "DHT1300HLDA|DSDEM1401J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSDEM1402J|DSEAB2201J",
+   "DHT1300HLDA|DSDEM1402J|DSEAB2201J|DSWBB0806",
+   "DHT1300HLDA|DSDEM1601J|DSEAB2201J",
+   "DHT1300HLDA|DSDEM1601J|DSEAB2201J|DSWBB0805",
+   "DHT1300HLDA|DSDEM1602J|DSEAB2201J",
+   "DHT1300HLDA|DSDEM1602J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCAB0605S|DSCJ045ALS|DSEAB2201J",
+   "DHT195AD|DSCAB0605S|DSCJ045ALS|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCAB0605S|DSCJ125ALSN|DSEAB2201J",
+   "DHT195AD|DSCAB0605S|DSCJ125ALSN|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCAB0605S|DSCJ145ALS|DSEAB2201J",
+   "DHT195AD|DSCAB0605S|DSCJ145ALS|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCAB0605S|DSDBB1207",
+   "DHT195AD|DSCAB0605S|DSDBB1407",
+   "DHT195AD|DSCAB0605S|DSDBB1607",
+   "DHT195AD|DSCAB0605S|DSDBB1608",
+   "DHT195AD|DSCAB0605S|DSDBB1808",
+   "DHT195AD|DSCAB0605S|DSDCM1201J|DSEAB2201J",
+   "DHT195AD|DSCAB0605S|DSDCM1201J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCAB0605S|DSDCM1207",
+   "DHT195AD|DSCAB0605S|DSDCM1401J|DSEAB2201J",
+   "DHT195AD|DSCAB0605S|DSDCM1401J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCAB0605S|DSDCM1407",
+   "DHT195AD|DSCAB0605S|DSDCM1607",
+   "DHT195AD|DSCAB0605S|DSDEA1201J|DSEAB2201J",
+   "DHT195AD|DSCAB0605S|DSDEA1201J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCAB0605S|DSDEA1401J|DSEAB2201J",
+   "DHT195AD|DSCAB0605S|DSDEA1401J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCAB0605S|DSDEA1601J|DSEAB2201J",
+   "DHT195AD|DSCAB0605S|DSDEA1601J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCAB0605S|DSDEM1201J|DSEAB2201J",
+   "DHT195AD|DSCAB0605S|DSDEM1201J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCAB0605S|DSDEM1401J|DSEAB2201J",
+   "DHT195AD|DSCAB0605S|DSDEM1401J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCAB0605S|DSDEM1601J|DSEAB2201J",
+   "DHT195AD|DSCAB0605S|DSDEM1601J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCAB0605S|DSDIM1207",
+   "DHT195AD|DSCAB0605S|DSDIM1407",
+   "DHT195AD|DSCAB0605S|DSDIM1607",
+   "DHT195AD|DSCAB0605S|DSDIM1807",
+   "DHT195AD|DSCAB0606S|DSCJ026ALS|DSEAB2201J",
+   "DHT195AD|DSCAB0606S|DSCJ026ALS|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCAB0606S|DSCJ046ALS|DSEAB2201J",
+   "DHT195AD|DSCAB0606S|DSCJ046ALS|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCAB0606S|DSCJ126ALS|DSEAB2201J",
+   "DHT195AD|DSCAB0606S|DSCJ126ALS|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCAB0606S|DSCJ146ALS|DSEAB2201J",
+   "DHT195AD|DSCAB0606S|DSCJ146ALS|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCAB0606S|DSDBB1207",
+   "DHT195AD|DSCAB0606S|DSDBB1407",
+   "DHT195AD|DSCAB0606S|DSDBB1607",
+   "DHT195AD|DSCAB0606S|DSDBB1608",
+   "DHT195AD|DSCAB0606S|DSDBB1808",
+   "DHT195AD|DSCAB0606S|DSDCM1202J|DSEAB2201J",
+   "DHT195AD|DSCAB0606S|DSDCM1202J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCAB0606S|DSDCM1207",
+   "DHT195AD|DSCAB0606S|DSDCM1402J|DSEAB2201J",
+   "DHT195AD|DSCAB0606S|DSDCM1402J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCAB0606S|DSDCM1407",
+   "DHT195AD|DSCAB0606S|DSDCM1607",
+   "DHT195AD|DSCAB0606S|DSDEA1202J|DSEAB2201J",
+   "DHT195AD|DSCAB0606S|DSDEA1202J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCAB0606S|DSDEA1402J|DSEAB2201J",
+   "DHT195AD|DSCAB0606S|DSDEA1402J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCAB0606S|DSDEA1602J|DSEAB2201J",
+   "DHT195AD|DSCAB0606S|DSDEA1602J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCAB0606S|DSDEM1202J|DSEAB2201J",
+   "DHT195AD|DSCAB0606S|DSDEM1202J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCAB0606S|DSDEM1402J|DSEAB2201J",
+   "DHT195AD|DSCAB0606S|DSDEM1402J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCAB0606S|DSDEM1602J|DSEAB2201J",
+   "DHT195AD|DSCAB0606S|DSDEM1602J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCAB0606S|DSDIM1207",
+   "DHT195AD|DSCAB0606S|DSDIM1407",
+   "DHT195AD|DSCAB0606S|DSDIM1607",
+   "DHT195AD|DSCAB0606S|DSDIM1807",
+   "DHT195AD|DSCC065SSN|DSCJ045ALS|DSEAB2201J",
+   "DHT195AD|DSCC065SSN|DSCJ045ALS|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCC065SSN|DSCJ125ALSN|DSEAB2201J",
+   "DHT195AD|DSCC065SSN|DSCJ125ALSN|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCC065SSN|DSCJ145ALS|DSEAB2201J",
+   "DHT195AD|DSCC065SSN|DSCJ145ALS|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCC065SSN|DSDBB1207",
+   "DHT195AD|DSCC065SSN|DSDBB1407",
+   "DHT195AD|DSCC065SSN|DSDBB1607",
+   "DHT195AD|DSCC065SSN|DSDBB1608",
+   "DHT195AD|DSCC065SSN|DSDBB1808",
+   "DHT195AD|DSCC065SSN|DSDCM1201J|DSEAB2201J",
+   "DHT195AD|DSCC065SSN|DSDCM1201J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCC065SSN|DSDCM1207",
+   "DHT195AD|DSCC065SSN|DSDCM1401J|DSEAB2201J",
+   "DHT195AD|DSCC065SSN|DSDCM1401J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCC065SSN|DSDCM1407",
+   "DHT195AD|DSCC065SSN|DSDCM1607",
+   "DHT195AD|DSCC065SSN|DSDEA1201J|DSEAB2201J",
+   "DHT195AD|DSCC065SSN|DSDEA1201J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCC065SSN|DSDEA1401J|DSEAB2201J",
+   "DHT195AD|DSCC065SSN|DSDEA1401J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCC065SSN|DSDEA1601J|DSEAB2201J",
+   "DHT195AD|DSCC065SSN|DSDEA1601J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCC065SSN|DSDEM1201J|DSEAB2201J",
+   "DHT195AD|DSCC065SSN|DSDEM1201J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCC065SSN|DSDEM1401J|DSEAB2201J",
+   "DHT195AD|DSCC065SSN|DSDEM1401J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCC065SSN|DSDEM1601J|DSEAB2201J",
+   "DHT195AD|DSCC065SSN|DSDEM1601J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCC065SSN|DSDIM1207",
+   "DHT195AD|DSCC065SSN|DSDIM1407",
+   "DHT195AD|DSCC065SSN|DSDIM1607",
+   "DHT195AD|DSCC065SSN|DSDIM1807",
+   "DHT195AD|DSCC066SS|DSCJ026ALS|DSEAB2201J",
+   "DHT195AD|DSCC066SS|DSCJ026ALS|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCC066SS|DSCJ046ALS|DSEAB2201J",
+   "DHT195AD|DSCC066SS|DSCJ046ALS|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCC066SS|DSCJ126ALS|DSEAB2201J",
+   "DHT195AD|DSCC066SS|DSCJ126ALS|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCC066SS|DSCJ146ALS|DSEAB2201J",
+   "DHT195AD|DSCC066SS|DSCJ146ALS|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCC066SS|DSDBB1207",
+   "DHT195AD|DSCC066SS|DSDBB1407",
+   "DHT195AD|DSCC066SS|DSDBB1607",
+   "DHT195AD|DSCC066SS|DSDBB1608",
+   "DHT195AD|DSCC066SS|DSDBB1808",
+   "DHT195AD|DSCC066SS|DSDCM1202J|DSEAB2201J",
+   "DHT195AD|DSCC066SS|DSDCM1202J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCC066SS|DSDCM1207",
+   "DHT195AD|DSCC066SS|DSDCM1402J|DSEAB2201J",
+   "DHT195AD|DSCC066SS|DSDCM1402J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCC066SS|DSDCM1407",
+   "DHT195AD|DSCC066SS|DSDCM1607",
+   "DHT195AD|DSCC066SS|DSDEA1202J|DSEAB2201J",
+   "DHT195AD|DSCC066SS|DSDEA1202J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCC066SS|DSDEA1402J|DSEAB2201J",
+   "DHT195AD|DSCC066SS|DSDEA1402J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCC066SS|DSDEA1602J|DSEAB2201J",
+   "DHT195AD|DSCC066SS|DSDEA1602J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCC066SS|DSDEM1202J|DSEAB2201J",
+   "DHT195AD|DSCC066SS|DSDEM1202J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCC066SS|DSDEM1402J|DSEAB2201J",
+   "DHT195AD|DSCC066SS|DSDEM1402J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCC066SS|DSDEM1602J|DSEAB2201J",
+   "DHT195AD|DSCC066SS|DSDEM1602J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCC066SS|DSDIM1207",
+   "DHT195AD|DSCC066SS|DSDIM1407",
+   "DHT195AD|DSCC066SS|DSDIM1607",
+   "DHT195AD|DSCC066SS|DSDIM1807",
+   "DHT195AD|DSCC465SS|DSCJ045ALS|DSEAB2201J",
+   "DHT195AD|DSCC465SS|DSCJ045ALS|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCC465SS|DSCJ125ALSN|DSEAB2201J",
+   "DHT195AD|DSCC465SS|DSCJ125ALSN|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCC465SS|DSCJ145ALS|DSEAB2201J",
+   "DHT195AD|DSCC465SS|DSCJ145ALS|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCC465SS|DSDBB1207",
+   "DHT195AD|DSCC465SS|DSDBB1407",
+   "DHT195AD|DSCC465SS|DSDBB1607",
+   "DHT195AD|DSCC465SS|DSDBB1608",
+   "DHT195AD|DSCC465SS|DSDBB1808",
+   "DHT195AD|DSCC465SS|DSDCM1201J|DSEAB2201J",
+   "DHT195AD|DSCC465SS|DSDCM1201J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCC465SS|DSDCM1207",
+   "DHT195AD|DSCC465SS|DSDCM1401J|DSEAB2201J",
+   "DHT195AD|DSCC465SS|DSDCM1401J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCC465SS|DSDCM1407",
+   "DHT195AD|DSCC465SS|DSDCM1607",
+   "DHT195AD|DSCC465SS|DSDEA1201J|DSEAB2201J",
+   "DHT195AD|DSCC465SS|DSDEA1201J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCC465SS|DSDEA1401J|DSEAB2201J",
+   "DHT195AD|DSCC465SS|DSDEA1401J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCC465SS|DSDEA1601J|DSEAB2201J",
+   "DHT195AD|DSCC465SS|DSDEA1601J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCC465SS|DSDEM1201J|DSEAB2201J",
+   "DHT195AD|DSCC465SS|DSDEM1201J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCC465SS|DSDEM1401J|DSEAB2201J",
+   "DHT195AD|DSCC465SS|DSDEM1401J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCC465SS|DSDEM1601J|DSEAB2201J",
+   "DHT195AD|DSCC465SS|DSDEM1601J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCC465SS|DSDIM1207",
+   "DHT195AD|DSCC465SS|DSDIM1407",
+   "DHT195AD|DSCC465SS|DSDIM1607",
+   "DHT195AD|DSCC465SS|DSDIM1807",
+   "DHT195AD|DSCC466SS|DSCJ026ALS|DSEAB2201J",
+   "DHT195AD|DSCC466SS|DSCJ026ALS|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCC466SS|DSCJ046ALS|DSEAB2201J",
+   "DHT195AD|DSCC466SS|DSCJ046ALS|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCC466SS|DSCJ126ALS|DSEAB2201J",
+   "DHT195AD|DSCC466SS|DSCJ126ALS|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCC466SS|DSCJ146ALS|DSEAB2201J",
+   "DHT195AD|DSCC466SS|DSCJ146ALS|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCC466SS|DSDBB1207",
+   "DHT195AD|DSCC466SS|DSDBB1407",
+   "DHT195AD|DSCC466SS|DSDBB1607",
+   "DHT195AD|DSCC466SS|DSDBB1608",
+   "DHT195AD|DSCC466SS|DSDBB1808",
+   "DHT195AD|DSCC466SS|DSDCM1202J|DSEAB2201J",
+   "DHT195AD|DSCC466SS|DSDCM1202J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCC466SS|DSDCM1207",
+   "DHT195AD|DSCC466SS|DSDCM1402J|DSEAB2201J",
+   "DHT195AD|DSCC466SS|DSDCM1402J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCC466SS|DSDCM1407",
+   "DHT195AD|DSCC466SS|DSDCM1607",
+   "DHT195AD|DSCC466SS|DSDEA1202J|DSEAB2201J",
+   "DHT195AD|DSCC466SS|DSDEA1202J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCC466SS|DSDEA1402J|DSEAB2201J",
+   "DHT195AD|DSCC466SS|DSDEA1402J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCC466SS|DSDEA1602J|DSEAB2201J",
+   "DHT195AD|DSCC466SS|DSDEA1602J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCC466SS|DSDEM1202J|DSEAB2201J",
+   "DHT195AD|DSCC466SS|DSDEM1202J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCC466SS|DSDEM1402J|DSEAB2201J",
+   "DHT195AD|DSCC466SS|DSDEM1402J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCC466SS|DSDEM1602J|DSEAB2201J",
+   "DHT195AD|DSCC466SS|DSDEM1602J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCC466SS|DSDIM1207",
+   "DHT195AD|DSCC466SS|DSDIM1407",
+   "DHT195AD|DSCC466SS|DSDIM1607",
+   "DHT195AD|DSCC466SS|DSDIM1807",
+   "DHT195AD|DSCFB0605J|DSCJ045ALS|DSEAB2201J",
+   "DHT195AD|DSCFB0605J|DSCJ045ALS|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCFB0605J|DSCJ125ALSN|DSEAB2201J",
+   "DHT195AD|DSCFB0605J|DSCJ125ALSN|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCFB0605J|DSCJ145ALS|DSEAB2201J",
+   "DHT195AD|DSCFB0605J|DSCJ145ALS|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCFB0605J|DSDCM1201J|DSEAB2201J",
+   "DHT195AD|DSCFB0605J|DSDCM1201J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCFB0605J|DSDCM1401J|DSEAB2201J",
+   "DHT195AD|DSCFB0605J|DSDCM1401J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCFB0605J|DSDEA1201J|DSEAB2201J",
+   "DHT195AD|DSCFB0605J|DSDEA1201J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCFB0605J|DSDEA1401J|DSEAB2201J",
+   "DHT195AD|DSCFB0605J|DSDEA1401J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCFB0605J|DSDEA1601J|DSEAB2201J",
+   "DHT195AD|DSCFB0605J|DSDEA1601J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCFB0605J|DSDEM1201J|DSEAB2201J",
+   "DHT195AD|DSCFB0605J|DSDEM1201J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCFB0605J|DSDEM1401J|DSEAB2201J",
+   "DHT195AD|DSCFB0605J|DSDEM1401J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCFB0605J|DSDEM1601J|DSEAB2201J",
+   "DHT195AD|DSCFB0605J|DSDEM1601J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCFB0605|DSCJ045ALS|DSEAB2201J",
+   "DHT195AD|DSCFB0605|DSCJ045ALS|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCFB0605|DSCJ125ALSN|DSEAB2201J",
+   "DHT195AD|DSCFB0605|DSCJ125ALSN|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCFB0605|DSCJ145ALS|DSEAB2201J",
+   "DHT195AD|DSCFB0605|DSCJ145ALS|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCFB0605|DSDCM1201J|DSEAB2201J",
+   "DHT195AD|DSCFB0605|DSDCM1201J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCFB0605|DSDCM1401J|DSEAB2201J",
+   "DHT195AD|DSCFB0605|DSDCM1401J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCFB0605|DSDEA1201J|DSEAB2201J",
+   "DHT195AD|DSCFB0605|DSDEA1201J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCFB0605|DSDEA1401J|DSEAB2201J",
+   "DHT195AD|DSCFB0605|DSDEA1401J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCFB0605|DSDEA1601J|DSEAB2201J",
+   "DHT195AD|DSCFB0605|DSDEA1601J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCFB0605|DSDEM1201J|DSEAB2201J",
+   "DHT195AD|DSCFB0605|DSDEM1201J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCFB0605|DSDEM1401J|DSEAB2201J",
+   "DHT195AD|DSCFB0605|DSDEM1401J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCFB0605|DSDEM1601J|DSEAB2201J",
+   "DHT195AD|DSCFB0605|DSDEM1601J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCFB0606J|DSCJ026ALS|DSEAB2201J",
+   "DHT195AD|DSCFB0606J|DSCJ026ALS|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCFB0606J|DSCJ046ALS|DSEAB2201J",
+   "DHT195AD|DSCFB0606J|DSCJ046ALS|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCFB0606J|DSCJ126ALS|DSEAB2201J",
+   "DHT195AD|DSCFB0606J|DSCJ126ALS|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCFB0606J|DSCJ146ALS|DSEAB2201J",
+   "DHT195AD|DSCFB0606J|DSCJ146ALS|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCFB0606J|DSDCM1202J|DSEAB2201J",
+   "DHT195AD|DSCFB0606J|DSDCM1202J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCFB0606J|DSDCM1402J|DSEAB2201J",
+   "DHT195AD|DSCFB0606J|DSDCM1402J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCFB0606J|DSDEA1202J|DSEAB2201J",
+   "DHT195AD|DSCFB0606J|DSDEA1202J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCFB0606J|DSDEA1402J|DSEAB2201J",
+   "DHT195AD|DSCFB0606J|DSDEA1402J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCFB0606J|DSDEA1602J|DSEAB2201J",
+   "DHT195AD|DSCFB0606J|DSDEA1602J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCFB0606J|DSDEM1202J|DSEAB2201J",
+   "DHT195AD|DSCFB0606J|DSDEM1202J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCFB0606J|DSDEM1402J|DSEAB2201J",
+   "DHT195AD|DSCFB0606J|DSDEM1402J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCFB0606J|DSDEM1602J|DSEAB2201J",
+   "DHT195AD|DSCFB0606J|DSDEM1602J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCFB0606|DSCJ026ALS|DSEAB2201J",
+   "DHT195AD|DSCFB0606|DSCJ026ALS|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCFB0606|DSCJ046ALS|DSEAB2201J",
+   "DHT195AD|DSCFB0606|DSCJ046ALS|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCFB0606|DSCJ126ALS|DSEAB2201J",
+   "DHT195AD|DSCFB0606|DSCJ126ALS|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCFB0606|DSCJ146ALS|DSEAB2201J",
+   "DHT195AD|DSCFB0606|DSCJ146ALS|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCFB0606|DSDCM1202J|DSEAB2201J",
+   "DHT195AD|DSCFB0606|DSDCM1202J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCFB0606|DSDCM1402J|DSEAB2201J",
+   "DHT195AD|DSCFB0606|DSDCM1402J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCFB0606|DSDEA1202J|DSEAB2201J",
+   "DHT195AD|DSCFB0606|DSDEA1202J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCFB0606|DSDEA1402J|DSEAB2201J",
+   "DHT195AD|DSCFB0606|DSDEA1402J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCFB0606|DSDEA1602J|DSEAB2201J",
+   "DHT195AD|DSCFB0606|DSDEA1602J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCFB0606|DSDEM1202J|DSEAB2201J",
+   "DHT195AD|DSCFB0606|DSDEM1202J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCFB0606|DSDEM1402J|DSEAB2201J",
+   "DHT195AD|DSCFB0606|DSDEM1402J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCFB0606|DSDEM1602J|DSEAB2201J",
+   "DHT195AD|DSCFB0606|DSDEM1602J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCJ026ALS|DSEAB2201J",
+   "DHT195AD|DSCJ026ALS|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCJ045ALS|DSEAB2201J",
+   "DHT195AD|DSCJ045ALS|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCJ046ALS|DSEAB2201J",
+   "DHT195AD|DSCJ046ALS|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCJ125ALSN|DSEAB2201J",
+   "DHT195AD|DSCJ125ALSN|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCJ126ALS|DSEAB2201J",
+   "DHT195AD|DSCJ126ALS|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSCJ145ALS|DSEAB2201J",
+   "DHT195AD|DSCJ145ALS|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSCJ146ALS|DSEAB2201J",
+   "DHT195AD|DSCJ146ALS|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSDCM1201J|DSEAB2201J",
+   "DHT195AD|DSDCM1201J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSDCM1202J|DSEAB2201J",
+   "DHT195AD|DSDCM1202J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSDCM1401J|DSEAB2201J",
+   "DHT195AD|DSDCM1401J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSDCM1402J|DSEAB2201J",
+   "DHT195AD|DSDCM1402J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSDEA1201J|DSEAB2201J",
+   "DHT195AD|DSDEA1201J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSDEA1202J|DSEAB2201J",
+   "DHT195AD|DSDEA1202J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSDEA1401J|DSEAB2201J",
+   "DHT195AD|DSDEA1401J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSDEA1402J|DSEAB2201J",
+   "DHT195AD|DSDEA1402J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSDEA1601J|DSEAB2201J",
+   "DHT195AD|DSDEA1601J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSDEA1602J|DSEAB2201J",
+   "DHT195AD|DSDEA1602J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSDEM1201J|DSEAB2201J",
+   "DHT195AD|DSDEM1201J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSDEM1202J|DSEAB2201J",
+   "DHT195AD|DSDEM1202J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSDEM1401J|DSEAB2201J",
+   "DHT195AD|DSDEM1401J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSDEM1402J|DSEAB2201J",
+   "DHT195AD|DSDEM1402J|DSEAB2201J|DSWBB0806",
+   "DHT195AD|DSDEM1601J|DSEAB2201J",
+   "DHT195AD|DSDEM1601J|DSEAB2201J|DSWBB0805",
+   "DHT195AD|DSDEM1602J|DSEAB2201J",
+   "DHT195AD|DSDEM1602J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCAB0605S|DSCJ045ALS|DSEAB2201J",
+   "DHT9FEGU|DSCAB0605S|DSCJ045ALS|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCAB0605S|DSCJ125ALSN|DSEAB2201J",
+   "DHT9FEGU|DSCAB0605S|DSCJ125ALSN|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCAB0605S|DSCJ145ALS|DSEAB2201J",
+   "DHT9FEGU|DSCAB0605S|DSCJ145ALS|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCAB0605S|DSDAB0806EG",
+   "DHT9FEGU|DSCAB0605S|DSDBB1207",
+   "DHT9FEGU|DSCAB0605S|DSDBB1407",
+   "DHT9FEGU|DSCAB0605S|DSDBB1607",
+   "DHT9FEGU|DSCAB0605S|DSDBB1608",
+   "DHT9FEGU|DSCAB0605S|DSDBB1808",
+   "DHT9FEGU|DSCAB0605S|DSDCM1201J|DSEAB2201J",
+   "DHT9FEGU|DSCAB0605S|DSDCM1201J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCAB0605S|DSDCM1207",
+   "DHT9FEGU|DSCAB0605S|DSDCM1401J|DSEAB2201J",
+   "DHT9FEGU|DSCAB0605S|DSDCM1401J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCAB0605S|DSDCM1407",
+   "DHT9FEGU|DSCAB0605S|DSDCM1607",
+   "DHT9FEGU|DSCAB0605S|DSDDB1407",
+   "DHT9FEGU|DSCAB0605S|DSDDB1407J",
+   "DHT9FEGU|DSCAB0605S|DSDDB1607",
+   "DHT9FEGU|DSCAB0605S|DSDDB1607J",
+   "DHT9FEGU|DSCAB0605S|DSDDB1608J",
+   "DHT9FEGU|DSCAB0605S|DSDDB1808",
+   "DHT9FEGU|DSCAB0605S|DSDDB1808J",
+   "DHT9FEGU|DSCAB0605S|DSDDM1407",
+   "DHT9FEGU|DSCAB0605S|DSDDM1607",
+   "DHT9FEGU|DSCAB0605S|DSDDM1807",
+   "DHT9FEGU|DSCAB0605S|DSDEA1201J|DSEAB2201J",
+   "DHT9FEGU|DSCAB0605S|DSDEA1201J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCAB0605S|DSDEA1401J|DSEAB2201J",
+   "DHT9FEGU|DSCAB0605S|DSDEA1401J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCAB0605S|DSDEA1601J|DSEAB2201J",
+   "DHT9FEGU|DSCAB0605S|DSDEA1601J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCAB0605S|DSDEM1201J|DSEAB2201J",
+   "DHT9FEGU|DSCAB0605S|DSDEM1201J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCAB0605S|DSDEM1401J|DSEAB2201J",
+   "DHT9FEGU|DSCAB0605S|DSDEM1401J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCAB0605S|DSDEM1601J|DSEAB2201J",
+   "DHT9FEGU|DSCAB0605S|DSDEM1601J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCAB0605S|DSDIM1207",
+   "DHT9FEGU|DSCAB0605S|DSDIM1407",
+   "DHT9FEGU|DSCAB0605S|DSDIM1607",
+   "DHT9FEGU|DSCAB0605S|DSDIM1807",
+   "DHT9FEGU|DSCAB0606S|DSCJ026ALS|DSEAB2201J",
+   "DHT9FEGU|DSCAB0606S|DSCJ026ALS|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCAB0606S|DSCJ046ALS|DSEAB2201J",
+   "DHT9FEGU|DSCAB0606S|DSCJ046ALS|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCAB0606S|DSCJ126ALS|DSEAB2201J",
+   "DHT9FEGU|DSCAB0606S|DSCJ126ALS|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCAB0606S|DSCJ146ALS|DSEAB2201J",
+   "DHT9FEGU|DSCAB0606S|DSCJ146ALS|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCAB0606S|DSDAB0806EG",
+   "DHT9FEGU|DSCAB0606S|DSDBB1207",
+   "DHT9FEGU|DSCAB0606S|DSDBB1407",
+   "DHT9FEGU|DSCAB0606S|DSDBB1607",
+   "DHT9FEGU|DSCAB0606S|DSDBB1608",
+   "DHT9FEGU|DSCAB0606S|DSDBB1808",
+   "DHT9FEGU|DSCAB0606S|DSDCM1202J|DSEAB2201J",
+   "DHT9FEGU|DSCAB0606S|DSDCM1202J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCAB0606S|DSDCM1207",
+   "DHT9FEGU|DSCAB0606S|DSDCM1402J|DSEAB2201J",
+   "DHT9FEGU|DSCAB0606S|DSDCM1402J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCAB0606S|DSDCM1407",
+   "DHT9FEGU|DSCAB0606S|DSDCM1607",
+   "DHT9FEGU|DSCAB0606S|DSDDB1407",
+   "DHT9FEGU|DSCAB0606S|DSDDB1407J",
+   "DHT9FEGU|DSCAB0606S|DSDDB1607",
+   "DHT9FEGU|DSCAB0606S|DSDDB1607J",
+   "DHT9FEGU|DSCAB0606S|DSDDB1608J",
+   "DHT9FEGU|DSCAB0606S|DSDDB1808",
+   "DHT9FEGU|DSCAB0606S|DSDDB1808J",
+   "DHT9FEGU|DSCAB0606S|DSDDM1407",
+   "DHT9FEGU|DSCAB0606S|DSDDM1607",
+   "DHT9FEGU|DSCAB0606S|DSDDM1807",
+   "DHT9FEGU|DSCAB0606S|DSDEA1202J|DSEAB2201J",
+   "DHT9FEGU|DSCAB0606S|DSDEA1202J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCAB0606S|DSDEA1402J|DSEAB2201J",
+   "DHT9FEGU|DSCAB0606S|DSDEA1402J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCAB0606S|DSDEA1602J|DSEAB2201J",
+   "DHT9FEGU|DSCAB0606S|DSDEA1602J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCAB0606S|DSDEM1202J|DSEAB2201J",
+   "DHT9FEGU|DSCAB0606S|DSDEM1202J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCAB0606S|DSDEM1402J|DSEAB2201J",
+   "DHT9FEGU|DSCAB0606S|DSDEM1402J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCAB0606S|DSDEM1602J|DSEAB2201J",
+   "DHT9FEGU|DSCAB0606S|DSDEM1602J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCAB0606S|DSDIM1207",
+   "DHT9FEGU|DSCAB0606S|DSDIM1407",
+   "DHT9FEGU|DSCAB0606S|DSDIM1607",
+   "DHT9FEGU|DSCAB0606S|DSDIM1807",
+   "DHT9FEGU|DSCC065SSN|DSCJ045ALS|DSEAB2201J",
+   "DHT9FEGU|DSCC065SSN|DSCJ045ALS|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCC065SSN|DSCJ125ALSN|DSEAB2201J",
+   "DHT9FEGU|DSCC065SSN|DSCJ125ALSN|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCC065SSN|DSCJ145ALS|DSEAB2201J",
+   "DHT9FEGU|DSCC065SSN|DSCJ145ALS|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCC065SSN|DSDAB0806EG",
+   "DHT9FEGU|DSCC065SSN|DSDBB1207",
+   "DHT9FEGU|DSCC065SSN|DSDBB1407",
+   "DHT9FEGU|DSCC065SSN|DSDBB1607",
+   "DHT9FEGU|DSCC065SSN|DSDBB1608",
+   "DHT9FEGU|DSCC065SSN|DSDBB1808",
+   "DHT9FEGU|DSCC065SSN|DSDCM1201J|DSEAB2201J",
+   "DHT9FEGU|DSCC065SSN|DSDCM1201J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCC065SSN|DSDCM1207",
+   "DHT9FEGU|DSCC065SSN|DSDCM1401J|DSEAB2201J",
+   "DHT9FEGU|DSCC065SSN|DSDCM1401J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCC065SSN|DSDCM1407",
+   "DHT9FEGU|DSCC065SSN|DSDCM1607",
+   "DHT9FEGU|DSCC065SSN|DSDDB1407",
+   "DHT9FEGU|DSCC065SSN|DSDDB1407J",
+   "DHT9FEGU|DSCC065SSN|DSDDB1607",
+   "DHT9FEGU|DSCC065SSN|DSDDB1607J",
+   "DHT9FEGU|DSCC065SSN|DSDDB1608J",
+   "DHT9FEGU|DSCC065SSN|DSDDB1808",
+   "DHT9FEGU|DSCC065SSN|DSDDB1808J",
+   "DHT9FEGU|DSCC065SSN|DSDDM1407",
+   "DHT9FEGU|DSCC065SSN|DSDDM1607",
+   "DHT9FEGU|DSCC065SSN|DSDDM1807",
+   "DHT9FEGU|DSCC065SSN|DSDEA1201J|DSEAB2201J",
+   "DHT9FEGU|DSCC065SSN|DSDEA1201J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCC065SSN|DSDEA1401J|DSEAB2201J",
+   "DHT9FEGU|DSCC065SSN|DSDEA1401J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCC065SSN|DSDEA1601J|DSEAB2201J",
+   "DHT9FEGU|DSCC065SSN|DSDEA1601J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCC065SSN|DSDEM1201J|DSEAB2201J",
+   "DHT9FEGU|DSCC065SSN|DSDEM1201J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCC065SSN|DSDEM1401J|DSEAB2201J",
+   "DHT9FEGU|DSCC065SSN|DSDEM1401J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCC065SSN|DSDEM1601J|DSEAB2201J",
+   "DHT9FEGU|DSCC065SSN|DSDEM1601J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCC065SSN|DSDIM1207",
+   "DHT9FEGU|DSCC065SSN|DSDIM1407",
+   "DHT9FEGU|DSCC065SSN|DSDIM1607",
+   "DHT9FEGU|DSCC065SSN|DSDIM1807",
+   "DHT9FEGU|DSCC066SS|DSCJ026ALS|DSEAB2201J",
+   "DHT9FEGU|DSCC066SS|DSCJ026ALS|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCC066SS|DSCJ046ALS|DSEAB2201J",
+   "DHT9FEGU|DSCC066SS|DSCJ046ALS|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCC066SS|DSCJ126ALS|DSEAB2201J",
+   "DHT9FEGU|DSCC066SS|DSCJ126ALS|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCC066SS|DSCJ146ALS|DSEAB2201J",
+   "DHT9FEGU|DSCC066SS|DSCJ146ALS|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCC066SS|DSDAB0806EG",
+   "DHT9FEGU|DSCC066SS|DSDBB1207",
+   "DHT9FEGU|DSCC066SS|DSDBB1407",
+   "DHT9FEGU|DSCC066SS|DSDBB1607",
+   "DHT9FEGU|DSCC066SS|DSDBB1608",
+   "DHT9FEGU|DSCC066SS|DSDBB1808",
+   "DHT9FEGU|DSCC066SS|DSDCM1202J|DSEAB2201J",
+   "DHT9FEGU|DSCC066SS|DSDCM1202J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCC066SS|DSDCM1207",
+   "DHT9FEGU|DSCC066SS|DSDCM1402J|DSEAB2201J",
+   "DHT9FEGU|DSCC066SS|DSDCM1402J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCC066SS|DSDCM1407",
+   "DHT9FEGU|DSCC066SS|DSDCM1607",
+   "DHT9FEGU|DSCC066SS|DSDDB1407",
+   "DHT9FEGU|DSCC066SS|DSDDB1407J",
+   "DHT9FEGU|DSCC066SS|DSDDB1607",
+   "DHT9FEGU|DSCC066SS|DSDDB1607J",
+   "DHT9FEGU|DSCC066SS|DSDDB1608J",
+   "DHT9FEGU|DSCC066SS|DSDDB1808",
+   "DHT9FEGU|DSCC066SS|DSDDB1808J",
+   "DHT9FEGU|DSCC066SS|DSDDM1407",
+   "DHT9FEGU|DSCC066SS|DSDDM1607",
+   "DHT9FEGU|DSCC066SS|DSDDM1807",
+   "DHT9FEGU|DSCC066SS|DSDEA1202J|DSEAB2201J",
+   "DHT9FEGU|DSCC066SS|DSDEA1202J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCC066SS|DSDEA1402J|DSEAB2201J",
+   "DHT9FEGU|DSCC066SS|DSDEA1402J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCC066SS|DSDEA1602J|DSEAB2201J",
+   "DHT9FEGU|DSCC066SS|DSDEA1602J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCC066SS|DSDEM1202J|DSEAB2201J",
+   "DHT9FEGU|DSCC066SS|DSDEM1202J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCC066SS|DSDEM1402J|DSEAB2201J",
+   "DHT9FEGU|DSCC066SS|DSDEM1402J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCC066SS|DSDEM1602J|DSEAB2201J",
+   "DHT9FEGU|DSCC066SS|DSDEM1602J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCC066SS|DSDIM1207",
+   "DHT9FEGU|DSCC066SS|DSDIM1407",
+   "DHT9FEGU|DSCC066SS|DSDIM1607",
+   "DHT9FEGU|DSCC066SS|DSDIM1807",
+   "DHT9FEGU|DSCC465SS|DSCJ045ALS|DSEAB2201J",
+   "DHT9FEGU|DSCC465SS|DSCJ045ALS|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCC465SS|DSCJ125ALSN|DSEAB2201J",
+   "DHT9FEGU|DSCC465SS|DSCJ125ALSN|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCC465SS|DSCJ145ALS|DSEAB2201J",
+   "DHT9FEGU|DSCC465SS|DSCJ145ALS|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCC465SS|DSDAB0806EG",
+   "DHT9FEGU|DSCC465SS|DSDBB1207",
+   "DHT9FEGU|DSCC465SS|DSDBB1407",
+   "DHT9FEGU|DSCC465SS|DSDBB1607",
+   "DHT9FEGU|DSCC465SS|DSDBB1608",
+   "DHT9FEGU|DSCC465SS|DSDBB1808",
+   "DHT9FEGU|DSCC465SS|DSDCM1201J|DSEAB2201J",
+   "DHT9FEGU|DSCC465SS|DSDCM1201J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCC465SS|DSDCM1207",
+   "DHT9FEGU|DSCC465SS|DSDCM1401J|DSEAB2201J",
+   "DHT9FEGU|DSCC465SS|DSDCM1401J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCC465SS|DSDCM1407",
+   "DHT9FEGU|DSCC465SS|DSDCM1607",
+   "DHT9FEGU|DSCC465SS|DSDDB1407",
+   "DHT9FEGU|DSCC465SS|DSDDB1407J",
+   "DHT9FEGU|DSCC465SS|DSDDB1607",
+   "DHT9FEGU|DSCC465SS|DSDDB1607J",
+   "DHT9FEGU|DSCC465SS|DSDDB1608J",
+   "DHT9FEGU|DSCC465SS|DSDDB1808",
+   "DHT9FEGU|DSCC465SS|DSDDB1808J",
+   "DHT9FEGU|DSCC465SS|DSDDM1407",
+   "DHT9FEGU|DSCC465SS|DSDDM1607",
+   "DHT9FEGU|DSCC465SS|DSDDM1807",
+   "DHT9FEGU|DSCC465SS|DSDEA1201J|DSEAB2201J",
+   "DHT9FEGU|DSCC465SS|DSDEA1201J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCC465SS|DSDEA1401J|DSEAB2201J",
+   "DHT9FEGU|DSCC465SS|DSDEA1401J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCC465SS|DSDEA1601J|DSEAB2201J",
+   "DHT9FEGU|DSCC465SS|DSDEA1601J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCC465SS|DSDEM1201J|DSEAB2201J",
+   "DHT9FEGU|DSCC465SS|DSDEM1201J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCC465SS|DSDEM1401J|DSEAB2201J",
+   "DHT9FEGU|DSCC465SS|DSDEM1401J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCC465SS|DSDEM1601J|DSEAB2201J",
+   "DHT9FEGU|DSCC465SS|DSDEM1601J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCC465SS|DSDIM1207",
+   "DHT9FEGU|DSCC465SS|DSDIM1407",
+   "DHT9FEGU|DSCC465SS|DSDIM1607",
+   "DHT9FEGU|DSCC465SS|DSDIM1807",
+   "DHT9FEGU|DSCC466SS|DSCJ026ALS|DSEAB2201J",
+   "DHT9FEGU|DSCC466SS|DSCJ026ALS|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCC466SS|DSCJ046ALS|DSEAB2201J",
+   "DHT9FEGU|DSCC466SS|DSCJ046ALS|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCC466SS|DSCJ126ALS|DSEAB2201J",
+   "DHT9FEGU|DSCC466SS|DSCJ126ALS|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCC466SS|DSCJ146ALS|DSEAB2201J",
+   "DHT9FEGU|DSCC466SS|DSCJ146ALS|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCC466SS|DSDAB0806EG",
+   "DHT9FEGU|DSCC466SS|DSDBB1207",
+   "DHT9FEGU|DSCC466SS|DSDBB1407",
+   "DHT9FEGU|DSCC466SS|DSDBB1607",
+   "DHT9FEGU|DSCC466SS|DSDBB1608",
+   "DHT9FEGU|DSCC466SS|DSDBB1808",
+   "DHT9FEGU|DSCC466SS|DSDCM1202J|DSEAB2201J",
+   "DHT9FEGU|DSCC466SS|DSDCM1202J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCC466SS|DSDCM1207",
+   "DHT9FEGU|DSCC466SS|DSDCM1402J|DSEAB2201J",
+   "DHT9FEGU|DSCC466SS|DSDCM1402J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCC466SS|DSDCM1407",
+   "DHT9FEGU|DSCC466SS|DSDCM1607",
+   "DHT9FEGU|DSCC466SS|DSDDB1407",
+   "DHT9FEGU|DSCC466SS|DSDDB1407J",
+   "DHT9FEGU|DSCC466SS|DSDDB1607",
+   "DHT9FEGU|DSCC466SS|DSDDB1607J",
+   "DHT9FEGU|DSCC466SS|DSDDB1608J",
+   "DHT9FEGU|DSCC466SS|DSDDB1808",
+   "DHT9FEGU|DSCC466SS|DSDDB1808J",
+   "DHT9FEGU|DSCC466SS|DSDDM1407",
+   "DHT9FEGU|DSCC466SS|DSDDM1607",
+   "DHT9FEGU|DSCC466SS|DSDDM1807",
+   "DHT9FEGU|DSCC466SS|DSDEA1202J|DSEAB2201J",
+   "DHT9FEGU|DSCC466SS|DSDEA1202J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCC466SS|DSDEA1402J|DSEAB2201J",
+   "DHT9FEGU|DSCC466SS|DSDEA1402J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCC466SS|DSDEA1602J|DSEAB2201J",
+   "DHT9FEGU|DSCC466SS|DSDEA1602J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCC466SS|DSDEM1202J|DSEAB2201J",
+   "DHT9FEGU|DSCC466SS|DSDEM1202J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCC466SS|DSDEM1402J|DSEAB2201J",
+   "DHT9FEGU|DSCC466SS|DSDEM1402J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCC466SS|DSDEM1602J|DSEAB2201J",
+   "DHT9FEGU|DSCC466SS|DSDEM1602J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCC466SS|DSDIM1207",
+   "DHT9FEGU|DSCC466SS|DSDIM1407",
+   "DHT9FEGU|DSCC466SS|DSDIM1607",
+   "DHT9FEGU|DSCC466SS|DSDIM1807",
+   "DHT9FEGU|DSCFB0605J|DSCJ045ALS|DSEAB2201J",
+   "DHT9FEGU|DSCFB0605J|DSCJ045ALS|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCFB0605J|DSCJ125ALSN|DSEAB2201J",
+   "DHT9FEGU|DSCFB0605J|DSCJ125ALSN|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCFB0605J|DSCJ145ALS|DSEAB2201J",
+   "DHT9FEGU|DSCFB0605J|DSCJ145ALS|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCFB0605J|DSDCM1201J|DSEAB2201J",
+   "DHT9FEGU|DSCFB0605J|DSDCM1201J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCFB0605J|DSDCM1401J|DSEAB2201J",
+   "DHT9FEGU|DSCFB0605J|DSDCM1401J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCFB0605J|DSDEA1201J|DSEAB2201J",
+   "DHT9FEGU|DSCFB0605J|DSDEA1201J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCFB0605J|DSDEA1401J|DSEAB2201J",
+   "DHT9FEGU|DSCFB0605J|DSDEA1401J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCFB0605J|DSDEA1601J|DSEAB2201J",
+   "DHT9FEGU|DSCFB0605J|DSDEA1601J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCFB0605J|DSDEM1201J|DSEAB2201J",
+   "DHT9FEGU|DSCFB0605J|DSDEM1201J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCFB0605J|DSDEM1401J|DSEAB2201J",
+   "DHT9FEGU|DSCFB0605J|DSDEM1401J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCFB0605J|DSDEM1601J|DSEAB2201J",
+   "DHT9FEGU|DSCFB0605J|DSDEM1601J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCFB0605|DSCJ045ALS|DSEAB2201J",
+   "DHT9FEGU|DSCFB0605|DSCJ045ALS|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCFB0605|DSCJ125ALSN|DSEAB2201J",
+   "DHT9FEGU|DSCFB0605|DSCJ125ALSN|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCFB0605|DSCJ145ALS|DSEAB2201J",
+   "DHT9FEGU|DSCFB0605|DSCJ145ALS|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCFB0605|DSDCM1201J|DSEAB2201J",
+   "DHT9FEGU|DSCFB0605|DSDCM1201J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCFB0605|DSDCM1401J|DSEAB2201J",
+   "DHT9FEGU|DSCFB0605|DSDCM1401J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCFB0605|DSDEA1201J|DSEAB2201J",
+   "DHT9FEGU|DSCFB0605|DSDEA1201J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCFB0605|DSDEA1401J|DSEAB2201J",
+   "DHT9FEGU|DSCFB0605|DSDEA1401J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCFB0605|DSDEA1601J|DSEAB2201J",
+   "DHT9FEGU|DSCFB0605|DSDEA1601J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCFB0605|DSDEM1201J|DSEAB2201J",
+   "DHT9FEGU|DSCFB0605|DSDEM1201J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCFB0605|DSDEM1401J|DSEAB2201J",
+   "DHT9FEGU|DSCFB0605|DSDEM1401J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCFB0605|DSDEM1601J|DSEAB2201J",
+   "DHT9FEGU|DSCFB0605|DSDEM1601J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCFB0606J|DSCJ026ALS|DSEAB2201J",
+   "DHT9FEGU|DSCFB0606J|DSCJ026ALS|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCFB0606J|DSCJ046ALS|DSEAB2201J",
+   "DHT9FEGU|DSCFB0606J|DSCJ046ALS|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCFB0606J|DSCJ126ALS|DSEAB2201J",
+   "DHT9FEGU|DSCFB0606J|DSCJ126ALS|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCFB0606J|DSCJ146ALS|DSEAB2201J",
+   "DHT9FEGU|DSCFB0606J|DSCJ146ALS|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCFB0606J|DSDCM1202J|DSEAB2201J",
+   "DHT9FEGU|DSCFB0606J|DSDCM1202J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCFB0606J|DSDCM1402J|DSEAB2201J",
+   "DHT9FEGU|DSCFB0606J|DSDCM1402J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCFB0606J|DSDEA1202J|DSEAB2201J",
+   "DHT9FEGU|DSCFB0606J|DSDEA1202J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCFB0606J|DSDEA1402J|DSEAB2201J",
+   "DHT9FEGU|DSCFB0606J|DSDEA1402J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCFB0606J|DSDEA1602J|DSEAB2201J",
+   "DHT9FEGU|DSCFB0606J|DSDEA1602J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCFB0606J|DSDEM1202J|DSEAB2201J",
+   "DHT9FEGU|DSCFB0606J|DSDEM1202J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCFB0606J|DSDEM1402J|DSEAB2201J",
+   "DHT9FEGU|DSCFB0606J|DSDEM1402J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCFB0606J|DSDEM1602J|DSEAB2201J",
+   "DHT9FEGU|DSCFB0606J|DSDEM1602J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCFB0606|DSCJ026ALS|DSEAB2201J",
+   "DHT9FEGU|DSCFB0606|DSCJ026ALS|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCFB0606|DSCJ046ALS|DSEAB2201J",
+   "DHT9FEGU|DSCFB0606|DSCJ046ALS|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCFB0606|DSCJ126ALS|DSEAB2201J",
+   "DHT9FEGU|DSCFB0606|DSCJ126ALS|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCFB0606|DSCJ146ALS|DSEAB2201J",
+   "DHT9FEGU|DSCFB0606|DSCJ146ALS|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCFB0606|DSDCM1202J|DSEAB2201J",
+   "DHT9FEGU|DSCFB0606|DSDCM1202J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCFB0606|DSDCM1402J|DSEAB2201J",
+   "DHT9FEGU|DSCFB0606|DSDCM1402J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCFB0606|DSDEA1202J|DSEAB2201J",
+   "DHT9FEGU|DSCFB0606|DSDEA1202J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCFB0606|DSDEA1402J|DSEAB2201J",
+   "DHT9FEGU|DSCFB0606|DSDEA1402J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCFB0606|DSDEA1602J|DSEAB2201J",
+   "DHT9FEGU|DSCFB0606|DSDEA1602J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCFB0606|DSDEM1202J|DSEAB2201J",
+   "DHT9FEGU|DSCFB0606|DSDEM1202J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCFB0606|DSDEM1402J|DSEAB2201J",
+   "DHT9FEGU|DSCFB0606|DSDEM1402J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCFB0606|DSDEM1602J|DSEAB2201J",
+   "DHT9FEGU|DSCFB0606|DSDEM1602J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCJ026ALS|DSDAB0806EG|DSEAB2201J",
+   "DHT9FEGU|DSCJ026ALS|DSEAB2201J",
+   "DHT9FEGU|DSCJ026ALS|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCJ045ALS|DSDAB0806EG|DSEAB2201J",
+   "DHT9FEGU|DSCJ045ALS|DSEAB2201J",
+   "DHT9FEGU|DSCJ045ALS|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCJ046ALS|DSDAB0806EG|DSEAB2201J",
+   "DHT9FEGU|DSCJ046ALS|DSEAB2201J",
+   "DHT9FEGU|DSCJ046ALS|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCJ125ALSN|DSDAB0806EG|DSEAB2201J",
+   "DHT9FEGU|DSCJ125ALSN|DSEAB2201J",
+   "DHT9FEGU|DSCJ125ALSN|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCJ126ALS|DSDAB0806EG|DSEAB2201J",
+   "DHT9FEGU|DSCJ126ALS|DSEAB2201J",
+   "DHT9FEGU|DSCJ126ALS|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSCJ145ALS|DSDAB0806EG|DSEAB2201J",
+   "DHT9FEGU|DSCJ145ALS|DSEAB2201J",
+   "DHT9FEGU|DSCJ145ALS|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSCJ146ALS|DSDAB0806EG|DSEAB2201J",
+   "DHT9FEGU|DSCJ146ALS|DSEAB2201J",
+   "DHT9FEGU|DSCJ146ALS|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSDAB0806EG|DSDEA1201J|DSEAB2201J",
+   "DHT9FEGU|DSDAB0806EG|DSDEA1202J|DSEAB2201J",
+   "DHT9FEGU|DSDAB0806EG|DSDEA1401J|DSEAB2201J",
+   "DHT9FEGU|DSDAB0806EG|DSDEA1402J|DSEAB2201J",
+   "DHT9FEGU|DSDAB0806EG|DSDEA1601J|DSEAB2201J",
+   "DHT9FEGU|DSDAB0806EG|DSDEA1602J|DSEAB2201J",
+   "DHT9FEGU|DSDCM1201J|DSEAB2201J",
+   "DHT9FEGU|DSDCM1201J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSDCM1202J|DSEAB2201J",
+   "DHT9FEGU|DSDCM1202J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSDCM1401J|DSEAB2201J",
+   "DHT9FEGU|DSDCM1401J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSDCM1402J|DSEAB2201J",
+   "DHT9FEGU|DSDCM1402J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSDEA1201J|DSEAB2201J",
+   "DHT9FEGU|DSDEA1201J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSDEA1202J|DSEAB2201J",
+   "DHT9FEGU|DSDEA1202J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSDEA1401J|DSEAB2201J",
+   "DHT9FEGU|DSDEA1401J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSDEA1402J|DSEAB2201J",
+   "DHT9FEGU|DSDEA1402J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSDEA1601J|DSEAB2201J",
+   "DHT9FEGU|DSDEA1601J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSDEA1602J|DSEAB2201J",
+   "DHT9FEGU|DSDEA1602J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSDEM1201J|DSEAB2201J",
+   "DHT9FEGU|DSDEM1201J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSDEM1202J|DSEAB2201J",
+   "DHT9FEGU|DSDEM1202J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSDEM1401J|DSEAB2201J",
+   "DHT9FEGU|DSDEM1401J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSDEM1402J|DSEAB2201J",
+   "DHT9FEGU|DSDEM1402J|DSEAB2201J|DSWBB0806",
+   "DHT9FEGU|DSDEM1601J|DSEAB2201J",
+   "DHT9FEGU|DSDEM1601J|DSEAB2201J|DSWBB0805",
+   "DHT9FEGU|DSDEM1602J|DSEAB2201J",
+   "DHT9FEGU|DSDEM1602J|DSEAB2201J|DSWBB0806"
+  ],
+  "meta": {
+   "date": "2026-10-22",
+   "version": "2.1.0",
+   "priceLabel": "예상 구성금액",
+   "priceRows": 3089,
+   "priceCodes": 2173,
+   "productCount": 149,
+   "photoCount": 60,
+   "bundleCount": 79,
+   "referencePriceCodes": [
+    "DHT195AD",
+    "DHT1200HF",
+    "DHT9FEGU"
+   ],
+   "missingGuidePriceCodes": [
+    "DSMAAA1101"
+   ],
+   "notes": [
+    "엑셀의 판매가 열은 온라인·오프라인·쿠폰·배송비·VAT 포함 여부를 구분하지 않음. 최신 네이버 결제가격으로 보장하지 않음.",
+    "사진은 제품코드 기준으로 연결했으며 선택 색상과 다를 수 있음. 사진 폭을 배치 치수로 사용하지 않음.",
+    "인수인계의 3안 작성 규칙 대신 고객 조건을 만족하는 서로 다른 안을 최대 3개 제안하는 신규 설계."
+   ],
+   "salesPolicy": "per_type_log_normalized_bonus_v1"
+  }
+ },
+ "rules": [
+  {
+   "field": "중요하게 생각하는 것",
+   "values": "집중 학습 환경",
+   "cats": "책상",
+   "target_type": "명칭 포함",
+   "target": "집중형데스크",
+   "level": "추천",
+   "memo": "기존 규칙: 집중 학습 → 집중형데스크",
+   "on": "Y"
+  },
+  {
+   "field": "중요하게 생각하는 것",
+   "values": "집중 학습 환경",
+   "cats": "책상세트, 모션데스크 세트",
+   "target_type": "전체",
+   "target": "",
+   "level": "추천",
+   "memo": "기존 규칙: 집중 학습 → 책상세트",
+   "on": "Y"
+  },
+  {
+   "field": "모션데스크",
+   "values": "있으면 좋음, 꼭 필요",
+   "cats": "책상, 책상세트, 모션데스크, 모션데스크 세트",
+   "target_type": "특성",
+   "target": "모션",
+   "level": "우선 추천",
+   "memo": "기존 규칙: 모션 희망",
+   "on": "Y"
+  },
+  {
+   "field": "중요하게 생각하는 것",
+   "values": "높이 조절·자세 바꾸기",
+   "cats": "책상, 책상세트, 모션데스크, 모션데스크 세트",
+   "target_type": "특성",
+   "target": "모션",
+   "level": "우선 추천",
+   "memo": "기존 규칙: 자세 바꾸기 중요",
+   "on": "Y"
+  },
+  {
+   "field": "책상 사용 방식(요약)",
+   "values": "전자기기 중심, 함께 사용·미선택",
+   "cats": "책상, 책상세트, 모션데스크, 모션데스크 세트",
+   "target_type": "특성",
+   "target": "멀티",
+   "level": "우선 추천",
+   "memo": "기존 규칙: 전자기기 사용 시 멀티 구조",
+   "on": "Y"
+  },
+  {
+   "field": "책상 사용 방식(요약)",
+   "values": "전자기기 중심",
+   "cats": "책상",
+   "target_type": "명칭 포함",
+   "target": "컴퓨터데스크, 멀티데스크, 노트북데스크",
+   "level": "추천",
+   "memo": "기존 규칙: 전자기기 중심 → 컴퓨터·멀티·노트북데스크",
+   "on": "Y"
+  },
+  {
+   "field": "중요하게 생각하는 것",
+   "values": "넉넉한 수납",
+   "cats": "책장, 낮은 수납장, 거울 수납장, 서랍",
+   "target_type": "특성",
+   "target": "6단",
+   "level": "추천",
+   "memo": "기존 규칙: 수납 중요 → 6단 우선(5단보다)",
+   "on": "Y"
+  },
+  {
+   "field": "수납 종류",
+   "values": "거울 수납",
+   "cats": "거울 수납장",
+   "target_type": "전체",
+   "target": "",
+   "level": "우선 추천",
+   "memo": "기존 규칙",
+   "on": "Y"
+  },
+  {
+   "field": "수납 종류",
+   "values": "학용품·작은 물건",
+   "cats": "책장, 낮은 수납장, 거울 수납장, 서랍",
+   "target_type": "명칭 포함",
+   "target": "서랍",
+   "level": "우선 추천",
+   "memo": "기존 규칙: 작은 물건 → 서랍",
+   "on": "Y"
+  },
+  {
+   "field": "수납 종류",
+   "values": "책·문제집",
+   "cats": "책장, 낮은 수납장",
+   "target_type": "전체",
+   "target": "",
+   "level": "추천",
+   "memo": "기존 규칙",
+   "on": "Y"
+  },
+  {
+   "field": "수납 종류",
+   "values": "책·문제집",
+   "cats": "서랍",
+   "target_type": "전체",
+   "target": "",
+   "level": "비추천",
+   "memo": "기존 규칙: 책 수납에 서랍장은 덜 적합",
+   "on": "Y"
+  },
+  {
+   "field": "수납 종류",
+   "values": "옷·의류",
+   "cats": "옷장",
+   "target_type": "전체",
+   "target": "",
+   "level": "우선 추천",
+   "memo": "기존 규칙",
+   "on": "Y"
+  },
+  {
+   "field": "수납 종류",
+   "values": "학용품·작은 물건",
+   "cats": "정리용품",
+   "target_type": "전체",
+   "target": "",
+   "level": "추천",
+   "memo": "기존 규칙",
+   "on": "Y"
+  },
+  {
+   "field": "자녀 나이",
+   "values": "미취학·입학 예정, 초등 저학년",
+   "cats": "의자",
+   "target_type": "코드",
+   "target": "DHT195AD",
+   "level": "우선 추천",
+   "memo": "현장 선호: 저학년까지 링고",
+   "on": "Y"
+  },
+  {
+   "field": "자녀 나이",
+   "values": "초등 고학년, 중학생, 고등학생 이상, 기타(직접 입력)",
+   "cats": "의자",
+   "target_type": "코드",
+   "target": "DHT1200HF",
+   "level": "우선 추천",
+   "memo": "현장 선호: 고학년 이상 올라운드",
+   "on": "Y"
+  },
+  {
+   "field": "자녀 나이",
+   "values": "초등 고학년, 중학생, 고등학생 이상, 기타(직접 입력)",
+   "cats": "의자",
+   "target_type": "코드",
+   "target": "DHT9FEGU",
+   "level": "추천",
+   "memo": "현장 선호: 고학년 이상 아이블",
+   "on": "Y"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>관리자 로그인 | DESKER 학생방 플래너</title>
+<link rel="stylesheet" href="/admin/assets/admin.css">
+</head>
+<body>
+<div class="login-wrap">
+  <form class="login" method="post" action="/admin/login">
+    <h1>DESKER</h1>
+    <p>학생방 플래너 관리자</p>
+    <div class="err" id="err" hidden></div>
+    <input type="password" name="password" placeholder="관리자 비밀번호" autocomplete="current-password" required autofocus>
+    <button class="btn dark" type="submit">로그인</button>
+  </form>
+</div>
+<script>
+  const e = new URLSearchParams(location.search).get('e');
+  if (e) {
+    const el = document.getElementById('err');
+    el.textContent = e === 'wait' ? '로그인 시도가 많아요. 10분 뒤 다시 시도해 주세요.' : '비밀번호가 맞지 않아요.';
+    el.hidden = false;
+  }
+</script>
+</body>
+</html>

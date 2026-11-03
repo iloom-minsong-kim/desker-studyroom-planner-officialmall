@@ -1,0 +1,10 @@
+.env
+.env.*
+.git
+.gitignore
+data/
+source/
+tools/
+**/__pycache__
+*.pyc
+.fursys-deploy-hub/

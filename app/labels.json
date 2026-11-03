@@ -1,0 +1,361 @@
+{
+  "fields": {
+    "age": {
+      "name": "자녀 나이",
+      "type": "one",
+      "options": {
+        "pre": "미취학·입학 예정",
+        "low": "초등 저학년",
+        "high": "초등 고학년",
+        "middle": "중학생",
+        "older": "고등학생 이상",
+        "other": "기타(직접 입력)"
+      }
+    },
+    "count": {
+      "name": "자녀 수",
+      "type": "one",
+      "options": {
+        "1": "1명",
+        "2": "2명",
+        "3": "3명 이상"
+      }
+    },
+    "targetCount": {
+      "name": "구성 인원",
+      "type": "one",
+      "options": {
+        "one": "한 명",
+        "multiple": "두 명 이상"
+      }
+    },
+    "reason": {
+      "name": "바꾸려는 이유",
+      "type": "multi",
+      "options": {
+        "growth": "자녀가 자라서",
+        "study": "학습 환경",
+        "storage": "수납·정리 공간",
+        "move": "이사·재배치·리모델링",
+        "replace": "노후·손상 가구 교체",
+        "other": "기타"
+      }
+    },
+    "room": {
+      "name": "공간 형태",
+      "type": "one",
+      "options": {
+        "single": "혼자 쓰는 방",
+        "shared": "형제자매 공용방",
+        "common": "거실 등 공용 공간",
+        "other": "기타 공간"
+      }
+    },
+    "roomKnown": {
+      "name": "방 크기 파악",
+      "type": "one",
+      "options": {
+        "exact": "실측",
+        "approx": "대략",
+        "unknown": "모름"
+      }
+    },
+    "constraints": {
+      "name": "방 특징",
+      "type": "multi",
+      "options": {
+        "small": "방이 좁은 편",
+        "builtIn": "붙박이장",
+        "openings": "창문·방문 위치",
+        "structure": "기둥·낮은 천장",
+        "power": "콘센트·조명 위치",
+        "none": "특별한 점 없음"
+      }
+    },
+    "wall": {
+      "name": "벽고정",
+      "type": "one",
+      "options": {
+        "yes": "괜찮음",
+        "no": "어려움",
+        "unknown": "모름"
+      }
+    },
+    "kept": {
+      "name": "계속 쓸 가구",
+      "type": "multi",
+      "options": {
+        "desk": "책상",
+        "bed": "침대 프레임",
+        "mattress": "매트리스",
+        "ward": "옷장",
+        "storage": "수납장",
+        "chair": "의자",
+        "other": "기타"
+      }
+    },
+    "items": {
+      "name": "들이고 싶은 가구",
+      "type": "multi",
+      "options": {
+        "bed": "침대",
+        "mattress": "매트리스",
+        "ward": "옷장",
+        "desk0": "책상(단품)",
+        "desk": "책상세트",
+        "mdesk0": "모션데스크(단품)",
+        "mdesk": "모션데스크 책상세트",
+        "storage": "책장·수납류",
+        "chair": "의자",
+        "other": "기타 액세서리",
+        "light": "데스크 조명",
+        "organizer": "책상 정리용품",
+        "monitorarm": "모니터암",
+        "monitorstand": "모니터받침대"
+      }
+    },
+    "mandatory": {
+      "name": "꼭 필요한 가구",
+      "type": "multi",
+      "ref": "items"
+    },
+    "priority": {
+      "name": "가장 먼저 해결할 가구",
+      "type": "one",
+      "ref": "items"
+    },
+    "scope": {
+      "name": "추천 범위",
+      "type": "one",
+      "options": {
+        "needed": "고른 가구만",
+        "full": "다른 가구도 함께"
+      }
+    },
+    "mat": {
+      "name": "매트리스",
+      "type": "one",
+      "options": {
+        "new": "새 매트리스 필요",
+        "keep": "쓰던 매트리스 사용",
+        "unknown": "미정"
+      }
+    },
+    "needs": {
+      "name": "중요하게 생각하는 것",
+      "type": "multi",
+      "options": {
+        "study": "집중 학습 환경",
+        "storage": "넉넉한 수납",
+        "space": "좁은 방 알뜰 활용",
+        "separate": "몰입·휴식 분리",
+        "taste": "자녀 취향",
+        "motion": "높이 조절·자세 바꾸기",
+        "lasting": "성장해도 오래 사용",
+        "budget": "합리적인 가격"
+      }
+    },
+    "useSel": {
+      "name": "책상 사용 방식",
+      "type": "multi",
+      "options": {
+        "paper": "책·문제집 중심",
+        "digital": "전자기기 중심",
+        "both": "책·전자기기 모두",
+        "together": "부모·선생님과 함께"
+      }
+    },
+    "monitor": {
+      "name": "모니터 사용",
+      "type": "one",
+      "options": {
+        "yes": "사용",
+        "no": "미사용"
+      }
+    },
+    "motion": {
+      "name": "모션데스크",
+      "type": "one",
+      "options": {
+        "any": "모두 비교",
+        "want": "있으면 좋음",
+        "must": "꼭 필요",
+        "no": "일반만"
+      }
+    },
+    "storageType": {
+      "name": "수납 종류",
+      "type": "multi",
+      "options": {
+        "any": "미정",
+        "books": "책·문제집",
+        "clothes": "옷·의류",
+        "small": "학용품·작은 물건",
+        "mirror": "거울 수납"
+      }
+    },
+    "storageCount": {
+      "name": "수납 수량",
+      "type": "one",
+      "options": {
+        "1": "1개",
+        "2": "2개 이상"
+      }
+    },
+    "chair": {
+      "name": "의자 선호",
+      "type": "one",
+      "options": {
+        "auto": "나이에 맞게 추천",
+        "headrest": "머리 받침대",
+        "height": "높이 조절",
+        "allage": "연령 무관",
+        "RNG": "링고 2세대",
+        "ALR": "올라운드 HF",
+        "IBL": "아이블"
+      }
+    },
+    "colorPref": {
+      "name": "색상 선호",
+      "type": "one",
+      "options": {
+        "any": "상관없음",
+        "WWWW": "화이트",
+        "OSWW": "오크+화이트",
+        "OSOS": "오크"
+      }
+    },
+    "lightMount": {
+      "name": "조명 방식",
+      "type": "one",
+      "options": {
+        "base": "받침대형",
+        "clamp": "클램프형",
+        "any": "모두 비교"
+      }
+    },
+    "budget": {
+      "name": "예산",
+      "type": "one",
+      "options": {
+        "u50": "50만원 미만",
+        "50": "50~100만원",
+        "100": "100~150만원",
+        "150": "150~200만원",
+        "200": "200~250만원",
+        "250": "250~300만원",
+        "300": "300만원 이상",
+        "unknown": "미정"
+      }
+    },
+    "channel": {
+      "name": "구매 방향",
+      "type": "one",
+      "options": {
+        "both": "온라인+매장 모두",
+        "online": "온라인 구매",
+        "store": "매장 상담"
+      }
+    },
+    "region": {
+      "name": "거주 지역(시·도)",
+      "type": "one",
+      "options": {
+        "서울": "서울",
+        "경기": "경기",
+        "인천": "인천",
+        "부산": "부산",
+        "대구": "대구",
+        "광주": "광주",
+        "대전": "대전",
+        "울산": "울산",
+        "세종": "세종",
+        "강원": "강원",
+        "충북": "충북",
+        "충남": "충남",
+        "전북": "전북",
+        "전남": "전남",
+        "경북": "경북",
+        "경남": "경남",
+        "제주": "제주"
+      }
+    },
+    "deskExp": {
+      "name": "데스커 책상세트 사용",
+      "type": "one",
+      "options": {
+        "recent": "1년 이내 구매",
+        "old": "1년 넘게 사용",
+        "none": "사용 안 함"
+      }
+    },
+    "buyTime": {
+      "name": "구매 계획 시기",
+      "type": "one",
+      "options": {
+        "now": "이번 달",
+        "m3": "1~3개월",
+        "m6": "3~6개월",
+        "undecided": "미정"
+      }
+    },
+    "use": {
+      "name": "책상 사용 방식(요약)",
+      "type": "one",
+      "options": {
+        "paper": "책·문제집 중심",
+        "digital": "전자기기 중심",
+        "mixed": "함께 사용·미선택"
+      }
+    },
+    "color": {
+      "name": "가구 색상(구버전)",
+      "type": "one",
+      "options": {
+        "any": "지정 안 함",
+        "WWWW": "화이트",
+        "OSWW": "라이트오크+화이트",
+        "OSOS": "라이트오크"
+      }
+    }
+  },
+  "numbers": {
+    "width": "방 가로(cm)",
+    "depth": "방 세로(cm)",
+    "ceiling": "천장 높이(cm)",
+    "wallWidth": "책상 배치 유효 폭(cm)",
+    "cap": "최대 금액(만원)"
+  },
+  "texts": {
+    "ageOther": "자녀 나이(기타 입력)",
+    "reasonOther": "자녀방을 바꾸려는 이유(기타 입력)",
+    "roomOther": "자녀방 공간(기타 입력)",
+    "keptOther": "계속 쓸 가구(기타 입력)",
+    "district": "시·군·구"
+  },
+  "events": {
+    "select-result": "추천안 탭 선택",
+    "detail": "제품 상세",
+    "shop": "온라인 구매 안내",
+    "consult": "매장 상담표",
+    "share": "결과 공유",
+    "native-share": "휴대폰 공유",
+    "save-result": "상담표 저장",
+    "print": "인쇄/PDF",
+    "official": "공식몰 이동",
+    "stores": "매장 찾기",
+    "copy-list": "목록 복사",
+    "copy-code": "코드 복사",
+    "edit": "응답 수정"
+  },
+  "entries": {
+    "home": "첫 화면",
+    "direct": "설문 바로가기",
+    "shared": "공유 결과 링크"
+  },
+  "devices": {
+    "mobile": "휴대폰",
+    "tablet": "태블릿",
+    "pc": "PC"
+  }
+}

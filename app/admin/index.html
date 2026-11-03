@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>관리자 | DESKER 학생방 플래너</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/admin/assets/admin.css">
+</head>
+<body>
+<header class="top">
+  <div class="container">
+    <div class="brand">DESKER<small>학생방 플래너 관리자</small></div>
+    <div class="spacer"></div>
+    <span class="badge" id="storage"></span>
+    <button class="btn sm" id="pw-open" type="button">비밀번호 변경</button>
+    <form method="post" action="/admin/logout"><button class="btn sm" type="submit">로그아웃</button></form>
+  </div>
+</header>
+
+<main class="container">
+  <div class="filters">
+    <span class="fl">기간</span>
+    <input type="date" id="from"> <span>~</span> <input type="date" id="to">
+    <button class="btn sm" data-range="0">오늘</button>
+    <button class="btn sm" data-range="7">최근 7일</button>
+    <button class="btn sm" data-range="30">최근 30일</button>
+    <button class="btn sm" data-range="all">전체</button>
+    <div class="spacer"></div>
+    <button class="btn sm" id="reload">새로고침</button>
+    <button class="btn sm dark" id="export">엑셀 다운로드</button>
+  </div>
+
+  <nav class="tabs">
+    <button class="tab on" data-tab="insight">인사이트</button>
+    <button class="tab" data-tab="list">응답 목록</button>
+    <button class="tab" data-tab="feedback">고객 의견 <span class="fb-new" id="fb-new"></span></button>
+    <button class="tab" data-tab="data">데이터 관리</button>
+    <button class="tab" data-tab="qr">접속 QR</button>
+  </nav>
+
+  <!-- 인사이트 -->
+  <section class="pane on" id="pane-insight">
+    <div class="grid kpis" id="kpis"></div>
+    <div class="grid two">
+      <div class="card"><h3>설문 진행 단계</h3><div class="sub">방문한 사람 중 각 단계까지 온 비율</div><div id="funnel"></div></div>
+      <div class="card"><h3>일자별 방문 · 완료</h3><div class="sub">접속일 기준</div>
+        <div class="legend"><span><i style="background:var(--s-visit)"></i>방문</span><span><i style="background:var(--s-done)"></i>설문 완료</span></div>
+        <div class="trend" id="trend"></div></div>
+    </div>
+    <div class="grid two">
+      <div class="card"><h3>추천 결과 이후 행동</h3><div class="sub">설문 완료자 중 해당 버튼을 한 번 이상 누른 비율</div><div id="actions"></div></div>
+      <div class="card"><h3>선택한 추천안 유형</h3><div class="sub">마지막으로 선택·상담·구매 안내를 연 추천안 기준</div><div id="plantype"></div></div>
+    </div>
+
+    <div class="section-title">고객 응답 분포 <span style="font-weight:400;color:var(--muted)">· 설문 완료자 기준, 복수 선택 항목은 응답자 대비 비율</span></div>
+    <div class="grid dist" id="dists"></div>
+
+    <div class="section-title">교차 분석</div>
+    <div class="grid two">
+      <div class="card"><h3>연령 × 예산</h3><div class="sub">응답 수</div><div id="xt-age-budget"></div></div>
+      <div class="card"><h3>예산 구간별 선택안 금액</h3><div class="sub">선택한 추천안의 예상 구성금액 평균</div><div id="budget-amount"></div></div>
+    </div>
+    <div class="grid two">
+      <div class="card"><h3>연령별 의자 · 모션 선호</h3><div class="sub">응답 수</div><div id="xt-age-chair"></div></div>
+      <div class="card"><h3>선택안에 많이 포함된 제품 TOP 15</h3><div class="sub">선택한 추천안의 판매 품목 기준</div><div id="top-products"></div></div>
+    </div>
+  </section>
+
+  <!-- 응답 목록 -->
+  <section class="pane" id="pane-list">
+    <div class="list-filters">
+      <textarea id="s" rows="1" placeholder="여러 코드는 공백·쉼표·줄바꿈으로 구분 · 연령·예산·품목·제품코드·요청 검색"></textarea>
+      <label><input type="checkbox" id="only-done" checked> 완료한 응답만</label>
+      <button class="btn sm" id="reset">초기화</button>
+    </div>
+    <div class="statusbar"><span id="cnt"></span><span id="tc"></span></div>
+    <div class="table-wrap"><table class="std" id="respTable"><thead></thead><tbody></tbody></table></div>
+    <p class="note">헤더 좌클릭 = 정렬 · 우클릭 = 해당 컬럼 검색 · 행 클릭 = 상세 보기</p>
+  </section>
+
+  <!-- 고객 의견 -->
+  <section class="pane" id="pane-feedback">
+    <div class="grid kpis" id="fb-kpis"></div>
+    <div class="list-filters">
+      <textarea id="fb-s" rows="1" placeholder="여러 단어는 공백·쉼표·줄바꿈으로 구분 · 의견 내용·종류·화면 검색"></textarea>
+      <select id="fb-cat"><option value="">의견 종류 전체</option></select>
+      <select id="fb-st"><option value="">처리 상태 전체</option></select>
+      <button class="btn sm" id="fb-reset">초기화</button>
+      <div class="spacer"></div>
+      <button class="btn sm dark" id="fb-export">의견 엑셀 다운로드</button>
+    </div>
+    <div class="statusbar"><span id="fb-cnt"></span><span id="fb-tc"></span></div>
+    <div class="table-wrap"><table class="std" id="fbTable"><thead></thead><tbody></tbody></table></div>
+    <p class="note">헤더 좌클릭 = 정렬 · 우클릭 = 해당 컬럼 검색 · 행 클릭 = 의견 전체 보기 · 처리 상태는 표에서 바로 바꿀 수 있어요</p>
+  </section>
+
+  <!-- 데이터 관리 -->
+  <section class="pane" id="pane-data">
+    <div class="dm-top"><div id="dm-status" class="dm-status"></div><button class="btn primary" id="dm-preview" type="button">검사·미리보기 → 고객 페이지에 적용</button></div>
+    <div class="dm-subtabs" id="dm-subtabs"></div>
+    <div id="dm-body"><p class="note">불러오는 중…</p></div>
+  </section>
+
+  <!-- QR -->
+  <section class="pane" id="pane-qr">
+    <div class="grid qr-grid" id="qrs"></div>
+    <p class="note">이 주소는 지금 접속한 주소를 기준으로 만들어요. 외부 접속 허용 전에는 회사 네트워크 밖에서 열리지 않을 수 있어요.</p>
+  </section>
+</main>
+
+<div class="modal-bg" id="modal"><div class="modal" id="modal-body"></div></div>
+<div class="tip" id="tip"></div>
+<div class="dm-toast" id="dm-toast"></div>
+
+<script src="/admin/assets/qrcode.js"></script>
+<script src="/admin/assets/admin.js"></script>
+<script src="/admin/assets/admin_data.js"></script>
+<script src="/admin/assets/admin_feedback.js"></script>
+</body>
+</html>
