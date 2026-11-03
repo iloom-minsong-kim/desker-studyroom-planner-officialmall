@@ -29,8 +29,9 @@
   const COLS = {
     products: [
       { k: 'unit', t: 'select', o: 'unit', w: 80 }, { k: 'cat', t: 'select', o: 'cat', w: 130 },
-      { k: 'code', w: 120 }, { k: 'name', w: 380 }, { k: 'naver_url', w: 300 },
-      { k: 'price', w: 100, num: true }, { k: '_image', label: '이미지 파일', w: 150, ro: true }],
+      { k: 'code', w: 120 }, { k: 'name', w: 380 }, { k: 'official_url', w: 300 },
+      { k: 'price', w: 100, num: true }, { k: 'promo', t: 'check', w: 80 }, { k: 'promo_price', w: 100, num: true },
+      { k: 'promo_start', t: 'date', w: 130 }, { k: 'promo_end', t: 'date', w: 130 }, { k: '_image', label: '이미지 파일', w: 150, ro: true }],
     sales: [
       { k: 'code', w: 140 }, { k: 'group', t: 'select', o: 'group', w: 90 }, { k: 'name', w: 380 },
       { k: 'monthly', w: 130, num: true }],
@@ -127,6 +128,8 @@
       return `<button type="button" class="dm-multi" data-mi="${i}" data-mk="${c.k}">${esc(r[c.k] || '선택')}</button>`;
     }
     if (c.t === 'target' && (r.target_type || '전체') === '전체') return '<span class="dm-ro">—</span>';
+    if (c.t === 'check') return `<input type="checkbox" data-i="${i}" data-k="${c.k}" data-check="1"${r[c.k] === 'Y' ? ' checked' : ''}>`;
+    if (c.t === 'date') return `<input type="date" data-i="${i}" data-k="${c.k}" value="${esc(r[c.k])}">`;
     if (c.t === 'guide') {
       return `<select data-i="${i}" data-k="guide"><option value="">없음</option>${D.guides.map(g => `<option value="${g.id}"${g.id === r.guide ? ' selected' : ''}>${esc(g.name)}</option>`).join('')}</select>`;
     }
@@ -138,7 +141,7 @@
     if (tk.length > 1) parts.push(`${tk.length}개 코드 검색`);
     if (nf) parts.push(`컬럼필터 ${nf}개`);
     const help = {
-      products: '판매단위·구분은 목록에서 고르세요. 구분이 "책상+의자 세트"인 행은 명칭(책상세트 명칭 + 의자 이름)으로 구성을 자동 인식해요. 이 탭에 없는 제품은 추천하지 않아요.',
+      products: '공식몰 프로모션: [프로모션]을 체크하고 혜택가·기간(시작일~종료일, 비우면 상시)을 넣으면 결과 페이지에서 혜택 구성으로 먼저 보여줘요. 체크하지 않은 제품은 혜택 외 구성으로만 보여요. 판매단위·구분은 목록에서 고르세요. 구분이 "책상+의자 세트"인 행은 명칭(책상세트 명칭 + 의자 이름)으로 구성을 자동 인식해요. 이 탭에 없는 제품은 추천하지 않아요.',
       sales: '책상세트·모션데스크 세트의 월평균 판매량이에요. 일반·모션을 따로 비교해 판매량이 많을수록 우선 추천해요(조건이 맞는 제품 안에서).',
       rules: '설문 답변에 따라 제품 순서를 바꾸는 선호 규칙이에요. 등급: 우선 추천 > 추천 > (보통) > 비추천, 제외는 그 제품을 빼요(빼면 후보가 없을 땐 무시). 예산·꼭 필요한 가구·설치 조건은 바꾸지 않고, 조건을 통과한 제품들의 순서만 바꿔요. 대상 = 대상 구분(선택) 그리고 대상 조건(코드·특성·명칭 포함).',
       features: '추천 조건(단수·폭·벽고정·천장·색상)에 쓰는 값이에요. 모션·멀티·조명은 Y로 표시하고, 특징·구매 전 확인은 " | "로 나눠 적어요. 제품가이드는 PDF 탭에서 올린 파일을 고르세요.',
@@ -183,7 +186,7 @@
   document.addEventListener('input', e => {
     const el = e.target;
     if (el.id === 'dm-q') { view[sub].q = el.value; renderBody(); return; }
-    if (!el.closest('#dm-grid') || el.dataset.i == null) return;
+    if (!el.closest('#dm-grid') || el.dataset.i == null || el.dataset.check) return;
     D.rows[sub][+el.dataset.i][el.dataset.k] = el.value;
     if (!dirty[sub]) { dirty[sub] = true; renderShellKeepGrid(); }
   });
@@ -191,6 +194,11 @@
     const el = e.target;
     if (el.id === 'dm-all') { document.querySelectorAll('[data-sel]').forEach(x => { x.checked = el.checked; }); return; }
     if (el.id === 'dm-duponly') { view.guides.dupOnly = el.checked; renderGuides(); return; }
+    if (el.dataset.check && el.closest('#dm-grid')) {
+      D.rows[sub][+el.dataset.i][el.dataset.k] = el.checked ? 'Y' : '';
+      if (!dirty[sub]) { dirty[sub] = true; renderShellKeepGrid(); }
+      return;
+    }
     if (el.tagName === 'SELECT' && el.closest('#dm-grid') && el.dataset.i != null) {
       const row = D.rows[sub][+el.dataset.i];
       row[el.dataset.k] = el.value;

@@ -171,7 +171,7 @@ def _clean_answers(a) -> dict:
 
 def _clean_results(rs) -> list:
     out = []
-    for c in (rs if isinstance(rs, list) else [])[:3]:
+    for c in (rs if isinstance(rs, list) else [])[:6]:
         if not isinstance(c, dict):
             continue
         lines = []
@@ -183,7 +183,7 @@ def _clean_results(rs) -> list:
                     "color": _short(ln.get("color"), 10), "bundle": bool(ln.get("bundle")),
                 })
         out.append({"label": _short(c.get("label"), 40), "amount": _int(c.get("amount")),
-                    "partial": bool(c.get("partial")), "lines": lines})
+                    "partial": bool(c.get("partial")), "promo": bool(c.get("promo")), "lines": lines})
     return out
 
 
@@ -547,7 +547,8 @@ def admin_export(request: Request, frm: str | None = None, to: str | None = None
 # ── 데이터 관리(제품·판매량·제품특성) ───────────────────────
 HEADERS = {
     "products": {"unit": "판매단위", "cat": "구분", "code": "코드", "name": "공식명칭",
-                 "naver_url": "스마트스토어 링크", "price": "판매가"},
+                 "official_url": "공식몰 링크", "price": "판매가", "promo": "프로모션",
+                 "promo_price": "혜택가", "promo_start": "시작일", "promo_end": "종료일"},
     "sales": {"code": "코드", "group": "구분", "name": "명칭", "monthly": "월평균 판매량"},
     "features": {"code": "코드", "tier": "단수", "width": "폭(mm)", "depth": "깊이(mm)", "wall": "벽고정",
                  "min_ceiling": "최소 천장(cm)", "motion": "모션", "multi": "멀티", "light": "조명",

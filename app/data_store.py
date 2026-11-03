@@ -181,12 +181,15 @@ def diff(new, old):
     added, removed = sorted(set(np_) - set(op)), sorted(set(op) - set(np_))
     price = [(c, op[c]["price"], np_[c]["price"]) for c in np_ if c in op and str(op[c]["price"]) != str(np_[c]["price"])]
     named = [c for c in np_ if c in op and op[c]["name"].strip() != np_[c]["name"].strip()]
-    links = [c for c in np_ if (np_[c].get("naver_url") or "") != (op.get(c, {}).get("naver_url") or "")]
+    links = [c for c in np_ if (np_[c].get("official_url") or "") != (op.get(c, {}).get("official_url") or "")]
+    promo_keys = ("promo", "promo_price", "promo_start", "promo_end")
+    promos = [c for c in np_ if any((np_[c].get(k) or "") != (op.get(c, {}).get(k) or "") for k in promo_keys)]
     if added: out.append(f"제품 추가 {len(added)}건: {', '.join(added[:10])}{' …' if len(added) > 10 else ''}")
     if removed: out.append(f"제품 삭제 {len(removed)}건(추천에서 빠져요): {', '.join(removed[:10])}{' …' if len(removed) > 10 else ''}")
     if price: out.append(f"판매가 변경 {len(price)}건: " + ", ".join(f"{c} {int(float(a)):,}→{int(float(b)):,}원" for c, a, b in price[:8]) + (" …" if len(price) > 8 else ""))
     if named: out.append(f"명칭 변경 {len(named)}건")
-    if links: out.append(f"스마트스토어 링크 변경 {len(links)}건")
+    if links: out.append(f"공식몰 링크 변경 {len(links)}건")
+    if promos: out.append(f"프로모션 변경 {len(promos)}건: {', '.join(promos[:10])}{' …' if len(promos) > 10 else ''}")
     for tab, label in (("sales", "판매량"), ("features", "제품특성"), ("rules", "고객 기반 데이터")):
         key = (lambda r: r["code"]) if tab != "rules" else (lambda r: "|".join(str(r.get(k, "")) for k in C.RULE_COLS[:5]))
         a = {key(r): {k: str(v) for k, v in r.items() if k != "_carry"} for r in new.get(tab, [])}

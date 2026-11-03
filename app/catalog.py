@@ -23,9 +23,10 @@ UNITS = ("단품", "세트")
 WALLS = {"없음": "none", "조건부": "conditional", "필수": "required"}
 WALL_LABEL = {v: k for k, v in WALLS.items()}
 SALES_GROUPS = {"일반": "regular", "모션": "motion"}
-NAVER_RE = re.compile(r"^https://(smartstore|brand)\.naver\.com/[^/\s]+/products/\d+")
+URL_RE = re.compile(r"^https://[^/\s@]+\.[^/\s@]+(/\S*)?$")   # 공식몰 상품 링크(https, 계정정보 없음)
+DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
-PRODUCT_COLS = ["unit", "cat", "code", "name", "naver_url", "price"]
+PRODUCT_COLS = ["unit", "cat", "code", "name", "official_url", "price", "promo", "promo_price", "promo_start", "promo_end"]
 SALES_COLS = ["code", "group", "name", "monthly"]
 FEATURE_COLS = ["code", "tier", "width", "depth", "wall", "min_ceiling", "motion", "multi", "light",
                 "colors", "features", "checks", "guide"]
@@ -88,8 +89,21 @@ def validate(products, sales, features):
         p = _num(r.get("price"))
         if p in (None, "ERR") or p <= 0:
             errs.append(f"{tag}: 판매가는 0보다 큰 숫자여야 해요.")
-        if r.get("naver_url") and not NAVER_RE.match(r["naver_url"].strip()):
-            errs.append(f"{tag}: 스마트스토어 링크는 smartstore/brand.naver.com 상품 상세 주소여야 해요.")
+        if r.get("official_url") and not URL_RE.match(r["official_url"].strip()):
+            errs.append(f"{tag}: 공식몰 링크는 https:// 로 시작하는 상품 주소여야 해요.")
+        if _yes(r.get("promo")):
+            pp = _num(r.get("promo_price"))
+            if pp in (None, "ERR") or pp <= 0:
+                errs.append(f"{tag}: 프로모션을 체크했다면 혜택가는 0보다 큰 숫자여야 해요.")
+            elif p not in (None, "ERR") and pp >= p:
+                warns.append(f"{tag}: 혜택가가 판매가 이상이에요. 혜택이 아닌 가격으로 보여요.")
+            if not r.get("official_url"):
+                warns.append(f"{tag}: 프로모션 제품인데 공식몰 링크가 비어 있어요(구매 안내에서 '준비 중'으로 보여요).")
+        for k, label in (("promo_start", "시작일"), ("promo_end", "종료일")):
+            if r.get(k) and not DATE_RE.match(str(r[k]).strip()):
+                errs.append(f"{tag}: 프로모션 {label}은 2026-11-01 처럼 YYYY-MM-DD 로 적어 주세요.")
+        if r.get("promo_start") and r.get("promo_end") and str(r["promo_start"]).strip() > str(r["promo_end"]).strip():
+            errs.append(f"{tag}: 프로모션 시작일이 종료일보다 늦어요.")
     codes = {r.get("code"): r for r in products if r.get("code")}
     for r in products:
         if r.get("cat") == BUNDLE_LABEL and r.get("code"):
@@ -180,6 +194,15 @@ def compile_catalog(products, sales, features, base, has_image):
         BUNDLES.setdefault(d, {})[c] = {"code": r["code"], "name": r["name"].strip(),
                                          "variants": [{"color": col, "price": price, "row": None} for col in colors],
                                          "source": "데이터 관리"}
+    PROMO = {}
+    for r in products:
+        if not _yes(r.get("promo")) or not (r["code"] in P or r["cat"] == BUNDLE_LABEL):
+            continue
+        pp, reg = _num(r.get("promo_price")), _num(r.get("price"))
+        if pp in (None, "ERR") or pp <= 0 or pp >= reg:   # 혜택이 아닌 가격은 프로모션으로 보지 않는다
+            continue
+        PROMO[r["code"]] = {"price": int(pp), "regular": int(reg),
+                            "start": (r.get("promo_start") or "").strip(), "end": (r.get("promo_end") or "").strip()}
     SALES = {}
     for key, grp in SALES_GROUPS.items():
         rows = [r for r in sales if r.get("group") == key and r.get("code") in P and META[r["code"]]["cat"] in DESK_CATS]
@@ -193,11 +216,12 @@ def compile_catalog(products, sales, features, base, has_image):
     meta.update(productCount=len(P), bundleCount=sum(len(v) for v in BUNDLES.values()),
                 photoCount=sum(1 for c in P if c in has_image), source="데이터 관리")
     return {"P": P, "META": META, "BR": base["BR"], "BUNDLES": BUNDLES,
-            "REFERENCE_SIGNATURES": base.get("REFERENCE_SIGNATURES") or [], "meta": meta, "SALES_PRIORITY": SALES}
+            "REFERENCE_SIGNATURES": base.get("REFERENCE_SIGNATURES") or [], "meta": meta, "SALES_PRIORITY": SALES,
+            "PROMO": PROMO}
 
 
 def links_of(products):
-    return {r["code"]: r["naver_url"].strip() for r in products if (r.get("naver_url") or "").strip()}
+    return {r["code"]: r["official_url"].strip() for r in products if (r.get("official_url") or "").strip()}
 
 
 # ── 고객 기반 데이터(선호 규칙) ─────────────────────────

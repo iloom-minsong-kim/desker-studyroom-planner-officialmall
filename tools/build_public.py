@@ -137,14 +137,14 @@ REPLACEMENTS += [
     ('<button class="btn small-btn" data-v2copy="${esc(l.code)}">코드 복사</button>', ""),
     # ── 예상 금액 = 할인 전 정가 → 금액 바로 아래에 눈에 띄는 안내 ──
     ("function priceLabel(c){return '예상 금액';}",
-     "function priceLabel(c){return '예상 금액 (정가 기준)';}\n"
-     "const listNote=()=>'<p class=\"list-price-note\">💡 <b>할인 전 정가예요.</b><span>프로모션·멤버십 혜택으로 실제 구입가는 더 낮아요</span></p>';"),
+     "function priceLabel(c){return c&&c.promo?'혜택가 기준 예상 금액':(c&&c.saving>0?'예상 금액 (일부 혜택가 포함)':'예상 금액 (정가 기준)');}\n"
+     "const listNote=c=>c&&c.saving>0?'':'<p class=\"list-price-note\">💡 <b>할인 전 정가예요.</b><span>프로모션·멤버십 혜택으로 실제 구입가는 더 낮아요</span></p>';"),
     ('<span class="micro">${priceLabel(c)}</span><strong>${won(c.amount)}</strong></div><div class="summary-chips">',
-     '<span class="micro">${priceLabel(c)}</span><strong>${won(c.amount)}</strong>${listNote()}</div><div class="summary-chips">'),
+     '<span class="micro">${priceLabel(c)}</span><strong>${won(c.amount)}</strong>${listNote(c)}</div><div class="summary-chips">'),
     ('<span class="micro">${priceLabel(c)}</span><strong>${won(c.amount)}</strong></div>${notesHTML()}',
-     '<span class="micro">${priceLabel(c)}</span><strong>${won(c.amount)}</strong>${listNote()}</div>${notesHTML()}'),
+     '<span class="micro">${priceLabel(c)}</span><strong>${won(c.amount)}</strong>${listNote(c)}</div>${notesHTML()}'),
     ('<div class="info-box">${priceLabel(c)} <b>${won(c.amount)}</b>${notesHTML()}',
-     '<div class="info-box">${priceLabel(c)} <b>${won(c.amount)}</b>${listNote()}${notesHTML()}'),
+     '<div class="info-box">${priceLabel(c)} <b>${won(c.amount)}</b>${listNote(c)}${notesHTML()}'),
     (".card-total small{color:var(--muted);font-size:13px}",
      ".card-total small{color:var(--muted);font-size:13px}\n"
      ".list-price-note{margin:8px 0 0;padding:10px 12px;border-radius:10px;background:var(--hero-deep);border-left:4px solid var(--yellow);"
@@ -318,6 +318,66 @@ REPLACEMENTS += [
      "    if(dk&&SALES[dk]?.measured)add(1,'많은 분이 선택한 베스트셀러 책상이에요');"),
     ("consultOnly:`${role==='desk'?'책상':role==='storage'?'수납장':ITEMS[role]||role} 은(는) 지금 조건에",
      "consultOnly:`${(n=>n+josa(n,'는','은'))(role==='desk'?'책상':role==='storage'?'수납장':ITEMS[role]||role)} 지금 조건에"),
+]
+REPLACEMENTS += [
+    # ── 공식몰 버전: 스마트스토어 대신 공식몰 링크(https 상품 주소) 허용 ──
+    (r"function validNaver(raw){try{const u=new URL(raw);return u.protocol==='https:'&&!u.username&&!u.password&&['smartstore.naver.com','brand.naver.com','m.smartstore.naver.com'].includes(u.hostname)&&/^\/[^/]+\/products\/\d+\/?$/.test(u.pathname)?u.href:null;}catch(e){return null;}}",
+     "function validNaver(raw){try{const u=new URL(raw);return u.protocol==='https:'&&!u.username&&!u.password?u.href:null;}catch(e){return null;}}"),
+    (".btn.naver{background:#03A94D;color:#fff}",
+     ".btn.naver{background:#282828;color:#fff}\n"
+     ".promo-sec{grid-column:1/-1;margin:12px 0 0}.promo-title{font-size:20px;margin:0 0 4px}.promo-save{display:block;color:#c0392b;margin-top:2px}.promo-line s{color:#888;margin-right:4px}"),
+    # ── 프로모션: 혜택가 적용 구성 + 혜택 외 구성을 나눠서 추천 ──
+    ("function cTitle(c){return c.label||'필요한 제품 새 조합';}",
+     """function cTitle(c){return c.label||'필요한 제품 새 조합';}
+const TODAY=(()=>{const d=new Date(Date.now()+9*36e5);return d.toISOString().slice(0,10);})();
+const PROMO=DATA.PROMO||{};
+const promoLive=p=>!!p&&(!p.start||p.start<=TODAY)&&(!p.end||TODAY<=p.end);
+const lineLive=l=>promoLive(PROMO[l.code]);
+const allLive=c=>c.lines.length>0&&c.lines.every(lineLive);
+const promoAny=Object.values(PROMO).some(promoLive);
+function pricedData(onlyPromo){
+ const D=JSON.parse(JSON.stringify(DATA));
+ const liveBundleParts=new Set();
+ for(const d of Object.keys(D.BUNDLES||{}))for(const c of Object.keys(D.BUNDLES[d]))if(promoLive(PROMO[D.BUNDLES[d][c].code])){liveBundleParts.add(d);liveBundleParts.add(c);}
+ for(const code of Object.keys(D.P)){const pr=PROMO[code];
+  if(promoLive(pr)){D.P[code][2]=pr.price;(D.META[code].variants||[]).forEach(v=>{v.price=pr.price;});}
+  else if(onlyPromo&&!liveBundleParts.has(code)){delete D.P[code];delete D.META[code];if(D.SALES_PRIORITY)delete D.SALES_PRIORITY[code];}}
+ for(const d of Object.keys(D.BUNDLES||{})){for(const c of Object.keys(D.BUNDLES[d])){const b=D.BUNDLES[d][c],live=promoLive(PROMO[b.code]);
+   if(!D.P[d]||!D.P[c]||(onlyPromo&&!live)||(!live&&promoLive(PROMO[d])&&promoLive(PROMO[c]))){delete D.BUNDLES[d][c];continue;}
+   if(live)b.variants.forEach(v=>{v.price=PROMO[b.code].price;});}
+  if(!Object.keys(D.BUNDLES[d]).length)delete D.BUNDLES[d];}
+ return D;}
+let _eF=null,_eP=null;
+const planKey=c=>c.lines.map(l=>l.code+'x'+l.qty).sort().join('|');
+function annotatePromo(c,isPromo){
+ c.promo=isPromo;c.regularAmount=c.lines.reduce((s,l)=>s+(lineLive(l)?PROMO[l.code].regular*l.qty:l.amount),0);c.saving=c.regularAmount-c.amount;
+ const ends=c.lines.filter(lineLive).map(l=>PROMO[l.code].end).filter(Boolean).sort();c.promoEnd=ends.length?ends[0].slice(5).replace('-','/'):'';return c;}
+function recommendAll(ans){
+ if(!promoAny){_eF=_eF||engine;return _eF.recommend(ans);}
+ _eF=_eF||E.createEngine(pricedData(false));
+ const full=_eF.recommend(ans);let fromPromo=[];
+ try{_eP=_eP||E.createEngine(pricedData(true));fromPromo=(_eP.recommend(ans).results||[]).filter(allLive);}catch(e){fromPromo=[];}
+ const seen=new Set(),promoList=[];
+ for(const c of [...fromPromo,...(full.results||[]).filter(allLive)]){const k=planKey(c);if(!seen.has(k)){seen.add(k);promoList.push(c);}}
+ const promoCut=promoList.slice(0,3),rest=(full.results||[]).filter(c=>!allLive(c)).slice(0,3);
+ return {...full,promoCount:promoCut.length,results:[...promoCut.map(c=>annotatePromo(c,true)),...rest.map(c=>annotatePromo(c,false))]};}
+const rankLabel=(c,i)=>!promoAny?'추천 '+(i+1):(c.promo?'혜택 추천 '+(i+1):'일반 추천 '+(i-(result.promoCount||0)+1));
+const totalHTML=c=>`<div class="card-total"><span class="micro">${priceLabel(c)}</span><strong>${won(c.amount)}</strong>${c.saving>0?`<span class="micro promo-save">정상가 ${won(c.regularAmount)} 대비 ${won(c.saving)} 혜택${c.promoEnd?' · '+c.promoEnd+'까지':''}${c.promo?'':' (일부 제품만 혜택가)'}</span>`:''}${listNote(c)}</div>`;
+const lineAmount=l=>lineLive(l)?`<span class="promo-line"><s class="micro">${won(PROMO[l.code].regular*l.qty)}</s>${won(l.amount)} <span class="chip dark">혜택가</span></span>`:won(l.amount);
+function gridHTML(){
+ const rs=result.results,n=result.promoCount||0;if(!promoAny)return rs.map(card).join('');
+ const sec=(t,s,from,to)=>from<to?`<div class="promo-sec"><h2 class="promo-title">${t}</h2><p class="micro">${s}</p></div>`+rs.slice(from,to).map((c,j)=>card(c,from+j)).join(''):'';
+ return (n?sec('🎁 공식몰 혜택가 구성','지금 공식몰 프로모션이 적용 중인 제품과 혜택가로만 구성했어요. 종료일이 있는 혜택은 기간 안에서만 적용돼요.',0,n):'<div class="info-box promo-sec">지금 프로모션 제품만으로는 조건에 맞는 구성을 만들기 어려워요. 혜택 제품이 포함되면 혜택가로, 그 외는 정상가로 안내해 드려요.</div>')+sec(n?'혜택은 아니지만, 이런 구성도 있어요':'내 조건에 맞는 구성','혜택가가 적용되지 않는 제품이 포함된 구성이에요. 포함된 프로모션 제품은 혜택가로 계산했어요.',n,rs.length);}"""),
+    ("a=E.normalize(a);result=engine.recommend({...a,color:'any'});selected=",
+     "a=E.normalize(a);result=recommendAll({...a,color:'any'});selected="),
+    ("<section class=\"result-grid\">${result.results.map(card).join('')}</section>`;\n $('#root').innerHTML=`<div class=\"wrap\"><header class=\"result-header\"><div><div class=\"eyebrow\">${demo?",
+     "<section class=\"result-grid\">${gridHTML()}</section>`;\n $('#root').innerHTML=`<div class=\"wrap\"><header class=\"result-header\"><div><div class=\"eyebrow\">${demo?"),
+    ("<span class=\"rank-label\">추천 ${i+1}</span><span class=\"chip ${i===0?'dark':'light'}\">${c.salesMatched?'🔥 인기 제품 반영':'맞춤 구성'}</span>",
+     "<span class=\"rank-label\">${rankLabel(c,i)}</span><span class=\"chip ${c.promo?'dark':'light'}\">${c.promo?'🎁 공식몰 혜택가':(c.salesMatched?'🔥 인기 제품 반영':'맞춤 구성')}</span>"),
+    ("<div class=\"card-body\"><div class=\"card-total\"><span class=\"micro\">${priceLabel(c)}</span><strong>${won(c.amount)}</strong>${listNote(c)}</div><div class=\"summary-chips\">${c.keys.includes('DSEAB2201J')",
+     "<div class=\"card-body\">${totalHTML(c)}<div class=\"summary-chips\">${c.keys.includes('DSEAB2201J')"),
+    ("<div class=\"pp\">${won(l.amount)}</div></div>`).join('');}\nfunction card(",
+     "<div class=\"pp\">${lineAmount(l)}</div></div>`).join('');}\nfunction card("),
 ]
 GEO_FILE = ROOT / "source" / "sigungu.json"
 # 제품 데이터·링크·사진은 서버(app/data_store.py)가 활성 버전으로 채운다

@@ -35,9 +35,9 @@
 
   function summarize(res) {
     if (!res || !Array.isArray(res.results)) return [];
-    return res.results.slice(0, 3).map(function (c) {
+    return res.results.slice(0, 6).map(function (c) {
       return {
-        label: c.label || '', amount: c.amount || 0, partial: !!c.partial,
+        label: c.label || '', amount: c.amount || 0, partial: !!c.partial, promo: !!c.promo,
         lines: (c.lines || []).slice(0, 30).map(function (l) {
           return { code: l.code, name: l.name, qty: l.qty, amount: l.amount, color: l.color || '', bundle: !!l.bundle };
         })

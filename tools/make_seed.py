@@ -46,11 +46,11 @@ def main():
         p, m = P[code], M[code]
         price = m["variants"][0]["price"] if m["priceKind"] != "reference" and m["variants"] else p[2]
         products.append({"unit": unit.get(code, "단품"), "cat": CAT_LABEL[m["cat"]], "code": code, "name": p[1],
-                         "naver_url": links.get(code, ""), "price": price})
+                         "official_url": "", "price": price})
     for dk, d in cat["BUNDLES"].items():
         for ck, b in d.items():
             products.append({"unit": "세트", "cat": BUNDLE_LABEL, "code": b["code"], "name": b["name"],
-                             "naver_url": links.get(b["code"], ""), "price": b["variants"][0]["price"]})
+                             "official_url": "", "price": b["variants"][0]["price"]})
 
     sales = []
     with open(V3 / "internal" / "sales_mapping.csv", encoding="utf-8-sig") as f:
